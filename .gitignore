@@ -3,3 +3,30 @@
 ################################################################################
 
 /sistema_de_tesoreria/BussinessLayer/bin
+/sistema_de_tesoreria/BussinessLayer/obj
+/sistema_de_tesoreria/CommonObjects/bin
+/sistema_de_tesoreria/CommonObjects/obj
+/sistema_de_tesoreria/DataLayer/bin
+/sistema_de_tesoreria/DataLayer/obj
+/sistema_de_tesoreria/ImpresionManifiestos/bin
+/sistema_de_tesoreria/Lector Datos Cummins/bin
+/sistema_de_tesoreria/Lector Datos Cummins/obj/x86
+/sistema_de_tesoreria/LibreriaAccesoDatos/bin
+/sistema_de_tesoreria/LibreriaAccesoDatos/obj
+/sistema_de_tesoreria/LibreriaCummins/bin
+/sistema_de_tesoreria/LibreriaCummins/obj
+/sistema_de_tesoreria/LibreriaMensajes/bin
+/sistema_de_tesoreria/LibreriaMensajes/obj
+/sistema_de_tesoreria/LibreriaReportesOffice/bin
+/sistema_de_tesoreria/LibreriaReportesOffice/obj
+/sistema_de_tesoreria/SiAut/bin
+/sistema_de_tesoreria/SiAut/obj/x86
+/sistema_de_tesoreria/SiCom/bin
+/sistema_de_tesoreria/SiCom/obj
+/sistema_de_tesoreria/SisAlarmas/bin/Debug
+/sistema_de_tesoreria/SisAlarmas/obj/Debug
+/sistema_de_tesoreria/SisCompass/bin/Debug
+/sistema_de_tesoreria/SisCompass/obj/Debug
+/sistema_de_tesoreria/SisIncCompass/obj/Debug
+/sistema_de_tesoreria/SiSincData/bin/Debug
+/sistema_de_tesoreria/SiSincData/obj/x86/Debug

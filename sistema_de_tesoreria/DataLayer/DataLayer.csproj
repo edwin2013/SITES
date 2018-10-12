@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5E679041-3B09-4852-A83B-390E8E90F8E0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataLayer</RootNamespace>
+    <AssemblyName>DataLayer</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\ArqueosDL.cs" />
+    <Compile Include="Clases\AsignacionEquipoDL.cs" />
+    <Compile Include="Clases\ATMsDL.cs" />
+    <Compile Include="Clases\BolsaCompletaNiquelDL.cs" />
+    <Compile Include="Clases\BolsaPedidoBancoDL.cs" />
+    <Compile Include="Clases\CajaDL.cs" />
+    <Compile Include="Clases\CajeroNiquel_DL.cs" />
+    <Compile Include="Clases\CalidadBilletesDL.cs" />
+    <Compile Include="Clases\CamarasDL.cs" />
+    <Compile Include="Clases\CanalesDL.cs" />
+    <Compile Include="Clases\CantidadMonedasBolsaNiquelDL.cs" />
+    <Compile Include="Clases\cargaMasivaProaDL.cs" />
+    <Compile Include="Clases\CargasATMsDL.cs" />
+    <Compile Include="Clases\CargasDL.cs" />
+    <Compile Include="Clases\CargasEmergenciaATMsDL.cs" />
+    <Compile Include="Clases\CargasEmergenciaATMsFullDL.cs" />
+    <Compile Include="Clases\CargasEmergenciaSucursalesDL.cs" />
+    <Compile Include="Clases\CargasSucursalesDL.cs" />
+    <Compile Include="Clases\CargaTransportadoraDL.cs" />
+    <Compile Include="Clases\CartuchosCargasATMsDL.cs" />
+    <Compile Include="Clases\CartuchosCargaSucursalesDL.cs" />
+    <Compile Include="Clases\CartuchosCargaTransportadoraDL.cs" />
+    <Compile Include="Clases\CartuchosDL.cs" />
+    <Compile Include="Clases\CartuchosNiquelDL.cs" />
+    <Compile Include="Clases\CausasGestionDL.cs" />
+    <Compile Include="Clases\ChequesProcesadosDL.cs" />
+    <Compile Include="Clases\CierreBancoDL.cs" />
+    <Compile Include="Clases\CierreCajeroPROA_DL.cs" />
+    <Compile Include="Clases\CierreCargasATMsDL.cs" />
+    <Compile Include="Clases\CierrePedidoNiquelDL.cs" />
+    <Compile Include="Clases\CierresATMsDL.cs" />
+    <Compile Include="Clases\CierresBovedaCajerosDL.cs" />
+    <Compile Include="Clases\CierresCEFDL.cs" />
+    <Compile Include="Clases\CierreSucursalDL.cs" />
+    <Compile Include="Clases\CiudadesDL.cs" />
+    <Compile Include="Clases\ClientesDL.cs" />
+    <Compile Include="Clases\ColaboradoresDL.cs" />
+    <Compile Include="Clases\ColasCierreDL.cs" />
+    <Compile Include="Clases\ContadoresDescargasATMsDL.cs" />
+    <Compile Include="Clases\ContadoresDescargasATMsFullDL.cs" />
+    <Compile Include="Clases\CoordinacionDL.cs" />
+    <Compile Include="Clases\DenominacionesDL.cs" />
+    <Compile Include="Clases\DepositosDL.cs" />
+    <Compile Include="Clases\DescargasATMsDL.cs" />
+    <Compile Include="Clases\DescargasATMsFullDL.cs" />
+    <Compile Include="Clases\DetalleFallaDL.cs" />
+    <Compile Include="Clases\DispositivoDL.cs" />
+    <Compile Include="Clases\DocumentosDL.cs" />
+    <Compile Include="Clases\EmpresasTransporteDL.cs" />
+    <Compile Include="Clases\EntregaMesaNiquel_DL.cs" />
+    <Compile Include="Clases\EquipoDL.cs" />
+    <Compile Include="Clases\EquipoTesoreriaDL.cs" />
+    <Compile Include="Clases\EsperaDL.cs" />
+    <Compile Include="Clases\EsquemasManifiestosDL.cs" />
+    <Compile Include="Clases\EstadoCartuchoDL.cs" />
+    <Compile Include="Clases\FallaCartuchoDL.cs" />
+    <Compile Include="Clases\FeriadosDL.cs" />
+    <Compile Include="Clases\FichaTecnicaDL.cs" />
+    <Compile Include="Clases\FormulaDL.cs" />
+    <Compile Include="Clases\GarantiaCartuchoDL.cs" />
+    <Compile Include="Clases\GestionesDL.cs" />
+    <Compile Include="Clases\GruposDL.cs" />
+    <Compile Include="Clases\InconsistenciaFacturacionDL.cs" />
+    <Compile Include="Clases\InconsistenciaPlanillaDL.cs" />
+    <Compile Include="Clases\InconsistenciasDepositosDL.cs" />
+    <Compile Include="Clases\InconsistenciasDigitadoresDL.cs" />
+    <Compile Include="Clases\InconsistenciasManifiestosCEFDL.cs" />
+    <Compile Include="Clases\InventarioDL.cs" />
+    <Compile Include="Clases\LibroMayorBovedaDL.cs" />
+    <Compile Include="Clases\LibroMayorNiquelDL.cs" />
+    <Compile Include="Clases\LimiteEfectivoDL.cs" />
+    <Compile Include="Clases\ManifiestoBancoPedidoDL.cs" />
+    <Compile Include="Clases\ManifiestoPedidoNiquelDL.cs" />
+    <Compile Include="Clases\ManifiestosATMsCargasDL.cs" />
+    <Compile Include="Clases\ManifiestosATMsFullDL.cs" />
+    <Compile Include="Clases\ManifiestosBovedaDL.cs" />
+    <Compile Include="Clases\ManifiestosCEFDL.cs" />
+    <Compile Include="Clases\ManifiestosDL.cs" />
+    <Compile Include="Clases\ManifiestoSucursalCargaDL.cs" />
+    <Compile Include="Clases\ManojoDL.cs" />
+    <Compile Include="Clases\MontoBolsaNiquelDL.cs" />
+    <Compile Include="Clases\MontoRecaptFinalDL.cs" />
+    <Compile Include="Clases\MontoRecaptPreliminarDL.cs" />
+    <Compile Include="Clases\MontoRemanentesATMsDL.cs" />
+    <Compile Include="Clases\MontosBolsaSucursalesDL.cs" />
+    <Compile Include="Clases\MontosBolsaTransportadoraDL.cs" />
+    <Compile Include="Clases\MontosCierreATMsDL.cs" />
+    <Compile Include="Clases\MontosDescargasATMsFullDL.cs" />
+    <Compile Include="Clases\MontosRetirosATMsDL.cs" />
+    <Compile Include="Clases\MutiladoDL.cs" />
+    <Compile Include="Clases\NivelServicioDL.cs" />
+    <Compile Include="Clases\NivelTipoPenalidadDL.cs" />
+    <Compile Include="Clases\PedidoBancoDL.cs" />
+    <Compile Include="Clases\PedidoNiquelDL.cs" />
+    <Compile Include="Clases\PenalidadDL.cs" />
+    <Compile Include="Clases\PerfilesDL.cs" />
+    <Compile Include="Clases\ProcesamientoAltoVolumen_DL.cs" />
+    <Compile Include="Clases\ProcesamientoBajoVolumenDL.cs" />
+    <Compile Include="Clases\ProcesamientoNiquelDL.cs" />
+    <Compile Include="Clases\PromedioDescargaATMDL.cs" />
+    <Compile Include="Clases\PromedioRemanenteATMDL.cs" />
+    <Compile Include="Clases\ProveedorCartuchoDL.cs" />
+    <Compile Include="Clases\ProveedorEquipoDL.cs" />
+    <Compile Include="Clases\PuestosColaboradorDL.cs" />
+    <Compile Include="Clases\PuntoAtencionDL.cs" />
+    <Compile Include="Clases\PuntosVentaDL.cs" />
+    <Compile Include="Clases\RecapsExternosDL.cs" />
+    <Compile Include="Clases\RecaptFinalDL.cs" />
+    <Compile Include="Clases\RecaptPreliminarDL.cs" />
+    <Compile Include="Clases\RechazosDescargasATMsDL.cs" />
+    <Compile Include="Clases\RegistroDenominacionesCierreDL.cs" />
+    <Compile Include="Clases\RegistroPenalidadDL.cs" />
+    <Compile Include="Clases\RegistrosErroresCierresDL.cs" />
+    <Compile Include="Clases\RegistrosHorasExtraDL.cs" />
+    <Compile Include="Clases\RegistrosRemanentesATMsDL.cs" />
+    <Compile Include="Clases\Reportes\CartuchoMutiladoDL.cs" />
+    <Compile Include="Clases\Reportes\CategoriasReportesDL.cs" />
+    <Compile Include="Clases\FallaDL.cs" />
+    <Compile Include="Clases\Reportes\ParametrosDL.cs" />
+    <Compile Include="Clases\Reportes\ReportesDL.cs" />
+    <Compile Include="Clases\RequerimientoMantenimientoDL.cs" />
+    <Compile Include="Clases\ResumenFacturacionClientesDL.cs" />
+    <Compile Include="Clases\ResumenFacturacionTransportadoraDL.cs" />
+    <Compile Include="Clases\SaldoLibroBovedaDL.cs" />
+    <Compile Include="Clases\SaldoLibroNiquelDL.cs" />
+    <Compile Include="Clases\TipoEquipoDL.cs" />
+    <Compile Include="Clases\TipoFallaBlindadosDL.cs" />
+    <Compile Include="Clases\TipoPenalidadDL.cs" />
+    <Compile Include="Clases\TripulacionDL.cs" />
+    <Compile Include="Clases\VehiculoDL.cs" />
+    <Compile Include="Clases\SegregadosDL.cs" />
+    <Compile Include="Clases\SobresDL.cs" />
+    <Compile Include="Clases\SucursalesDL.cs" />
+    <Compile Include="Clases\TipoCambioDL.cs" />
+    <Compile Include="Clases\TiposErrorCierreCajeroDL.cs" />
+    <Compile Include="Clases\TiposGestionDL.cs" />
+    <Compile Include="Clases\TrialesDescargasATMsDL.cs" />
+    <Compile Include="Clases\TulasDL.cs" />
+    <Compile Include="Clases\UbicacionesDL.cs" />
+    <Compile Include="Clases\ValoresDL.cs" />
+    <Compile Include="Clases\PlanillasEmpresasDL.cs" />
+    <Compile Include="Clases\MontosBolsasPedidoBancoDL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommonObjects\CommonObjects.csproj">
+      <Project>{EAF589B1-60BD-42C9-B4B9-EE14FC71FB25}</Project>
+      <Name>CommonObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibreriaAccesoDatos\LibreriaAccesoDatos.csproj">
+      <Project>{36D41F2A-8C87-41A9-8631-3A9CF05B2B05}</Project>
+      <Name>LibreriaAccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibreriaMensajes\LibreriaMensajes.csproj">
+      <Project>{E67947FE-29BA-4E90-9D88-444316C743E4}</Project>
+      <Name>LibreriaMensajes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

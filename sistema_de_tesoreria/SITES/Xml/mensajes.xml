@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mensajes>
+
+
+  <ManifiestoDuplicado>
+    <Mensaje>El manifiesto ya se encuentra en la base de datos</Mensaje>
+    <Titulo>Manifiesto Duplicado</Titulo>
+  </ManifiestoDuplicado>
+  
+  <MensajeArqueoConfirmacionRegistro>
+    <Mensaje>El arqueo fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Arqueo</Titulo>
+  </MensajeArqueoConfirmacionRegistro>
+  
+  
+  <MensajeCajaRegistro>
+    <Mensaje>¿Desea registrar la nueva caja?</Mensaje>
+    <Titulo>Agregar Caja</Titulo>
+  </MensajeCajaRegistro>
+
+  <MensajeCajaConfirmacionRegistro>
+    <Mensaje>La caja fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Caja</Titulo>
+  </MensajeCajaConfirmacionRegistro>
+
+  <MensajeCajaConfirmacionActualizacion>
+    <Mensaje>La caja fue actualizada correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Caja</Titulo>
+  </MensajeCajaConfirmacionActualizacion>
+
+  <MensajeCajaEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la caja seleccionada?</Mensaje>
+    <Titulo>Eliminar Caja</Titulo>
+  </MensajeCajaEliminacion>
+
+  <MensajeCajaConfirmacionEliminacion>
+    <Mensaje>La caja seleccionada fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar Caja</Titulo>
+  </MensajeCajaConfirmacionEliminacion>
+
+
+
+  <MensajeCierreConfirmacionRegistro>
+    <Mensaje>El cierre fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Registrar Cierre</Titulo>
+  </MensajeCierreConfirmacionRegistro>
+
+  <MensajeCierreConfirmacionActualizacion>
+    <Mensaje>El cierre fue actualizado correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Cierre</Titulo>
+  </MensajeCierreConfirmacionActualizacion>
+
+  <MensajeCierreEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del cierre?</Mensaje>
+    <Titulo>Eliminar Cierre</Titulo>
+  </MensajeCierreEliminacion>
+
+  <MensajeCierreConfirmacionEliminacion>
+    <Mensaje>Los datos del cierre fueron eliminados del sistema correctamente</Mensaje>
+    <Titulo>Eliminar Cierre</Titulo>
+  </MensajeCierreConfirmacionEliminacion>
+
+
+  <MensajeDenominacionRegistro>
+    <Mensaje>¿Desea registrar a la denominación?</Mensaje>
+    <Titulo>Agregar Denominación</Titulo>
+  </MensajeDenominacionRegistro>
+
+
+  <MensajeDenominacionConfirmacionRegistro>
+    <Mensaje>La denominación fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Registrar Denominación</Titulo>
+  </MensajeDenominacionConfirmacionRegistro>
+  
+  
+  <MensajeCierreDenominacionesCorteConfirmacionRegistro>
+    <Mensaje>Los montos del corte fueron registrados correctamente en la base de datos</Mensaje>
+    <Titulo>Registrar Corte del Cierre por Denominación</Titulo>
+  </MensajeCierreDenominacionesCorteConfirmacionRegistro>
+  
+  <MensajeRegistroDenominacionesCierreConfirmacionRegistro>
+    <Mensaje>Los montos del cierre fueron registrados correctamente en la base de datos</Mensaje>
+    <Titulo>Registrar Montos por Denominación del Cierre</Titulo>
+  </MensajeRegistroDenominacionesCierreConfirmacionRegistro>
+
+  <MensajeRegistroDenominacionesCierreConfirmacionActualizacion>
+    <Mensaje>Los montos del cierre fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Montos por Denominación del Cierre</Titulo>
+  </MensajeRegistroDenominacionesCierreConfirmacionActualizacion>
+
+  <MensajeRegistroDenominacionesCierreEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los montos del cierre?</Mensaje>
+    <Titulo>Eliminar Montos por Denominación del Cierre</Titulo>
+  </MensajeRegistroDenominacionesCierreEliminacion>
+
+  <MensajeRegistroDenominacionesCierreConfirmacionEliminacion>
+    <Mensaje>Los montos del cierre fueron eliminados del sistema correctamente</Mensaje>
+    <Titulo>Eliminar Montos por Denominación del Cierre</Titulo>
+  </MensajeRegistroDenominacionesCierreConfirmacionEliminacion>
+  
+  
+  
+  <MensajeColaboradorRegistro>
+    <Mensaje>¿Desea registrar al nuevo colaborador?</Mensaje>
+    <Titulo>Agregar Colaborador</Titulo>
+  </MensajeColaboradorRegistro>
+
+  <MensajeColaboradorConfirmacionRegistro>
+    <Mensaje>El colaborador fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Colaborador</Titulo>
+  </MensajeColaboradorConfirmacionRegistro>
+
+  <MensajeColaboradorConfirmacionActualizacion>
+    <Mensaje>Los datos del colaborador fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Colaborador</Titulo>
+  </MensajeColaboradorConfirmacionActualizacion>
+
+  <MensajeColaboradorEliminacion>
+    <Mensaje>¿Está seguro que desea eliminar los datos del colaborador seleccionado?</Mensaje>
+    <Titulo>Eliminar Colaborador</Titulo>
+  </MensajeColaboradorEliminacion>
+
+  <MensajeColaboradorConfirmacionEliminacion>
+    <Mensaje>Los datos del colaborador seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Colaborador</Titulo>
+  </MensajeColaboradorConfirmacionEliminacion>
+
+  <MensajeColaboradorConfirmacionActualizacionContrasena>
+    <Mensaje>La contraseña fue actalizada correctamente</Mensaje>
+    <Titulo>Actualizar Contraseña</Titulo>
+  </MensajeColaboradorConfirmacionActualizacionContrasena>
+
+
+
+  <MensajePuntoVentaRegistro>
+    <Mensaje>¿Desea registrar el nuevo punto de venta para el cliente?</Mensaje>
+    <Titulo>Agregar Punto de Venta</Titulo>
+  </MensajePuntoVentaRegistro>
+
+  <MensajePuntoVentaConfirmacionRegistro>
+    <Mensaje>El punto de venta fue registrado correctamente</Mensaje>
+    <Titulo>Agregar Punto de Venta</Titulo>
+  </MensajePuntoVentaConfirmacionRegistro>
+  
+  
+  
+  <MensajeClienteRegistro>
+    <Mensaje>¿Desea registrar al nuevo cliente?</Mensaje>
+    <Titulo>Agregar Cliente</Titulo>
+  </MensajeClienteRegistro>
+
+  <MensajeClienteConfirmacionRegistro>
+    <Mensaje>El cliente fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Cliente</Titulo>
+  </MensajeClienteConfirmacionRegistro>
+
+  <MensajeClienteConfirmacionActualizacion>
+    <Mensaje>Los datos del cliente dueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Cliente</Titulo>
+  </MensajeClienteConfirmacionActualizacion>
+
+  <MensajeClienteEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del cliente seleccionado?</Mensaje>
+    <Titulo>Eliminar Cliente</Titulo>
+  </MensajeClienteEliminacion>
+
+  <MensajeClienteConfirmacionEliminacion>
+    <Mensaje>Los datos del cliente seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Cliente</Titulo>
+  </MensajeClienteConfirmacionEliminacion>
+
+
+
+  <MensajeEmpresaTransporteRegistro>
+    <Mensaje>¿Desea registrar a la nueva empresa de transporte?</Mensaje>
+    <Titulo>Agregar Empresa de Transporte</Titulo>
+  </MensajeEmpresaTransporteRegistro>
+
+  <MensajeEmpresaTransporteConfirmacionRegistro>
+    <Mensaje>La empresa de transporte fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Empresa de Transporte</Titulo>
+  </MensajeEmpresaTransporteConfirmacionRegistro>
+
+  <MensajeEmpresaTransporteConfirmacionActualizacion>
+    <Mensaje>Los datos de la empresa de transporte fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Empresa de Transporte</Titulo>
+  </MensajeEmpresaTransporteConfirmacionActualizacion>
+
+  <MensajeEmpresaTransporteEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos de la empresa de transporte seleccionada?</Mensaje>
+    <Titulo>Eliminar Empresa de Transporte</Titulo>
+  </MensajeEmpresaTransporteEliminacion>
+
+  <MensajeEmpresaTransporteConfirmacionEliminacion>
+    <Mensaje>Los datos de la empresa de transporte seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Empresa de Transporte</Titulo>
+  </MensajeEmpresaTransporteConfirmacionEliminacion>
+
+
+
+  <MensajeCamaraRegistro>
+    <Mensaje>¿Desea registrar a la nueva cámara?</Mensaje>
+    <Titulo>Agregar Cámara</Titulo>
+  </MensajeCamaraRegistro>
+
+  <MensajeCamaraConfirmacionRegistro>
+    <Mensaje>La cámara fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Cámara</Titulo>
+  </MensajeCamaraConfirmacionRegistro>
+
+  <MensajeCamaraConfirmacionActualizacion>
+    <Mensaje>Los datos de la cámara fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Cámara</Titulo>
+  </MensajeCamaraConfirmacionActualizacion>
+
+  <MensajeCamaraEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos de la cámara seleccionada?</Mensaje>
+    <Titulo>Eliminar Cámara</Titulo>
+  </MensajeCamaraEliminacion>
+
+  <MensajeCamaraConfirmacionEliminacion>
+    <Mensaje>Los datos de la cámara seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Cámara</Titulo>
+  </MensajeCamaraConfirmacionEliminacion>
+
+
+
+  <MensajeSucursalRegistro>
+    <Mensaje>¿Desea registrar a la nueva sucursal?</Mensaje>
+    <Titulo>Agregar Sucursal</Titulo>
+  </MensajeSucursalRegistro>
+
+  <MensajeSucursalConfirmacionRegistro>
+    <Mensaje>La sucursal fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Sucursal</Titulo>
+  </MensajeSucursalConfirmacionRegistro>
+
+  <MensajeSucursalConfirmacionActualizacion>
+    <Mensaje>Los datos de la sucursal fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Sucursal</Titulo>
+  </MensajeSucursalConfirmacionActualizacion>
+
+  <MensajeSucursalEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos de la sucursal seleccionada?</Mensaje>
+    <Titulo>Eliminar Sucursal</Titulo>
+  </MensajeSucursalEliminacion>
+
+  <MensajeSucursalConfirmacionEliminacion>
+    <Mensaje>Los datos de la sucursal seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Sucursal</Titulo>
+  </MensajeSucursalConfirmacionEliminacion>
+
+
+
+  <MensajeUbicacionRegistro>
+    <Mensaje>¿Desea registrar a la nueva ubicación?</Mensaje>
+    <Titulo>Agregar Ubicación</Titulo>
+  </MensajeUbicacionRegistro>
+
+  <MensajeUbicacionConfirmacionRegistro>
+    <Mensaje>La ubicación fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Ubicación</Titulo>
+  </MensajeUbicacionConfirmacionRegistro>
+
+  <MensajeUbicacionConfirmacionActualizacion>
+    <Mensaje>Los datos de la ubicación fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Ubicación</Titulo>
+  </MensajeUbicacionConfirmacionActualizacion>
+
+  <MensajeUbicacionEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos de la ubicación seleccionada?</Mensaje>
+    <Titulo>Eliminar Ubicación</Titulo>
+  </MensajeUbicacionEliminacion>
+
+  <MensajeUbicacionConfirmacionEliminacion>
+    <Mensaje>Los datos de la ubicación seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Ubicación</Titulo>
+  </MensajeUbicacionConfirmacionEliminacion>
+
+
+
+  <MensajeATMRegistro>
+    <Mensaje>¿Desea registrar el nuevo ATM?</Mensaje>
+    <Titulo>Agregar ATM</Titulo>
+  </MensajeATMRegistro>
+
+  <MensajeATMConfirmacionRegistro>
+    <Mensaje>El ATM fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar ATM</Titulo>
+  </MensajeATMConfirmacionRegistro>
+
+  <MensajeATMConfirmacionActualizacion>
+    <Mensaje>Los datos del ATM fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar ATM</Titulo>
+  </MensajeATMConfirmacionActualizacion>
+
+  <MensajeATMEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del ATM seleccionado?</Mensaje>
+    <Titulo>Eliminar ATM</Titulo>
+  </MensajeATMEliminacion>
+
+  <MensajeATMConfirmacionEliminacion>
+    <Mensaje>Los datos del ATM seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar ATM</Titulo>
+  </MensajeATMConfirmacionEliminacion>
+
+
+
+  <MensajeCartuchoRegistro>
+    <Mensaje>¿Desea registrar el nuevo cartucho?</Mensaje>
+    <Titulo>Agregar Cartucho</Titulo>
+  </MensajeCartuchoRegistro>
+
+  <MensajeCartuchoConfirmacionRegistro>
+    <Mensaje>El cartucho fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Cartucho</Titulo>
+  </MensajeCartuchoConfirmacionRegistro>
+
+  <MensajeCartuchoConfirmacionActualizacion>
+    <Mensaje>Los datos del cartucho fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Cartucho</Titulo>
+  </MensajeCartuchoConfirmacionActualizacion>
+
+  <MensajeCartuchoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del cartucho seleccionado?</Mensaje>
+    <Titulo>Eliminar Cartucho</Titulo>
+  </MensajeCartuchoEliminacion>
+
+  <MensajeCartuchoConfirmacionEliminacion>
+    <Mensaje>Los datos del cartucho seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Cartucho</Titulo>
+  </MensajeCartuchoConfirmacionEliminacion>
+
+  <MensajeCartuchoDenominacionCarga>
+    <Mensaje>La denominación del cartucho no coincide con la denominación de la carga ¿Desea actualizarlo?</Mensaje>
+    <Titulo>Problema de Denominación de Cartucho</Titulo>
+  </MensajeCartuchoDenominacionCarga>
+
+  <MensajeCartuchoTipoCarga>
+    <Mensaje>El tipo del cartucho no coincide con el tipo de la carga, ¿Desea actualizarlo?</Mensaje>
+    <Titulo>Problema de Tipo de Cartucho</Titulo>
+  </MensajeCartuchoTipoCarga>
+
+  <MensajeCartuchoEstadoCarga>
+    <Mensaje>El estado del cartucho no es válido, ¿Desea actualizarlo?</Mensaje>
+    <Titulo>Problema de Estado de Cartucho</Titulo>
+  </MensajeCartuchoEstadoCarga>
+  
+  
+  
+  <MensajeCanalRegistro>
+    <Mensaje>¿Desea registrar el nuevo canal?</Mensaje>
+    <Titulo>Agregar Canal</Titulo>
+  </MensajeCanalRegistro>
+
+  <MensajeCanalConfirmacionRegistro>
+    <Mensaje>El canal fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Canal</Titulo>
+  </MensajeCanalConfirmacionRegistro>
+
+  <MensajeCanalConfirmacionActualizacion>
+    <Mensaje>Los datos del canal fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Canal</Titulo>
+  </MensajeCanalConfirmacionActualizacion>
+
+  <MensajeCanalEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del canal seleccionado?</Mensaje>
+    <Titulo>Eliminar Canal</Titulo>
+  </MensajeCanalEliminacion>
+
+  <MensajeCanalConfirmacionEliminacion>
+    <Mensaje>Los datos del canal seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Canal</Titulo>
+  </MensajeCanalConfirmacionEliminacion>
+  
+  
+  
+  <MensajeGrupoRegistro>
+    <Mensaje>¿Desea registrar al nuevo grupo de cajas?</Mensaje>
+    <Titulo>Agregar Grupo de Cajas</Titulo>
+  </MensajeGrupoRegistro>
+
+  <MensajeGrupoConfirmacionRegistro>
+    <Mensaje>El grupo de cajas fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Grupo de Cajas</Titulo>
+  </MensajeGrupoConfirmacionRegistro>
+
+  <MensajeGrupoConfirmacionActualizacion>
+    <Mensaje>El grupo de cajas fue actualizado correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Grupo de Cajas</Titulo>
+  </MensajeGrupoConfirmacionActualizacion>
+
+  <MensajeGrupoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar el grupo de cajas seleccionado?</Mensaje>
+    <Titulo>Eliminar Grupo de Cajas</Titulo>
+  </MensajeGrupoEliminacion>
+
+  <MensajeGrupoConfirmacionEliminacion>
+    <Mensaje>El grupo de cajas seleccionado fue eliminado correctamente</Mensaje>
+    <Titulo>Eliminar Grupo de Cajas</Titulo>
+  </MensajeGrupoConfirmacionEliminacion>
+
+
+
+  <MensajeTipoGestionRegistro>
+    <Mensaje>¿Desea registrar el nuevo tipo de gestión?</Mensaje>
+    <Titulo>Agregar Tipo de Gestión</Titulo>
+  </MensajeTipoGestionRegistro>
+
+  <MensajeTipoGestionConfirmacionRegistro>
+    <Mensaje>El tipo de gestión fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Tipo de Gestión</Titulo>
+  </MensajeTipoGestionConfirmacionRegistro>
+
+  <MensajeTipoGestionConfirmacionActualizacion>
+    <Mensaje>Los datos del tipo de gestión fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Tipo de Gestión</Titulo>
+  </MensajeTipoGestionConfirmacionActualizacion>
+
+  <MensajeTipoGestionEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del tipo de gestión?</Mensaje>
+    <Titulo>Eliminar Tipo de Gestión</Titulo>
+  </MensajeTipoGestionEliminacion>
+
+  <MensajeTipoGestionConfirmacionEliminacion>
+    <Mensaje>Los datos del tipo de gestión seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Tipo de Gestión</Titulo>
+  </MensajeTipoGestionConfirmacionEliminacion>
+
+
+
+  <MensajeCausaGestionRegistro>
+    <Mensaje>¿Desea registrar la nueva causa de gestión?</Mensaje>
+    <Titulo>Agregar Causa de Gestión</Titulo>
+  </MensajeCausaGestionRegistro>
+
+  <MensajeCausaGestionConfirmacionRegistro>
+    <Mensaje>La causa de gestión fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Causa de Gestión</Titulo>
+  </MensajeCausaGestionConfirmacionRegistro>
+
+  <MensajeCausaGestionConfirmacionActualizacion>
+    <Mensaje>Los datos de la causa de gestión fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Causa de Gestión</Titulo>
+  </MensajeCausaGestionConfirmacionActualizacion>
+
+  <MensajeCausaGestionEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la causa de gestión seleccionada?</Mensaje>
+    <Titulo>Eliminar Causa de Gestión</Titulo>
+  </MensajeCausaGestionEliminacion>
+
+  <MensajeCausaGestionConfirmacionEliminacion>
+    <Mensaje>Los datos de la causa de gestión seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Causa de Gestión</Titulo>
+  </MensajeCausaGestionConfirmacionEliminacion>
+
+
+
+  <MensajeEsquemaManifiestoRegistro>
+    <Mensaje>¿Desea registrar el nuevo esquema de manifiesto?</Mensaje>
+    <Titulo>Agregar Esquema de Manifiesto</Titulo>
+  </MensajeEsquemaManifiestoRegistro>
+
+  <MensajeEsquemaManifiestoConfirmacionRegistro>
+    <Mensaje>La empresa de transporte fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Esquema de Manifiesto</Titulo>
+  </MensajeEsquemaManifiestoConfirmacionRegistro>
+
+  <MensajeEsquemaManifiestoConfirmacionActualizacion>
+    <Mensaje>Los datos del esquema de manifiesto fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Esquema de Manifiesto</Titulo>
+  </MensajeEsquemaManifiestoConfirmacionActualizacion>
+
+  <MensajeEsquemaManifiestoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del esquema de manifiesto?</Mensaje>
+    <Titulo>Eliminar Esquema de Manifiesto</Titulo>
+  </MensajeEsquemaManifiestoEliminacion>
+
+  <MensajeEsquemaManifiestoConfirmacionEliminacion>
+    <Mensaje>Los datos del esquema de manifiesto seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Esquema de Manifiesto</Titulo>
+  </MensajeEsquemaManifiestoConfirmacionEliminacion>
+
+
+  
+  <MensajePerfilRegistro>
+    <Mensaje>¿Desea registrar el nuevo perfil?</Mensaje>
+    <Titulo>Agregar Perfil</Titulo>
+  </MensajePerfilRegistro>
+
+  <MensajePerfilConfirmacionRegistro>
+    <Mensaje>El perfil fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Perfil</Titulo>
+  </MensajePerfilConfirmacionRegistro>
+
+  <MensajePerfilConfirmacionActualizacion>
+    <Mensaje>Los datos del perfil fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Perfil</Titulo>
+  </MensajePerfilConfirmacionActualizacion>
+
+  <MensajePerfilEliminacion>
+    <Mensaje>¿Está seguro que desea eliminar los datos del perfil seleccionado?</Mensaje>
+    <Titulo>Eliminar Perfil</Titulo>
+  </MensajePerfilEliminacion>
+
+  <MensajePerfilConfirmacionEliminacion>
+    <Mensaje>Los datos del perfil seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Perfil</Titulo>
+  </MensajePerfilConfirmacionEliminacion>
+  
+  
+  <MensajePuestoRegistro>
+    <Mensaje>¿Desea registrar el nuevo puesto?</Mensaje>
+    <Titulo>Agregar Puesto</Titulo>
+  </MensajePuestoRegistro>
+
+  <MensajePuestoConfirmacionRegistro>
+    <Mensaje>El puesto fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Puesto</Titulo>
+  </MensajePuestoConfirmacionRegistro>
+
+  <MensajePuestoConfirmacionActualizacion>
+    <Mensaje>Los datos del puesto fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Puesto</Titulo>
+  </MensajePuestoConfirmacionActualizacion>
+
+  <MensajePuestoEliminacion>
+    <Mensaje>¿Está seguro que desea eliminar los datos del puesto seleccionado?</Mensaje>
+    <Titulo>Eliminar Puesto</Titulo>
+  </MensajePuestoEliminacion>
+
+  <MensajePuestoConfirmacionEliminacion>
+    <Mensaje>Los datos del puesto seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Puesto</Titulo>
+  </MensajePuestoConfirmacionEliminacion>
+  
+  
+    
+  <MensajeGestionRegistro>
+    <Mensaje>¿Desea registrar la nueva gestión?</Mensaje>
+    <Titulo>Agregar Gestión</Titulo>
+  </MensajeGestionRegistro>
+
+  <MensajeGestionConfirmacionRegistro>
+    <Mensaje>La gestión fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Gestión</Titulo>
+  </MensajeGestionConfirmacionRegistro>
+
+  <MensajeGestionConfirmacionActualizacion>
+    <Mensaje>Los datos de la gestión fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Gestión</Titulo>
+  </MensajeGestionConfirmacionActualizacion>
+
+  <MensajeGestionEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la gestión seleccionada?</Mensaje>
+    <Titulo>Eliminar Gestión</Titulo>
+  </MensajeGestionEliminacion>
+
+  <MensajeGestionConfirmacionEliminacion>
+    <Mensaje>Los datos de la gestión seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Gestión</Titulo>
+  </MensajeGestionConfirmacionEliminacion>
+
+  <MensajeGestionTerminacion>
+    <Mensaje>¿Esta seguro que desea terminar la gestión seleccionada?</Mensaje>
+    <Titulo>Terminar Gestión</Titulo>
+  </MensajeGestionTerminacion>
+
+  <MensajeGestionConfirmacionTerminacion>
+    <Mensaje>Los gestión seleccionada fue terminada correctamente</Mensaje>
+    <Titulo>Terminar Gestión</Titulo>
+  </MensajeGestionConfirmacionTerminacion>
+
+
+    
+  <MensajeInconsistenciaRegistro>
+    <Mensaje>¿Desea registrar la nueva inconsistencia?</Mensaje>
+    <Titulo>Registrar Inconsistencia</Titulo>
+  </MensajeInconsistenciaRegistro>
+
+  <MensajeInconsistenciaConfirmacionRegistro>
+    <Mensaje>La inconsistencia fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Registrar Inconsistencia</Titulo>
+  </MensajeInconsistenciaConfirmacionRegistro>
+
+  <MensajeInconsistenciaConfirmacionActualizacion>
+    <Mensaje>Los datos de la inconsistencia fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Inconsistencia</Titulo>
+  </MensajeInconsistenciaConfirmacionActualizacion>
+
+  <MensajeInconsistenciaEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la inconsistencia seleccionada?</Mensaje>
+    <Titulo>Eliminar Inconsistencia</Titulo>
+  </MensajeInconsistenciaEliminacion>
+
+  <MensajeInconsistenciaConfirmacionEliminacion>
+    <Mensaje>Los datos de la inconsistencia seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Inconsistencia</Titulo>
+  </MensajeInconsistenciaConfirmacionEliminacion>
+  
+  
+  
+  <MensajeRegistroHorasExtraRegistro>
+    <Mensaje>¿Desea registrar las horas extra del colaborador?</Mensaje>
+    <Titulo>Agregar Registro de Horas Extra</Titulo>
+  </MensajeRegistroHorasExtraRegistro>
+
+  <MensajeRegistroHorasExtraConfirmacionRegistro>
+    <Mensaje>Las horas extra fueron registradas correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Registro de Horas Extra</Titulo>
+  </MensajeRegistroHorasExtraConfirmacionRegistro>
+
+  <MensajeRegistroHorasExtraConfirmacionActualizacion>
+    <Mensaje>El registro de horas extra fue actualizado correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Registro de Horas Extra</Titulo>
+  </MensajeRegistroHorasExtraConfirmacionActualizacion>
+
+  <MensajeRegistroHorasExtraEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar el registro de horas extra?</Mensaje>
+    <Titulo>Eliminar Registro de Horas Extra</Titulo>
+  </MensajeRegistroHorasExtraEliminacion>
+
+  <MensajeRegistroHorasExtraConfirmacionEliminacion>
+    <Mensaje>El registro de horas extra seleccionado fue eliminado correctamente</Mensaje>
+    <Titulo>Eliminar Registro de Horas Extra</Titulo>
+  </MensajeRegistroHorasExtraConfirmacionEliminacion>
+
+  <MensajeRegistrosHorasExtraAprobacion>
+    <Mensaje>¿Esta seguro que desea aprobar los registros seleccionados?</Mensaje>
+    <Titulo>Aprobar Registros de Horas Extra</Titulo>
+  </MensajeRegistrosHorasExtraAprobacion>
+
+    <MensajeRegistrosHorasExtraConfirmacionAprobacion>
+    <Mensaje>Los registros de horas extra fueron marcados como aprobados correctamente</Mensaje>
+    <Titulo>Aprobar Registros de Horas Extra</Titulo>
+  </MensajeRegistrosHorasExtraConfirmacionAprobacion>
+
+  <MensajeRegistrosHorasExtraRechazo>
+    <Mensaje>¿Esta seguro que desea rechazar los registros seleccionados?</Mensaje>
+    <Titulo>Rechazar Registros de Horas Extra</Titulo>
+  </MensajeRegistrosHorasExtraRechazo>
+
+  <MensajeRegistrosHorasExtraConfirmacionRechazo>
+    <Mensaje>Los registros de horas extra fueron marcados como rechazados correctamente</Mensaje>
+    <Titulo>Rechazar Registros de Horas Extra</Titulo>
+  </MensajeRegistrosHorasExtraConfirmacionRechazo>
+  
+  
+
+  <MensajeTulaRegistro>
+    <Mensaje>¿Esta seguro que desea registrar la tula?</Mensaje>
+    <Titulo>Registrar Tula</Titulo>
+  </MensajeTulaRegistro>
+
+  <MensajeTulaConfirmacionRegistro>
+    <Mensaje>La Tula fue registrada correctamente</Mensaje>
+    <Titulo>Registrar Tula</Titulo>
+  </MensajeTulaConfirmacionRegistro>
+
+  <MensajeTulaActualizacionManifiesto>
+    <Mensaje>¿Esta seguro que desea cambiar el manifiesto al cual pertenece la tula?</Mensaje>
+    <Titulo>Actualizar el manifiesto de la Tula</Titulo>
+  </MensajeTulaActualizacionManifiesto>
+
+  <MensajeTulaConfirmacionActualizacionManifiesto>
+    <Mensaje>El manifiesto de la tula fue actualizado correctamente</Mensaje>
+    <Titulo>Actualizar el manifiesto de la Tula</Titulo>
+  </MensajeTulaConfirmacionActualizacionManifiesto>
+  
+  <MensajeTulaConfirmacionActualizacion>
+    <Mensaje>Se corrigió la asignación e la tula y el manifiesto correctamente</Mensaje>
+    <Titulo>Corregir Registro</Titulo>
+  </MensajeTulaConfirmacionActualizacion>
+
+  <MensajeTulaEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la tula?</Mensaje>
+    <Titulo>Eliminar Tula</Titulo>
+  </MensajeTulaEliminacion>
+
+  <MensajeTulaConfirmacionEliminacion>
+    <Mensaje>La Tula fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar Tula</Titulo>
+  </MensajeTulaConfirmacionEliminacion>
+
+
+
+  <MensajeManifiestoRegistro>
+    <Mensaje>¿Esta seguro que desea registrar el manifiesto?</Mensaje>
+    <Titulo>Registrar Manifiesto</Titulo>
+  </MensajeManifiestoRegistro>
+
+  <MensajeManifiestoConfirmacionRegistro>
+    <Mensaje>El manifiesto fue registrado correctamente</Mensaje>
+    <Titulo>Registrar Manifiesto</Titulo>
+  </MensajeManifiestoConfirmacionRegistro>
+
+  <MensajeManifiestoConfirmacionActualizacion>
+    <Mensaje>Los datos del manifiesto fueron actualizados correctamente</Mensaje>
+    <Titulo>Actualizar del Manifiesto</Titulo>
+  </MensajeManifiestoConfirmacionActualizacion>
+
+  <MensajeManifiestoSegregacion>
+    <Mensaje>¿Esta seguro que desea segregar el manifiesto?</Mensaje>
+    <Titulo>Segregar Manifiesto</Titulo>
+  </MensajeManifiestoSegregacion>
+
+  <MensajeManifiestoConfirmacionSegregacion>
+    <Mensaje>El manifiesto fue segregado correctamente</Mensaje>
+    <Titulo>Segregar Manifiesto</Titulo>
+  </MensajeManifiestoConfirmacionSegregacion>
+
+  <MensajeManifiestoEliminacionSegregacion>
+    <Mensaje>¿Esta seguro que desea eliminar los segregados del manifiesto?</Mensaje>
+    <Titulo>Eliminación de Segregados</Titulo>
+  </MensajeManifiestoEliminacionSegregacion>
+
+  <MensajeManifiestoConfirmacionEliminacionSegregacion>
+    <Mensaje>Los segregados fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminación de Segregados</Titulo>
+  </MensajeManifiestoConfirmacionEliminacionSegregacion>
+
+
+
+  <MensajeManifiestoATMCargaRegistro>
+    <Mensaje>¿Esta seguro que desea registrar el nuevo manifiesto?</Mensaje>
+    <Titulo>Registrar el Manifiesto de la Carga de un ATM</Titulo>
+  </MensajeManifiestoATMCargaRegistro>
+
+  <MensajeManifiestoATMCargaConfirmacionRegistro>
+    <Mensaje>El manifiesto fue registrado correctamente</Mensaje>
+    <Titulo>Registrar el Manifiesto de la Carga de un ATM</Titulo>
+  </MensajeManifiestoATMCargaConfirmacionRegistro>
+
+  <MensajeManifiestoATMCargaConfirmacionActualizacion>
+    <Mensaje>Los datos del manifiesto fueron actualizados correctamente</Mensaje>
+    <Titulo>Actualizar del Manifiesto de la Carga de un ATM</Titulo>
+  </MensajeManifiestoATMCargaConfirmacionActualizacion>
+
+  <MensajeManifiestoATMCargaEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del manifiesto?</Mensaje>
+    <Titulo>Eliminar el Manifiesto de la Carga de un ATM</Titulo>
+  </MensajeManifiestoATMCargaEliminacion>
+
+  <MensajeManifiestoATMCargaConfirmacionEliminacion>
+    <Mensaje>Los datos del manifiesto fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar el Manifiesto de la Carga de un ATM</Titulo>
+  </MensajeManifiestoATMCargaConfirmacionEliminacion>
+
+
+
+  <MensajeManifiestoATMFullRegistro>
+    <Mensaje>¿Esta seguro que desea registrar el nuevo manifiesto?</Mensaje>
+    <Titulo>Registrar el Manifiesto de un ATM Full</Titulo>
+  </MensajeManifiestoATMFullRegistro>
+
+  <MensajeManifiestoATMFullConfirmacionRegistro>
+    <Mensaje>El manifiesto fue registrado correctamente</Mensaje>
+    <Titulo>Registrar el Manifiesto de un ATM Full</Titulo>
+  </MensajeManifiestoATMFullConfirmacionRegistro>
+
+  <MensajeManifiestoATMFullConfirmacionActualizacion>
+    <Mensaje>Los datos del manifiesto fueron actualizados correctamente</Mensaje>
+    <Titulo>Actualizar del Manifiesto de un ATM Full</Titulo>
+  </MensajeManifiestoATMFullConfirmacionActualizacion>
+
+  <MensajeManifiestoATMFullEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del manifiesto?</Mensaje>
+    <Titulo>Eliminar el Manifiesto de un ATM Full</Titulo>
+  </MensajeManifiestoATMFullEliminacion>
+
+  <MensajeManifiestoATMFullConfirmacionEliminacion>
+    <Mensaje>Los datos del manifiesto fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar el Manifiesto de un ATM Full</Titulo>
+  </MensajeManifiestoATMFullConfirmacionEliminacion>
+  
+  
+  
+  <MensajeTipoCambioConfirmacionRegistro>
+    <Mensaje>El tipo de cambio fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Registrar Tipo de Cambio</Titulo>
+  </MensajeTipoCambioConfirmacionRegistro>
+
+  <MensajeTipoCambioConfirmacionActualizacion>
+    <Mensaje>El tipo de cambio fue actualizado correctamente en la base de datos</Mensaje>
+    <Titulo>Registrar Tipo de Cambio</Titulo>
+  </MensajeTipoCambioConfirmacionActualizacion>
+
+
+  
+  <MensajeDepositoRegistro>
+    <Mensaje>¿Esta seguro que desea registrar los datos del deposito?</Mensaje>
+    <Titulo>Registrar Deposito</Titulo>
+  </MensajeDepositoRegistro>
+
+  <MensajeDepositoConfirmacionRegistro>
+    <Mensaje>El deposito fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Registrar Deposito</Titulo>
+  </MensajeDepositoConfirmacionRegistro>
+
+  <MensajeDepositoConfirmacionActualizacion>
+    <Mensaje>Los datos del deposito fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Deposito</Titulo>
+  </MensajeDepositoConfirmacionActualizacion>
+
+  
+  
+  <MensajeRecapRegistro>
+    <Mensaje>¿Desea registrar el nuevo Recap?</Mensaje>
+    <Titulo>Registrar Recap</Titulo>
+  </MensajeRecapRegistro>
+
+  <MensajeRecapConfirmacionRegistro>
+    <Mensaje>El recap fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Registrar Recap</Titulo>
+  </MensajeRecapConfirmacionRegistro>
+
+  <MensajeRecapConfirmacionActualizacion>
+    <Mensaje>El recap fue actualizado correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Recap</Titulo>
+  </MensajeRecapConfirmacionActualizacion>
+
+  <MensajeRecapEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar el recap seleccionado?</Mensaje>
+    <Titulo>Eliminar Recap</Titulo>
+  </MensajeRecapEliminacion>
+
+  <MensajeRecapConfirmacionEliminacion>
+    <Mensaje>El recap seleccionado fue eliminado correctamente</Mensaje>
+    <Titulo>Eliminar Recap</Titulo>
+  </MensajeRecapConfirmacionEliminacion>
+  
+  
+
+  <MensajeRegistroErroresCierreRegistro>
+    <Mensaje>¿Desea registrar los errores de cierre para colaborador?</Mensaje>
+    <Titulo>Agregar Registro de Errores de Cierre</Titulo>
+  </MensajeRegistroErroresCierreRegistro>
+
+  <MensajeRegistroErroresCierreConfirmacionRegistro>
+    <Mensaje>Los errores de cierre fueron registrados correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Registro de Errores de Cierre</Titulo>
+  </MensajeRegistroErroresCierreConfirmacionRegistro>
+
+  <MensajeRegistroErroresCierreConfirmacionActualizacion>
+    <Mensaje>El registro de errores de cierre fue actualizado correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Registro de Errores de Cierre</Titulo>
+  </MensajeRegistroErroresCierreConfirmacionActualizacion>
+
+  <MensajeRegistroErrorCierreEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar el registro de errores de cierre?</Mensaje>
+    <Titulo>Eliminar Registro de Errores de Cierre</Titulo>
+  </MensajeRegistroErrorCierreEliminacion>
+
+  <MensajeRegistroErrorCierreConfirmacionEliminacion>
+    <Mensaje>El registro de errores de cierre seleccionado fue eliminado correctamente</Mensaje>
+    <Titulo>Eliminar Registro de Errores de Cierre</Titulo>
+  </MensajeRegistroErrorCierreConfirmacionEliminacion>
+
+
+
+  <MensajeTipoErrorCierreRegistro>
+    <Mensaje>¿Desea registrar el nuevo tipo de error de cierre?</Mensaje>
+    <Titulo>Agregar Tipo de Error de Cierre</Titulo>
+  </MensajeTipoErrorCierreRegistro>
+
+  <MensajeTipoErrorCierreConfirmacionRegistro>
+    <Mensaje>El tipo de error de cierre fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Tipo de Error de Cierre</Titulo>
+  </MensajeTipoErrorCierreConfirmacionRegistro>
+
+  <MensajeTipoErrorCierreConfirmacionActualizacion>
+    <Mensaje>Los datos del tipo de error de cierre fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Tipo de Error de Cierre</Titulo>
+  </MensajeTipoErrorCierreConfirmacionActualizacion>
+
+  <MensajeTipoErrorCierreEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del tipo de error de cierre?</Mensaje>
+    <Titulo>Eliminar Tipo de Error de Cierre</Titulo>
+  </MensajeTipoErrorCierreEliminacion>
+
+  <MensajeTipoErrorCierreConfirmacionEliminacion>
+    <Mensaje>Los datos del tipo de error de cierre seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Tipo de Error de Cierre</Titulo>
+  </MensajeTipoErrorCierreConfirmacionEliminacion>
+
+
+
+  <MensajeCargaATMDevolucion>
+    <Mensaje>¿Esta seguro que desea devolver la carga seleccionada?</Mensaje>
+    <Titulo>Devolver Carga</Titulo>
+  </MensajeCargaATMDevolucion>
+
+  <MensajeCargaATMConfirmacionDevolucion>
+    <Mensaje>La carga seleccionada fue devuelta correctamente</Mensaje>
+    <Titulo>Devolver Carga</Titulo>
+  </MensajeCargaATMConfirmacionDevolucion>
+  
+  <MensajeCargaATMEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la carga seleccionada?</Mensaje>
+    <Titulo>Eliminar Carga</Titulo>
+  </MensajeCargaATMEliminacion>
+
+  <MensajeCargaATMConfirmacionEliminacion>
+    <Mensaje>La carga seleccionada fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar Carga</Titulo>
+  </MensajeCargaATMConfirmacionEliminacion>
+  
+
+  
+  <MensajeCargasATMsConfirmacionGeneracion>
+    <Mensaje>Las cargas generadas fueron importadas correctamente</Mensaje>
+    <Titulo>Generación de Cargas</Titulo>
+  </MensajeCargasATMsConfirmacionGeneracion>
+
+  <MensajeCargasATMsConfirmacionImportacion>
+    <Mensaje>La importación de las cargas se realizó correctamente</Mensaje>
+    <Titulo>Importar Cargas de ATM's</Titulo>
+  </MensajeCargasATMsConfirmacionImportacion>
+  
+  <MensajeCargasATMsConfirmacionActualizacionOrden>
+    <Mensaje>El orden de las cargas se actualizo correctamente</Mensaje>
+    <Titulo>Actualización del orden de las Cargas</Titulo>
+  </MensajeCargasATMsConfirmacionActualizacionOrden>
+
+
+
+  <MensajeCargaEmergenciaATMRegistro>
+    <Mensaje>¿Esta seguro que desea registrar la nueva carga de emergencia?</Mensaje>
+    <Titulo>Registrar Carga de Emergencia</Titulo>
+  </MensajeCargaEmergenciaATMRegistro>
+
+  <MensajeCargaEmergenciaATMConfirmacionRegistro>
+    <Mensaje>La carga de emergencia fue registrada correctamente</Mensaje>
+    <Titulo>Registrar Carga de Emergencia</Titulo>
+  </MensajeCargaEmergenciaATMConfirmacionRegistro>
+
+  <MensajeCargaEmergenciaATMEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la carga de emergencia seleccionada?</Mensaje>
+    <Titulo>Eliminar Carga de Emergencia</Titulo>
+  </MensajeCargaEmergenciaATMEliminacion>
+
+  <MensajeCargaEmergenciaATMConfirmacionEliminacion>
+    <Mensaje>La carga de emergencia seleccionada fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar Carga de Emergencia</Titulo>
+  </MensajeCargaEmergenciaATMConfirmacionEliminacion>
+
+  <MensajeCargaEmergenciaATMConfirmacionActualizacion>
+    <Mensaje>La carga de emergencia se actualizó correctamente</Mensaje>
+    <Titulo>Actualizar Carga de Emergencia</Titulo>
+  </MensajeCargaEmergenciaATMConfirmacionActualizacion>
+
+  <MensajeCargaEmergenciaATMFullRegistro>
+    <Mensaje>¿Esta seguro que desea registrar la nueva carga de emergencia de un ATM Full?</Mensaje>
+    <Titulo>Registrar Carga de Emergencia de un ATM Full</Titulo>
+  </MensajeCargaEmergenciaATMFullRegistro>
+
+  <MensajeCargaEmergenciaATMFullConfirmacionRegistro>
+    <Mensaje>La carga de emergencia de un ATM Full fue registrada correctamente</Mensaje>
+    <Titulo>Registrar Carga de Emergencia de un ATM Full</Titulo>
+  </MensajeCargaEmergenciaATMFullConfirmacionRegistro>
+
+  <MensajeCargaEmergenciaATMFullEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la carga de emergencia de un ATM Full seleccionada?</Mensaje>
+    <Titulo>Eliminar Carga de Emergencia de un ATM Full</Titulo>
+  </MensajeCargaEmergenciaATMFullEliminacion>
+
+  <MensajeCargaEmergenciaATMFullConfirmacionEliminacion>
+    <Mensaje>La carga de emergencia de un ATM Full seleccionada fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar Carga de Emergencia de un ATM Full</Titulo>
+  </MensajeCargaEmergenciaATMFullConfirmacionEliminacion>
+
+  <MensajeCargaEmergenciaATMFullConfirmacionActualizacion>
+    <Mensaje>La carga de emergencia de un ATM Full se actualizó correctamente</Mensaje>
+    <Titulo>Actualizar Carga de Emergencia de un ATM Full</Titulo>
+  </MensajeCargaEmergenciaATMFullConfirmacionActualizacion>
+  
+  <MensajeMontosRetirosATMsConfirmacionImportacion>
+    <Mensaje>La importación de los montos esperados de retiros se realizó correctamente</Mensaje>
+    <Titulo>Importar Montos Esperados de Retiros</Titulo>
+  </MensajeMontosRetirosATMsConfirmacionImportacion>
+
+  <MensajeTrialesDescargasATMsConfirmacionImportacion>
+    <Mensaje>La importación de los triales se realizó correctamente</Mensaje>
+    <Titulo>Importar  riales de Descarga</Titulo>
+  </MensajeTrialesDescargasATMsConfirmacionImportacion>
+  
+  <MensajeDescargaATMDevolucion>
+    <Mensaje>¿Esta seguro que desea devolver la descarga seleccionada?</Mensaje>
+    <Titulo>Devolver Descarga</Titulo>
+  </MensajeDescargaATMDevolucion>
+
+  <MensajeDescargaATMConfirmacionDevolucion>
+    <Mensaje>La descarga seleccionada fue devuelta correctamente</Mensaje>
+    <Titulo>Devolver Descarga</Titulo>
+  </MensajeDescargaATMConfirmacionDevolucion>
+
+
+
+  <MensajeDescargaATMFullDevolucion>
+    <Mensaje>¿Esta seguro que desea devolver la descarga full seleccionada?</Mensaje>
+    <Titulo>Devolver Descarga de ATM Full</Titulo>
+  </MensajeDescargaATMFullDevolucion>
+
+  <MensajeDescargaATMFullConfirmacionDevolucion>
+    <Mensaje>La descarga full seleccionada fue devuelta correctamente</Mensaje>
+    <Titulo>Devolver Descarga de ATM Full</Titulo>
+  </MensajeDescargaATMFullConfirmacionDevolucion>
+  
+  
+
+  <MensajeConexionAS400>
+    <Mensaje>La conexión con AS400 se realizó correctamente</Mensaje>
+    <Titulo>Conexión con AS400</Titulo>
+  </MensajeConexionAS400>
+
+
+
+  <MensajeServidorAutomatizadoConexion>
+    <Mensaje>El servidor automatizado se conectó a AS400 correctamente</Mensaje>
+    <Titulo>Conexión del Servidor Automatizado</Titulo>
+  </MensajeServidorAutomatizadoConexion>
+
+  <MensajeServidorAutomatizadoDesconexion>
+    <Mensaje>El servidor automatizado se desconectó de AS400 correctamente</Mensaje>
+    <Titulo>Desconexión del Servidor Automatizado</Titulo>
+  </MensajeServidorAutomatizadoDesconexion>
+  
+  <MensajeServidorAutomatizadoEstadoConectado>
+    <Mensaje>El servidor automatizado está conectado a AS400</Mensaje>
+    <Titulo>Estado del Servidor Automatizado</Titulo>
+  </MensajeServidorAutomatizadoEstadoConectado>
+
+  <MensajeServidorAutomatizadoEstadoNoConectado>
+    <Mensaje>El servidor automatizado no está conectado a AS400</Mensaje>
+    <Titulo>Estado del Servidor Automatizado</Titulo>
+  </MensajeServidorAutomatizadoEstadoNoConectado>
+
+  <MensajeServidorAutomatizadoEstadoError>
+    <Mensaje>El servidor automatizado presenta errores</Mensaje>
+    <Titulo>Estado del Servidor Automatizado</Titulo>
+  </MensajeServidorAutomatizadoEstadoError>
+
+  <MensajeServidorAutomatizadoEstadoNoError>
+    <Mensaje>El servidor automatizado no presenta errores</Mensaje>
+    <Titulo>Estado del Servidor Automatizado</Titulo>
+  </MensajeServidorAutomatizadoEstadoNoError>
+
+
+  <MensajeVehiculoConfirmacionEliminacion>
+    <Mensaje>Los datos del Vehículo seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Vehículo</Titulo>
+  </MensajeVehiculoConfirmacionEliminacion>
+
+
+  <MensajeVehiculoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del Vehículo seleccionado?</Mensaje>
+    <Titulo>Eliminar Vehículo</Titulo>
+  </MensajeVehiculoEliminacion>
+
+
+  <MensajeVehiculoRegistro>
+    <Mensaje>¿Desea registrar el nuevo vehículo?</Mensaje>
+    <Titulo>Agregar Vehículo</Titulo>
+  </MensajeVehiculoRegistro>
+
+  <MensajeVehiculoConfirmacionRegistro>
+    <Mensaje>El vehículo fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Vehículo</Titulo>
+  </MensajeVehiculoConfirmacionRegistro>
+
+  <MensajeVehiculoConfirmacionActualizacion>
+    <Mensaje>Los datos del vehículo fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Vehículo</Titulo>
+  </MensajeVehiculoConfirmacionActualizacion>
+
+
+
+  <MensajeTripulacionRegistro>
+    <Mensaje>¿Desea registrar la nueva Tripulación?</Mensaje>
+    <Titulo>Agregar Tripulación</Titulo>
+  </MensajeTripulacionRegistro>
+
+
+  <MensajeTripulacionConfirmacionRegistro>
+    <Mensaje>Las Tripulaciones fueron registradas correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Tripulación</Titulo>
+  </MensajeTripulacionConfirmacionRegistro>
+
+
+  <MensajeFallaEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos de la falla seleccionada?</Mensaje>
+    <Titulo>Eliminar Falla</Titulo>
+  </MensajeFallaEliminacion>
+
+  <MensajeFallaConfirmacionEliminacion>
+    <Mensaje>Los datos de la falla seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Falla</Titulo>
+  </MensajeFallaConfirmacionEliminacion>
+
+
+
+
+
+  <MensajeCargasSucursalesConfirmacionGeneracion>
+    <Mensaje>El pedido fue ingresado correctamente</Mensaje>
+    <Titulo>Generación de Pedidos a Sucursales</Titulo>
+  </MensajeCargasSucursalesConfirmacionGeneracion>
+
+  <MensajeCargaSucursalEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la carga seleccionada?</Mensaje>
+    <Titulo>Eliminar Carga</Titulo>
+  </MensajeCargaSucursalEliminacion>
+
+  <MensajeCargaSucursalConfirmacionEliminacion>
+    <Mensaje>La carga seleccionada fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar Carga</Titulo>
+  </MensajeCargaSucursalConfirmacionEliminacion>
+
+
+
+
+  <MensajePedidoBancosEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del pedido seleccionado?</Mensaje>
+    <Titulo>Eliminar Pedido</Titulo>
+  </MensajePedidoBancosEliminacion>
+
+  <MensajePedidoBancosConfirmacionEliminacion>
+    <Mensaje>Los datos de la falla seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Falla</Titulo>
+  </MensajePedidoBancosConfirmacionEliminacion>
+
+  <MensajePedidosBancosConfirmacionActualizacionOrden>
+    <Mensaje>El orden de las cargas se actualizo correctamente</Mensaje>
+    <Titulo>Actualización del orden de las Cargas</Titulo>
+  </MensajePedidosBancosConfirmacionActualizacionOrden>
+
+
+
+  <MensajeManifiestoSucursalCargaRegistro>
+    <Mensaje>¿Esta seguro que desea registrar el nuevo manifiesto?</Mensaje>
+    <Titulo>Registrar el Manifiesto de la Carga de una Sucursal</Titulo>
+  </MensajeManifiestoSucursalCargaRegistro>
+
+  <MensajeManifiestoSucursalCargaConfirmacionRegistro>
+    <Mensaje>El manifiesto fue registrado correctamente</Mensaje>
+    <Titulo>Registrar el Manifiesto de la Carga de una Sucursal</Titulo>
+  </MensajeManifiestoSucursalCargaConfirmacionRegistro>
+
+  <MensajeManifiestoSucursalCargaConfirmacionActualizacion>
+    <Mensaje>Los datos del manifiesto fueron actualizados correctamente</Mensaje>
+    <Titulo>Actualizar del Manifiesto de la Carga de una Sucursal</Titulo>
+  </MensajeManifiestoSucursalCargaConfirmacionActualizacion>
+
+  <MensajeManifiestoSucursalCargaEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del manifiesto?</Mensaje>
+    <Titulo>Eliminar el Manifiesto de la Carga de una Sucursal</Titulo>
+  </MensajeManifiestoSucursalCargaEliminacion>
+
+  <MensajeManifiestoSucursalCargaConfirmacionEliminacion>
+    <Mensaje>Los datos del manifiesto fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar el Manifiesto de la Carga de una Sucursal</Titulo>
+  </MensajeManifiestoSucursalCargaConfirmacionEliminacion>
+
+
+  <MensajeImportacionPlanillas>
+    <Mensaje>La Carga de Planillas fueron importadas Correctamente</Mensaje>
+    <Titulo>Carga Planillas</Titulo>
+  </MensajeImportacionPlanillas>
+  
+  <MensajeActualizacionInconsistencias>
+    <Mensaje>La Inconsistencia fue modificada Correctamente</Mensaje>
+    <Titulo>Actualización Inconsistencias</Titulo>
+  </MensajeActualizacionInconsistencias>
+
+
+  <MensajeInconsistenciaCrucePlanillas>
+    <Mensaje>Ninguna planilla coincide con Sites</Mensaje>
+    <Titulo>Error de Validaciónde Inconsistencias</Titulo>
+  </MensajeInconsistenciaCrucePlanillas>
+
+
+  <MensajeCargaConfirmacionRechazoGerente>
+    <Mensaje>El pedido fue rechazado Correctamente</Mensaje>
+    <Titulo>Rechazo de Pedidos</Titulo>
+  </MensajeCargaConfirmacionRechazoGerente>
+
+
+  <MensajeCargaRechazoGerente>
+    <Mensaje>¿Esta seguro que desea rechazar el pedido seleccionado?</Mensaje>
+    <Titulo>Rechazo de Pedido</Titulo>
+  </MensajeCargaRechazoGerente>
+
+
+
+
+  <MensajeCargaConfirmacionFinalizacionCoreccion>
+    <Mensaje>El pedido fue enviado a Aprobación</Mensaje>
+    <Titulo>Proceso de Aprobación</Titulo>
+  </MensajeCargaConfirmacionFinalizacionCoreccion>
+
+
+  <MensajeCargaFinalizacionCorreccion>
+    <Mensaje>¿Esta seguro que ha finalizado de modificar los datos?</Mensaje>
+    <Titulo>Modificación de Pedido</Titulo>
+  </MensajeCargaFinalizacionCorreccion>
+
+
+
+  <MensajeTripulacionConfirmacionActualizacionOrden>
+    <Mensaje>El orden de las tripulaciones se actualizó correctamente</Mensaje>
+    <Titulo>Actualización del orden de las Tripulaciones</Titulo>
+  </MensajeTripulacionConfirmacionActualizacionOrden>
+
+
+
+  <MensajeCargaConfirmacionAprobacionGerente>
+    <Mensaje>El pedido fue aprobado Correctamente</Mensaje>
+    <Titulo>Aprobación de Pedidos</Titulo>
+  </MensajeCargaConfirmacionAprobacionGerente>
+
+
+  <MensajeCargaAprobacionGerente>
+    <Mensaje>¿Esta seguro que desea aprobar el pedido seleccionado?</Mensaje>
+    <Titulo>Aprobación de Pedido</Titulo>
+  </MensajeCargaAprobacionGerente>
+
+
+  <MensajeDispositivoRegistro>
+    <Mensaje>¿Esta seguro que desea registrar el nuevo dispositivo?</Mensaje>
+    <Titulo>Registrar el Dispositivo</Titulo>
+  </MensajeDispositivoRegistro>
+
+  <MensajeDispositivoConfirmacionRegistro>
+    <Mensaje>El dispositivo fue registrado correctamente</Mensaje>
+    <Titulo>Registrar el Dispositivo</Titulo>
+  </MensajeDispositivoConfirmacionRegistro>
+
+  <MensajeDispositivoConfirmacionActualizacion>
+    <Mensaje>Los datos del dispositivo fueron actualizados correctamente</Mensaje>
+    <Titulo>Actualización del Dispositivo</Titulo>
+  </MensajeDispositivoConfirmacionActualizacion>
+
+  <MensajeDispositivoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del dipositivo?</Mensaje>
+    <Titulo>Eliminar el Dispositivo</Titulo>
+  </MensajeDispositivoEliminacion>
+
+  <MensajeDispositivoConfirmacionEliminacion>
+    <Mensaje>Los datos del dispositivo fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar el Dispositivo</Titulo>
+  </MensajeDispositivoConfirmacionEliminacion>
+
+  <MensajeCargaATMConfirmacionActualizacion>
+    <Mensaje>Los datos de la carga fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Carga ATM</Titulo>
+  </MensajeCargaATMConfirmacionActualizacion>
+
+
+
+
+  <MensajeManojoConfirmacionEliminacion>
+    <Mensaje>Los datos del Manojo seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Manojo</Titulo>
+  </MensajeManojoConfirmacionEliminacion>
+
+
+  <MensajeManojoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del Manojo seleccionado?</Mensaje>
+    <Titulo>Eliminar Manojo</Titulo>
+  </MensajeManojoEliminacion>
+
+
+  <MensajeManojoRegistro>
+    <Mensaje>¿Desea registrar el nuevo manojo?</Mensaje>
+    <Titulo>Agregar Manojo</Titulo>
+  </MensajeManojoRegistro>
+
+  <MensajeManojoConfirmacionRegistro>
+    <Mensaje>El manojo fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Manojo</Titulo>
+  </MensajeManojoConfirmacionRegistro>
+
+  <MensajeManojoConfirmacionActualizacion>
+    <Mensaje>Los datos del manojo fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Manojo</Titulo>
+  </MensajeManojoConfirmacionActualizacion>
+
+
+
+  
+  
+  
+
+
+  <MensajeTipoEquipoConfirmacionEliminacion>
+    <Mensaje>Los datos del Tipo de Equipo seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Tipo de Equipo</Titulo>
+  </MensajeTipoEquipoConfirmacionEliminacion>
+
+
+  <MensajeTipoEquipoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del Tipo de Equipo seleccionado?</Mensaje>
+    <Titulo>Eliminar Tipo de Equipo</Titulo>
+  </MensajeTipoEquipoEliminacion>
+
+
+  <MensajeTipoEquipoRegistro>
+    <Mensaje>¿Desea registrar el nuevo tipo de equipo?</Mensaje>
+    <Titulo>Agregar Tipo de Equipo</Titulo>
+  </MensajeTipoEquipoRegistro>
+
+  <MensajeTipoEquipoConfirmacionRegistro>
+    <Mensaje>El tipo de equipo fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Tipo de Equipo</Titulo>
+  </MensajeTipoEquipoConfirmacionRegistro>
+
+  <MensajeTipoEquipoConfirmacionActualizacion>
+    <Mensaje>Los datos del tipo de equipo fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Tipo de Equipo</Titulo>
+  </MensajeTipoEquipoConfirmacionActualizacion>
+
+
+
+
+
+
+  <MensajeEquipoConfirmacionEliminacion>
+    <Mensaje>Los datos del Equipo seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Equipo</Titulo>
+  </MensajeEquipoConfirmacionEliminacion>
+
+
+  <MensajeEquipoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del Equipo seleccionado?</Mensaje>
+    <Titulo>EliminarEquipo</Titulo>
+  </MensajeEquipoEliminacion>
+
+
+  <MensajeEquipoRegistro>
+    <Mensaje>¿Desea registrar el nuevo equipo?</Mensaje>
+    <Titulo>Agregar Equipo</Titulo>
+  </MensajeEquipoRegistro>
+
+  <MensajeEquipoConfirmacionRegistro>
+    <Mensaje>El equipo fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Equipo</Titulo>
+  </MensajeEquipoConfirmacionRegistro>
+
+  <MensajeEquipoConfirmacionActualizacion>
+    <Mensaje>Los datos del equipo fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Equipo</Titulo>
+  </MensajeEquipoConfirmacionActualizacion>
+
+
+  <MensajeCodigoATMActualizacion>
+    <Mensaje>Los datos de la carga fueron finalizados correctamente</Mensaje>
+    <Titulo>Finalizar Solicitud de Código ATM</Titulo>
+  </MensajeCodigoATMActualizacion>
+
+  
+
+
+
+<MensajeFormulaRegistro>
+    <Mensaje>¿Desea registrar la nueva Fórmula?</Mensaje>
+    <Titulo>Agregar Fórmula</Titulo>
+  </MensajeFormulaRegistro>
+
+  <MensajeFormulaConfirmacionRegistro>
+    <Mensaje>La Fórmula fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Fórmula</Titulo>
+  </MensajeFormulaConfirmacionRegistro>
+
+  <MensajeFormulaConfirmacionActualizacion>
+    <Mensaje>Los datos de la Fórmula fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Fórmula</Titulo>
+  </MensajeFormulaConfirmacionActualizacion>
+
+
+  <MensajeDenominacionConfirmacionActualizacion>
+    <Mensaje>Los datos de la Denominación fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Denominación</Titulo>
+  </MensajeDenominacionConfirmacionActualizacion>
+  
+  
+  
+ <MensajeActualizacionValoresHH>
+    <Mensaje>Los registros fueron DesSincronizados Correctamente</Mensaje>
+    <Titulo>Actualizar Registros Hand Held</Titulo>
+  </MensajeActualizacionValoresHH>
+
+
+  <MensajeFeriadoRegistro>
+    <Mensaje>¿Desea registrar el nuevo feriado?</Mensaje>
+    <Titulo>Agregar Feriado</Titulo>
+  </MensajeFeriadoRegistro>
+
+  <MensajeFeriadoConfirmacionRegistro>
+    <Mensaje>El feriado fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Feriado</Titulo>
+  </MensajeFeriadoConfirmacionRegistro>
+
+  <MensajeFeriadoConfirmacionActualizacion>
+    <Mensaje>El feriado fue actualizado correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Feriado</Titulo>
+  </MensajeFeriadoConfirmacionActualizacion>
+
+  <MensajeFeriadoEliminacion>
+    <Mensaje>¿Está seguro que desea eliminar el feriado seleccionado?</Mensaje>
+    <Titulo>Eliminar Feriado</Titulo>
+  </MensajeFeriadoEliminacion>
+
+  <MensajeFeriadoConfirmacionEliminacion>
+    <Mensaje>El feriado seleccionado fue eliminado correctamente</Mensaje>
+    <Titulo>Eliminar Feriado</Titulo>
+  </MensajeFeriadoConfirmacionEliminacion>
+
+  <MensajeFeriadoTerminacion>
+    <Mensaje>¿Está seguro que desea terminar el feriado seleccionado?</Mensaje>
+    <Titulo>Terminar Feriado</Titulo>
+  </MensajeFeriadoTerminacion>
+
+  <MensajeFeriadoConfirmacionTerminacion>
+    <Mensaje>El feriado seleccionado fue terminado correctamente</Mensaje>
+    <Titulo>Terminar Feriado</Titulo>
+  </MensajeFeriadoConfirmacionTerminacion>
+
+  
+  
+ <MensajeInconsistenciaFacturacionRegistro>
+    <Mensaje>¿Desea registrar a la nueva inconsistencia?</Mensaje>
+    <Titulo>Agregar Inconsistencia</Titulo>
+  </MensajeInconsistenciaFacturacionRegistro>
+
+  <MensajeInconsistenciaFacturacionConfirmacionRegistro>
+    <Mensaje>La inconsistencia fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Inconsistencia</Titulo>
+  </MensajeInconsistenciaFacturacionConfirmacionRegistro>
+
+  <MensajeInconsistenciaFacturacionConfirmacionActualizacion>
+    <Mensaje>Los datos de la inconsistencia fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Inconsistencia</Titulo>
+  </MensajeInconsistenciaFacturacionConfirmacionActualizacion>
+
+  <MensajeInconsistenciaFacturacionEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos de la inconsistencia seleccionada?</Mensaje>
+    <Titulo>Eliminar Inconsistencia</Titulo>
+  </MensajeInconsistenciaFacturacionEliminacion>
+
+  <MensajeInconsistenciaFacturacionConfirmacionEliminacion>
+    <Mensaje>Los datos de la inconsistencia seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Inconsistencia</Titulo>
+  </MensajeInconsistenciaFacturacionConfirmacionEliminacion>
+  
+  
+
+
+
+
+
+
+<MensajeTipoPenalidadRegistro>
+    <Mensaje>¿Desea registrar el nuevo tipo de penalidad?</Mensaje>
+    <Titulo>Agregar Tipo de Penalidad</Titulo>
+  </MensajeTipoPenalidadRegistro>
+
+  <MensajeTipoPenalidadConfirmacionRegistro>
+    <Mensaje>El tipo de Penalidad fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Tipo de Penalidad</Titulo>
+  </MensajeTipoPenalidadConfirmacionRegistro>
+
+  <MensajeTipoPenalidadConfirmacionActualizacion>
+    <Mensaje>Los datos del Tipo de Penalidad fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Tipo de Penalidad</Titulo>
+  </MensajeTipoPenalidadConfirmacionActualizacion>
+
+  <MensajeTipoPenalidadEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del Tipo de Penalidad seleccionada?</Mensaje>
+    <Titulo>Eliminar Tipo de Penalidad</Titulo>
+  </MensajeTipoPenalidadEliminacion>
+
+  <MensajeTipoPenalidadConfirmacionEliminacion>
+    <Mensaje>Los datos del Tipo de Penalidad seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Tipo de Penalidad</Titulo>
+  </MensajeTipoPenalidadConfirmacionEliminacion>
+  
+  
+
+
+
+
+<MensajePenalidadRegistro>
+    <Mensaje>¿Desea registrar la nueva penalidad?</Mensaje>
+    <Titulo>Agregar Penalidad</Titulo>
+  </MensajePenalidadRegistro>
+
+  <MensajePenalidadConfirmacionRegistro>
+    <Mensaje>La Penalidad fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Tipo de Penalidad</Titulo>
+  </MensajePenalidadConfirmacionRegistro>
+
+  <MensajePenalidadConfirmacionActualizacion>
+    <Mensaje>Los datos de la Penalidad fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Penalidad</Titulo>
+  </MensajePenalidadConfirmacionActualizacion>
+
+  <MensajePenalidadEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos de la Penalidad seleccionada?</Mensaje>
+    <Titulo>Eliminar Penalidad</Titulo>
+  </MensajePenalidadEliminacion>
+
+  <MensajePenalidadConfirmacionEliminacion>
+    <Mensaje>Los datos de la Penalidad seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Penalidad</Titulo>
+  </MensajePenalidadConfirmacionEliminacion>
+  
+  
+
+
+
+
+<MensajeRegistroPenalidadRegistro>
+    <Mensaje>¿Desea registrar el nuevo Registro de Penalidad?</Mensaje>
+    <Titulo>Agregar Registro de Penalidad</Titulo>
+  </MensajeRegistroPenalidadRegistro>
+
+  <MensajeRegistroPenalidadConfirmacionRegistro>
+    <Mensaje>El Registro de la Penalidad fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Registro de Penalidad</Titulo>
+  </MensajeRegistroPenalidadConfirmacionRegistro>
+
+  <MensajeRegistroPenalidadConfirmacionActualizacion>
+    <Mensaje>Los datos del Registro de Penalidad fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Registro de Penalidad</Titulo>
+  </MensajeRegistroPenalidadConfirmacionActualizacion>
+
+  <MensajeRegistroPenalidadEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del Registro Penalidad seleccionado?</Mensaje>
+    <Titulo>Eliminar Registro de Penalidad</Titulo>
+  </MensajeRegistroPenalidadEliminacion>
+
+  <MensajeRegistroPenalidadConfirmacionEliminacion>
+    <Mensaje>Los datos del Registro de Penalidad seleccionada fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Registro de Penalidad</Titulo>
+  </MensajeRegistroPenalidadConfirmacionEliminacion>
+  
+  
+  
+  
+<MensajeNivelServicioRegistro>
+    <Mensaje>¿Desea registrar el nuevo Nivel de Servicio?</Mensaje>
+    <Titulo>Agregar Nivel de Servicio</Titulo>
+  </MensajeNivelServicioRegistro>
+
+  <MensajeNivelServicioConfirmacionRegistro>
+    <Mensaje>El Nivel de Servicio fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Nivel de Servicio</Titulo>
+  </MensajeNivelServicioConfirmacionRegistro>
+
+  <MensajeNivelServicioConfirmacionActualizacion>
+    <Mensaje>Los datos del Nivel de Servicio fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Nivel de Servicio</Titulo>
+  </MensajeNivelServicioConfirmacionActualizacion>
+
+  <MensajeNivelServicioEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del Nivel de Servicio seleccionado?</Mensaje>
+    <Titulo>Eliminar Nivel de Servicio</Titulo>
+  </MensajeNivelServicioEliminacion>
+
+  <MensajeNivelServicioConfirmacionEliminacion>
+    <Mensaje>Los datos del Nivel de Servicio seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Nivel de Servicio</Titulo>
+  </MensajeNivelServicioConfirmacionEliminacion>
+  
+  
+
+
+
+
+<MensajeImportacionTarifasTransportadoras>
+    <Mensaje>Los datos de las tarifas fueron importados correctamente</Mensaje>
+    <Titulo>Importar Tarifas Transportadoras</Titulo>
+  </MensajeImportacionTarifasTransportadoras>
+  
+  
+
+
+<MensajeFacturacionTransportadoraRegistro>
+    <Mensaje>¿Desea registrar el nuevo Registro de Facturación?</Mensaje>
+    <Titulo>Agregar Registro de Facturación</Titulo>
+  </MensajeFacturacionTransportadoraRegistro>
+
+  <MensajeFacturacionTransportadoraConfirmacionRegistro>
+    <Mensaje>El Registro de Facturación fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Registro de Facturación</Titulo>
+  </MensajeFacturacionTransportadoraConfirmacionRegistro>
+
+  <MensajeFacturacionTransportadoraConfirmacionActualizacion>
+    <Mensaje>Los datos del Registro de Facturación fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Registro de Facturación</Titulo>
+  </MensajeFacturacionTransportadoraConfirmacionActualizacion>
+
+  <MensajeFacturacionTransportadoraEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del Registro de Facturación seleccionado?</Mensaje>
+    <Titulo>Eliminar Registro de Facturación</Titulo>
+  </MensajeFacturacionTransportadoraEliminacion>
+
+  <MensajeFacturacionTransportadoraConfirmacionEliminacion>
+    <Mensaje>Los datos del Registro de Facturación seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Nivel de Servicio</Titulo>
+  </MensajeFacturacionTransportadoraConfirmacionEliminacion>
+
+  <MensajeImportacionNivelServicio>
+    <Mensaje>La importación de los niveles de Servicio se realizó de forma éxitosa</Mensaje>
+    <Titulo>Importación Niveles de Servicio</Titulo>
+  </MensajeImportacionNivelServicio>
+  
+
+
+
+  <MensajePromedioDescargaATMRegistro>
+    <Mensaje>¿Desea registrar el nuevo Promedio de Descarga?</Mensaje>
+    <Titulo>Agregar Promedio de Descarga de ATMs</Titulo>
+  </MensajePromedioDescargaATMRegistro>
+
+  <MensajePromedioDescargaATMConfirmacionRegistro>
+    <Mensaje>El Promedio fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Promedio de Descarga de ATMs</Titulo>
+  </MensajePromedioDescargaATMConfirmacionRegistro>
+
+  <MensajePromedioDescargaATMConfirmacionActualizacion>
+    <Mensaje>Los datos del Promedio fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Promedio Descargas ATMs</Titulo>
+  </MensajePromedioDescargaATMConfirmacionActualizacion>
+
+  <MensajePromedioDescargaATMEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del promedio seleccionado?</Mensaje>
+    <Titulo>Eliminar Promedio de Descargas de ATMs</Titulo>
+  </MensajePromedioDescargaATMEliminacion>
+
+  <MensajePromedioDescargaATMConfirmacionEliminacion>
+    <Mensaje>Los datos del promedio seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Promedio</Titulo>
+  </MensajePromedioDescargaATMConfirmacionEliminacion>
+  
+
+  <MensajeImportacionPromedioDescargaATM>
+    <Mensaje>La importación de promedios se realizó correctamente</Mensaje>
+    <Titulo>Importación Promedio Descargas ATMs</Titulo>
+  </MensajeImportacionPromedioDescargaATM>
+  
+
+
+
+
+
+
+
+
+ <MensajePromedioRemanenteATMRegistro>
+    <Mensaje>¿Desea registrar el nuevo Promedio de Remanente?</Mensaje>
+    <Titulo>Agregar Promedio de Descarga de ATMs</Titulo>
+  </MensajePromedioRemanenteATMRegistro>
+
+  <MensajePromedioRemanenteATMConfirmacionRegistro>
+    <Mensaje>El Promedio fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Promedio de Remanente de ATMs</Titulo>
+  </MensajePromedioRemanenteATMConfirmacionRegistro>
+
+  <MensajePromedioRemanenteATMConfirmacionActualizacion>
+    <Mensaje>Los datos del Promedio fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Promedio Descargas ATMs</Titulo>
+  </MensajePromedioRemanenteATMConfirmacionActualizacion>
+
+  
+
+<MensajeImportacionArchivo>
+    <Mensaje>La importación del archivo se realizó de forma correcta</Mensaje>
+    <Titulo>Importación Archivo</Titulo>
+  </MensajeImportacionArchivo>
+  
+
+
+
+<MensajeInsercionInconsistenciaFacturacion>
+    <Mensaje>¿Desea registrar la nueva inconsistencia?</Mensaje>
+    <Titulo>Ingreso de Inconsistencia</Titulo>
+  </MensajeInsercionInconsistenciaFacturacion>
+  
+
+
+<MensajeConfirmacionInsercionInconsistenciaFacturacion>
+    <Mensaje>La inconsistencia fue registrada correctamente</Mensaje>
+    <Titulo>Ingreso de Inconsistencia</Titulo>
+  </MensajeConfirmacionInsercionInconsistenciaFacturacion>
+
+
+
+
+
+  <MensajeMaximasCantidadesRegistro>
+    <Mensaje>¿Desea registrar las cantidades?</Mensaje>
+    <Titulo>Agregar Cantidades por Manifiesto</Titulo>
+  </MensajeMaximasCantidadesRegistro>
+
+  <MensajePromedioDescargaATMConfirmacionRegistro>
+    <Mensaje>El Promedio fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Promedio de Descarga de ATMs</Titulo>
+  </MensajePromedioDescargaATMConfirmacionRegistro>
+
+  <MensajePromedioDescargaATMConfirmacionActualizacion>
+    <Mensaje>Los datos del Promedio fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Promedio Descargas ATMs</Titulo>
+  </MensajePromedioDescargaATMConfirmacionActualizacion>
+
+  <MensajePromedioDescargaATMEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del promedio seleccionado?</Mensaje>
+    <Titulo>Eliminar Promedio de Descargas de ATMs</Titulo>
+  </MensajePromedioDescargaATMEliminacion>
+
+  <MensajePromedioDescargaATMConfirmacionEliminacion>
+    <Mensaje>Los datos del promedio seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Promedio</Titulo>
+  </MensajePromedioDescargaATMConfirmacionEliminacion>
+
+
+  <MensajeImportacionPromedioDescargaATM>
+    <Mensaje>La importación de promedios se realizó correctamente</Mensaje>
+    <Titulo>Importación Promedio Descargas ATMs</Titulo>
+  </MensajeImportacionPromedioDescargaATM>
+
+
+  <MensajeMaximasCantidadesConfirmacionRegistro>
+    <Mensaje>El registro fue actualizado correctamente</Mensaje>
+    <Titulo>Actualización de Máximas Cantidades de Registros</Titulo>
+  </MensajeMaximasCantidadesConfirmacionRegistro>
+
+
+
+  <MensajeActualizacionDescargasPapel>
+    <Mensaje>Los datos fueron actualizados correctamente</Mensaje>
+    <Titulo>Actualización de Descargas ENA y Papel</Titulo>
+  </MensajeActualizacionDescargasPapel>
+
+
+  <MensajeMaximasCantidadesEliminacion>
+    <Mensaje>¿Está seguro que desea eliminar los datos seleccionado?</Mensaje>
+    <Titulo>Eliminar Cantidades</Titulo>
+  </MensajeMaximasCantidadesEliminacion>
+
+  <MensajeMaximasCantidadesConfirmacionEliminacion>
+    <Mensaje>Los datos fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Cantidades</Titulo>
+  </MensajeMaximasCantidadesConfirmacionEliminacion>
+
+
+
+
+  <MensajeMaximasCantidadesConfirmacionActualizacion>
+    <Mensaje>Los datos fueron actualizados correctamente</Mensaje>
+    <Titulo>Actualización de Cantidades Cantidades</Titulo>
+  </MensajeMaximasCantidadesConfirmacionActualizacion>
+
+
+  <MensajeLimiteFallas>
+    <Mensaje>Existen cartuchos que han alcanzado el límite de fallas permitido</Mensaje>
+    <Titulo>Cartucho Dañado</Titulo>
+  </MensajeLimiteFallas>
+
+  <MensajeCartuchoMaloCierreATM>
+    <Mensaje>Cartucho Malo, por favor cambiarlo por otro</Mensaje>
+    <Titulo>Cartucho Dañado</Titulo>
+  </MensajeCartuchoMaloCierreATM>
+
+  <MensajeMalosTesoreriaEliminacion>
+    <Mensaje>¿Esta seguro que desea exportar los datos seleccionados?</Mensaje>
+    <Titulo>Enviar Cartuchos a Taller</Titulo>
+  </MensajeMalosTesoreriaEliminacion>
+
+  <MensajeNoRecuperablesEliminacion>
+    <Mensaje>¿Esta seguro que desea guardar como no recuperables los datos seleccionados?</Mensaje>
+    <Titulo>Enviar a No Recuperables</Titulo>
+  </MensajeNoRecuperablesEliminacion>
+
+  <MensajeInventariosConfirmacion>
+    <Mensaje>Los datos se actualizaron con éxito</Mensaje>
+    <Titulo>Confirmación de Proceso</Titulo>
+  </MensajeInventariosConfirmacion>
+
+
+  <MensajeGarantiaRegistro>
+    <Mensaje>¿Desea registrar la nueva garantía?</Mensaje>
+    <Titulo>Agregar Garantía</Titulo>
+  </MensajeGarantiaRegistro>
+
+  <MensajeGarantiaConfirmacionRegistro>
+    <Mensaje>La garantía fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Garantía</Titulo>
+  </MensajeGarantiaConfirmacionRegistro>
+
+  <MensajeGarantiaConfirmacionActualizacion>
+    <Mensaje>La garantía fue actualizada correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Garantía</Titulo>
+  </MensajeGarantiaConfirmacionActualizacion>
+
+  <MensajeGarantiaEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la garantía seleccionada?</Mensaje>
+    <Titulo>Eliminar Garantía</Titulo>
+  </MensajeGarantiaEliminacion>
+
+  <MensajeGarantiaConfirmacionEliminacion>
+    <Mensaje>La garantía seleccionada fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar Garantía</Titulo>
+  </MensajeGarantiaConfirmacionEliminacion>
+
+
+
+
+  <MensajeProveedorCartuchoRegistro>
+    <Mensaje>¿Desea registrar el nuevo proveedor?</Mensaje>
+    <Titulo>Agregar Proveedor</Titulo>
+  </MensajeProveedorCartuchoRegistro>
+
+  <MensajeProveedorCartuchoConfirmacionRegistro>
+    <Mensaje>El proveedor fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Proveedor</Titulo>
+  </MensajeProveedorCartuchoConfirmacionRegistro>
+
+  <MensajeProveedorCartuchoConfirmacionActualizacion>
+    <Mensaje>El proveedor fue actualizado correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Proveedor</Titulo>
+  </MensajeProveedorCartuchoConfirmacionActualizacion>
+
+  <MensajeProveedorCartuchoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar el proveedor seleccionado?</Mensaje>
+    <Titulo>Eliminar Proveedor</Titulo>
+  </MensajeProveedorCartuchoEliminacion>
+
+  <MensajeProveedorCartuchoConfirmacionEliminacion>
+    <Mensaje>El proveedor seleccionado fue eliminado correctamente</Mensaje>
+    <Titulo>Eliminar Proveedor</Titulo>
+  </MensajeProveedorCartuchoConfirmacionEliminacion>
+
+
+
+  <MensajeEstadoCartuchoRegistro>
+    <Mensaje>¿Desea registrar el nuevo estado?</Mensaje>
+    <Titulo>Agregar Estado</Titulo>
+  </MensajeEstadoCartuchoRegistro>
+
+  <MensajeEstadoCartuchoConfirmacionRegistro>
+    <Mensaje>El estado fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Estado</Titulo>
+  </MensajeEstadoCartuchoConfirmacionRegistro>
+
+  <MensajeEstadoCartuchoConfirmacionActualizacion>
+    <Mensaje>El estado fue actualizado correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Estado</Titulo>
+  </MensajeEstadoCartuchoConfirmacionActualizacion>
+
+  <MensajeEstadoCartuchoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar el estado seleccionado?</Mensaje>
+    <Titulo>Eliminar Estado</Titulo>
+  </MensajeEstadoCartuchoEliminacion>
+
+  <MensajeEstadoCartuchoConfirmacionEliminacion>
+    <Mensaje>El estado seleccionado fue eliminado correctamente</Mensaje>
+    <Titulo>Eliminar Estado</Titulo>
+  </MensajeEstadoCartuchoConfirmacionEliminacion>
+
+
+  <MensajeFallaCartuchoRegistro>
+    <Mensaje>¿Desea registrar la nueva falla?</Mensaje>
+    <Titulo>Agregar Falla</Titulo>
+  </MensajeFallaCartuchoRegistro>
+
+  <MensajeFallaCartuchoConfirmacionRegistro>
+    <Mensaje>La falla fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Falla</Titulo>
+  </MensajeFallaCartuchoConfirmacionRegistro>
+
+  <MensajeFallasConfirmacionGeneracion>
+    <Mensaje>Las fallas fueron registradas correctamente en la base de datos</Mensaje>
+    <Titulo>Carga Masiva de Fallas</Titulo>
+  </MensajeFallasConfirmacionGeneracion>
+
+  <MensajeFallaCartuchoConfirmacionActualizacion>
+    <Mensaje>La falla fue actualizada correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Falla</Titulo>
+  </MensajeFallaCartuchoConfirmacionActualizacion>
+
+  <MensajeFallaCartuchoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la falla seleccionada?</Mensaje>
+    <Titulo>Eliminar Falla</Titulo>
+  </MensajeFallaCartuchoEliminacion>
+
+  <MensajeFallaCartuchoConfirmacionEliminacion>
+    <Mensaje>La falla seleccionada fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar Falla</Titulo>
+  </MensajeFallaCartuchoConfirmacionEliminacion>
+
+  <MensajeErrorCalidades>
+    <Mensaje>Debe seleccionar la calidad del billete para cada denominación solicitada</Mensaje>
+    <Titulo>Calidades de Billetes</Titulo>
+  </MensajeErrorCalidades>
+
+
+
+
+  <MensajeEsperaRegistro>
+  <Mensaje>¿Desea registrar la nueva espera?</Mensaje>
+  <Titulo>Agregar Espera</Titulo>
+  </MensajeEsperaRegistro>
+
+  <MensajeEsperaConfirmacionRegistro>
+    <Mensaje>La espera fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Espera</Titulo>
+  </MensajeEsperaConfirmacionRegistro>
+
+  <MensajeEsperaConfirmacionActualizacion>
+    <Mensaje>La espera fue actualizada correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Espera</Titulo>
+  </MensajeEsperaConfirmacionActualizacion>
+
+  <MensajeEsperaEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar la espera seleccionada?</Mensaje>
+    <Titulo>Eliminar Espera</Titulo>
+  </MensajeEsperaEliminacion>
+
+  <MensajeEsperaConfirmacionEliminacion>
+    <Mensaje>La espera seleccionada fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar Espera</Titulo>
+  </MensajeEsperaConfirmacionEliminacion>
+
+
+
+
+
+
+  <MensajeTipoFallasBlindadosRegistro>
+    <Mensaje>¿Desea registrar el nuevo tipo de falla?</Mensaje>
+    <Titulo>Agregar Tipo de Falla</Titulo>
+  </MensajeTipoFallasBlindadosRegistro>
+
+  <MensajeTipoFallasBlindadosConfirmacionRegistro>
+    <Mensaje>El tipo de falla fue registrada correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar tipo de falla</Titulo>
+  </MensajeTipoFallasBlindadosConfirmacionRegistro>
+
+  <MensajeTipoFallasBlindadosConfirmacionActualizacion>
+    <Mensaje>El tipo de falla fue actualizada correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar tipo de falla</Titulo>
+  </MensajeTipoFallasBlindadosConfirmacionActualizacion>
+
+  <MensajeTipoFallasBlindadosEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar el tipo de falla seleccionada?</Mensaje>
+    <Titulo>Eliminar tipo de falla</Titulo>
+  </MensajeTipoFallasBlindadosEliminacion>
+
+  <MensajeTipoFallasBlindadosConfirmacionEliminacion>
+    <Mensaje>El tipo de falla seleccionada fue eliminada correctamente</Mensaje>
+    <Titulo>Eliminar tipo de falla</Titulo>
+  </MensajeTipoFallasBlindadosConfirmacionEliminacion>
+
+   <MensajeRequerimientoMantenimientoConfirmacionEliminacion>
+    <Mensaje>Los datos fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Requerimiento de Mantenimiento</Titulo>
+  </MensajeRequerimientoMantenimientoConfirmacionEliminacion>
+
+  <MensajeRequerimientoMantenimientoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del requerimiento seleccionado?</Mensaje>
+    <Titulo>Eliminar Requerimiento de Mantenimiento</Titulo>
+  </MensajeRequerimientoMantenimientoEliminacion>
+
+  <MensajeRequerimientoMantenimientoRegistro>
+    <Mensaje>¿Desea registrar el nuevo requerimiento?</Mensaje>
+    <Titulo>Agregar Requerimiento de Mantenimiento</Titulo>
+  </MensajeRequerimientoMantenimientoRegistro>
+
+  <MensajeRequerimientoMantenimientoConfirmacionRegistro>
+    <Mensaje>El requerimiento fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Requerimiento de Mantenimiento</Titulo>
+  </MensajeRequerimientoMantenimientoConfirmacionRegistro>
+
+  <MensajeRequerimientoMantenimientoConfirmacionActualizacion>
+    <Mensaje>Los datos de requerimiento fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Requerimiento de Mantenimiento</Titulo>
+  </MensajeRequerimientoMantenimientoConfirmacionActualizacion>
+
+  <MensajeFichaTecnicaConfirmacionEliminacion>
+    <Mensaje>Los datos del mantenimiento seleccionado fueron eliminados correctamente</Mensaje>
+    <Titulo>Eliminar Ficha Técnica</Titulo>
+  </MensajeFichaTecnicaConfirmacionEliminacion>
+
+  <MensajeFichaTecnicaEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar los datos del Equipo seleccionado?</Mensaje>
+    <Titulo>Eliminar Ficha Técnica</Titulo>
+  </MensajeFichaTecnicaEliminacion>
+
+  <MensajeFichaTecnicaRegistro>
+    <Mensaje>¿Desea registrar el nuevo mantenimiento?</Mensaje>
+    <Titulo>Agregar Ficha Técnica</Titulo>
+  </MensajeFichaTecnicaRegistro>
+
+  <MensajeFichaTecnicaConfirmacionRegistro>
+    <Mensaje>El mantenimiento fue registrado correctamente en la base de datos</Mensaje>
+    <Titulo>Agregar Ficha Técnica</Titulo>
+  </MensajeFichaTecnicaConfirmacionRegistro>
+
+  <MensajeFichaTecnicaConfirmacionActualizacion>
+    <Mensaje>Los datos de mantenimiento fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Ficha Técnica</Titulo>
+  </MensajeFichaTecnicaConfirmacionActualizacion>
+
+
+
+  <MensajeChequesConfirmacionActualizacion>
+    <Mensaje>Los datos de los cheques fueron actualizados correctamente en la base de datos</Mensaje>
+    <Titulo>Actualizar Cheques</Titulo>
+  </MensajeChequesConfirmacionActualizacion>
+
+  <MensajeChequeProcesadoEliminacion>
+    <Mensaje>¿Esta seguro que desea eliminar el cheque seleccionada?</Mensaje>
+    <Titulo>Eliminar Cheque Procesado</Titulo>
+  </MensajeChequeProcesadoEliminacion>
+
+  <MensajeChequeProcesadoConfirmacionEliminacion>
+    <Mensaje>El cheque seleccionado fue eliminado correctamente</Mensaje>
+    <Titulo>Eliminar Cheque Procesado</Titulo>
+  </MensajeChequeProcesadoConfirmacionEliminacion>
+
+  <MensajeArqueoConfirmacionAdjunto>
+    <Mensaje>El archivo se subió correctamente</Mensaje>
+    <Titulo>Adjuntar PDF</Titulo>
+  </MensajeArqueoConfirmacionAdjunto>
+
+
+</mensajes>

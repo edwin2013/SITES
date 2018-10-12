@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<errores>
+
+  <ErrorPuertoConexion>
+    <Mensaje>No se pudo abrir el puerto de conexión a la cummins</Mensaje>
+    <Titulo>Error en la Conexión con la Cummins</Titulo>
+  </ErrorPuertoConexion>
+
+</errores>

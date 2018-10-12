@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<errores>
+
+  <ErrorDatosConexion>
+    <Mensaje>Hubo un error al conectarse con la base de datos,
+revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Conexión con la Base de Datos</Titulo>
+  </ErrorDatosConexion>
+
+  <ErrorSucursalesActualizacion>
+    <Mensaje>Los datos de las sucursales no pudieron actualizarse
+pues hubo un error al conectarse con la base de datos,
+revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de las Sucursales</Titulo>
+  </ErrorSucursalesActualizacion>
+
+  <ErrorCiudadRegistro>
+    <Mensaje>Los datos de la ciudad no pudieron registrarse
+pues hubo un error al conectarse con la base de datos,
+revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Ciudad</Titulo>
+  </ErrorCiudadRegistro>
+  
+  <ErrorImpresion>
+    <Mensaje>Ocurrió un error con la impresión</Mensaje>
+    <Titulo>Impresión</Titulo>
+  </ErrorImpresion>
+
+</errores>

@@ -1,0 +1,2585 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<errores>
+
+  <ErrorArqueoRegistro>
+    <Mensaje>Error al insertar el Arqueo</Mensaje>
+    <Titulo>Registro de Arqueo</Titulo>
+  </ErrorArqueoRegistro>
+  
+  
+  <ErrorInicioSesionDatos>
+    <Mensaje>Para iniciar sesión debe escribir su nombre de usuario sin el dominio y contraseña</Mensaje>
+    <Titulo>Inicio de Sesión</Titulo>
+  </ErrorInicioSesionDatos>
+
+  <ErrorFormatoCuenta>
+    <Mensaje>Debe escribir su nombre de usuario y contraseña</Mensaje>
+    <Titulo>Inicio de Sesión</Titulo>
+  </ErrorFormatoCuenta>
+
+  <ErrorCuentaNoRegistrada>
+    <Mensaje>La cuenta especificada no está registrada, revise que el nombre del usuario y la contraseña sean las correctas</Mensaje>
+    <Titulo>Inicio de Sesión</Titulo>
+  </ErrorCuentaNoRegistrada>
+
+  <ErrorCodigoInvalido>
+    <Mensaje>El código no es válido</Mensaje>
+    <Titulo>Error en la Validación del Código de Identificación</Titulo>
+  </ErrorCodigoInvalido>
+
+  <ErrorConexionAS400Datos>
+    <Mensaje>Para la conexión con AS400 debe escribir su nombre de usuario y contraseña</Mensaje>
+    <Titulo>Conexión con AS400</Titulo>
+  </ErrorConexionAS400Datos>
+
+
+
+  <ErrorDatosConexion>
+    <Mensaje>
+      Hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Conexión con la Base de Datos</Titulo>
+  </ErrorDatosConexion>
+
+  <ErrorConexionAS400>
+    <Mensaje>
+      Hubo un error al conectarse con AS400,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Conexión con AS400</Titulo>
+  </ErrorConexionAS400>
+
+  <ErrorConexionTCP>
+    <Mensaje>Hubo un error en la conexión tcp</Mensaje>
+    <Titulo>Error en la Conexión TCP</Titulo>
+  </ErrorConexionTCP>
+
+
+  <ErrorServidorAutomatizadoConexion>
+    <Mensaje>Hubo un error en la conexión del servidor automatizado</Mensaje>
+    <Titulo>Error en la Conexión del Servidor Automatizadp</Titulo>
+  </ErrorServidorAutomatizadoConexion>
+  
+
+  <ErrorVerificarCierreDuplicado>
+    <Mensaje>No se pudo verificar si el cierre ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Cierre</Titulo>
+  </ErrorVerificarCierreDuplicado>
+
+  <ErrorCierreDatosRegistro>
+    <Mensaje>Debe seleccionar todos los datos el cierre</Mensaje>
+    <Titulo>Error en el Registro del Cierre</Titulo>
+  </ErrorCierreDatosRegistro>
+
+  <ErrorCierreEliminacion>
+    <Mensaje>
+      Los datos del cierre no pudieron eliminarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Cierre</Titulo>
+  </ErrorCierreEliminacion>
+
+  <ErrorCierreRegistro>
+    <Mensaje>
+      El cierre no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Cierre</Titulo>
+  </ErrorCierreRegistro>
+
+  <ErrorCierreActualizacion>
+    <Mensaje>
+      El cierre no pudo actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Cierre</Titulo>
+  </ErrorCierreActualizacion>
+
+
+
+  <ErrorCierreDenominacionesCorteRegistro>
+    <Mensaje>
+      El corte no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Corte del Cierre por Denominación</Titulo>
+  </ErrorCierreDenominacionesCorteRegistro>
+
+  <ErrorRegistroDenominacionesCierreDatosRegistro>
+    <Mensaje>Debe seleccionar a un cajero para el registro de los montos del cierre</Mensaje>
+    <Titulo>Error en el Registro de los Montos por Denominación del Cierre</Titulo>
+  </ErrorRegistroDenominacionesCierreDatosRegistro>
+
+  <ErrorRegistroDenominacionesCierreEliminacion>
+    <Mensaje>
+      Los montos del cierre del cierre no pudieron eliminarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de los Montos por Denominación del Cierre</Titulo>
+  </ErrorRegistroDenominacionesCierreEliminacion>
+
+  <ErrorRegistroDenominacionesCierreRegistro>
+    <Mensaje>
+      Los montos del cierre no pudieron registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de los Montos por Denominación del Cierre</Titulo>
+  </ErrorRegistroDenominacionesCierreRegistro>
+
+  <ErrorRegistroDenominacionesCierreActualizacion>
+    <Mensaje>
+      Los montos del cierre no pudieron actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de los Montos por Denominación del Cierre</Titulo>
+  </ErrorRegistroDenominacionesCierreActualizacion>
+
+
+
+  <ErrorColaboradorDuplicado>
+    <Mensaje>Ya existe un colaborador con el mismo identificador o cuenta</Mensaje>
+    <Titulo>Error en el Registro del Colaborador</Titulo>
+  </ErrorColaboradorDuplicado>
+
+  <ErrorColaboradorDatosRegistro>
+    <Mensaje>
+      Debe escribir el nombre, la cuenta de acceso y el identificador del colaborador y seleccionar
+      el área de trabajo del mismo y por lo menos un puesto asignado
+    </Mensaje>
+    <Titulo>Error en el Registro del Colaborador</Titulo>
+  </ErrorColaboradorDatosRegistro>
+
+  <ErrorColaboradorEliminacion>
+    <Mensaje>
+      Los datos del colaborador seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Colaborador</Titulo>
+  </ErrorColaboradorEliminacion>
+
+  <ErrorColaboradorRegistro>
+    <Mensaje>
+      El colaborador no pudo agregarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Colaborador</Titulo>
+  </ErrorColaboradorRegistro>
+
+  <ErrorColaboradorActualizacion>
+    <Mensaje>
+      Los datos del colaborador seleccionado no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Colaborador</Titulo>
+  </ErrorColaboradorActualizacion>
+
+  <ErrorPuestoColaboradorActualizacion>
+    <Mensaje>
+      No se pudieron asignar los puestos del colaborador pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Asignación de los Puestos del Colaborador</Titulo>
+  </ErrorPuestoColaboradorActualizacion>
+
+  <ErrorPerfilColaboradorActualizacion>
+    <Mensaje>
+      No se pudieron asignar los perfiles de acceso del colaborador
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Asignación de los Puestos del Colaborador</Titulo>
+  </ErrorPerfilColaboradorActualizacion>
+
+  <ErrorVerificarColaboradorDuplicado>
+    <Mensaje>No se pudo verificar si el colaborador ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Colaborador</Titulo>
+  </ErrorVerificarColaboradorDuplicado>
+
+  <ErrorColaboradorActualizacionContrasena>
+    <Mensaje>
+      La contraseña no pudo actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Contraseña</Titulo>
+  </ErrorColaboradorActualizacionContrasena>
+
+  <ErrorColaboradorActualizacionContrasenaAnterior>
+    <Mensaje>
+      La contraseña no pudo actualizarse pues la contraseña anterior no coincide
+      con la contraseña registrada en el sistema
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Contraseña</Titulo>
+  </ErrorColaboradorActualizacionContrasenaAnterior>
+
+  <ErrorColaboradorDatosActualizacionContrasena>
+    <Mensaje>
+      Las contraseñas escritas en los campos "Nueva Contraseña" y "Repetir Nueva Contraseña"
+      no coinciden, verifique que haya escrito bien las contraseñas
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Contraseña</Titulo>
+  </ErrorColaboradorDatosActualizacionContrasena>
+
+
+
+  <ErrorClienteDuplicado>
+    <Mensaje>Ya existe un cliente con el mismo cif</Mensaje>
+    <Titulo>Error en el Registro del Cliente</Titulo>
+  </ErrorClienteDuplicado>
+
+  <ErrorClienteDatosRegistro>
+    <Mensaje>Debe escribir el nombre del cliente</Mensaje>
+    <Titulo>Error en el Registro del Cliente</Titulo>
+  </ErrorClienteDatosRegistro>
+
+  <ErrorClienteRegistro>
+    <Mensaje>
+      El cliente no pudo agregarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Cliente</Titulo>
+  </ErrorClienteRegistro>
+
+  <ErrorClienteEliminacion>
+    <Mensaje>
+      Los datos del cliente seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Cliente</Titulo>
+  </ErrorClienteEliminacion>
+
+  <ErrorClienteActualizacion>
+    <Mensaje>
+      Los datos del cliente seleccionado no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Cliente</Titulo>
+  </ErrorClienteActualizacion>
+
+  <ErrorVerificarClienteDuplicado>
+    <Mensaje>No se pudo verificar si el cliente ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Cliente</Titulo>
+  </ErrorVerificarClienteDuplicado>
+
+  <ErrorTelefonoClienteActualizacion>
+    <Mensaje>No se pudieron actualizar los teléfonos del cliente</Mensaje>
+    <Titulo>Error en la Actualización de los Teléfonos del Cliente</Titulo>
+  </ErrorTelefonoClienteActualizacion>
+
+  <ErrorCuentaClienteActualizacion>
+    <Mensaje>No se pudieron actualizar las cuentas del cliente</Mensaje>
+    <Titulo>Error en la Actualización de las Cuentas del Cliente</Titulo>
+  </ErrorCuentaClienteActualizacion>
+
+  <ErrorCorreoClienteActualizacion>
+    <Mensaje>No se pudieron actualizar los correos del cliente</Mensaje>
+    <Titulo>Error en la Actualización de los Correos del Cliente</Titulo>
+  </ErrorCorreoClienteActualizacion>
+
+
+
+  <ErrorEmpresaTransporteDatosRegistro>
+    <Mensaje>Debe escribir el nombre de la empresa de transporte</Mensaje>
+    <Titulo>Error en el Registro de la Empresa de Transporte</Titulo>
+  </ErrorEmpresaTransporteDatosRegistro>
+
+  <ErrorEmpresaTransporteRegistro>
+    <Mensaje>
+      La empresa de transporte no pudo registrarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Empresa de Transporte</Titulo>
+  </ErrorEmpresaTransporteRegistro>
+
+  <ErrorEmpresaTransporteEliminacion>
+    <Mensaje>
+      Los datos de la empresa de transporte seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Empresa de Transporte</Titulo>
+  </ErrorEmpresaTransporteEliminacion>
+
+  <ErrorEmpresaTransporteActualizacion>
+    <Mensaje>
+      Los datos de la empresa de transporte no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Empresa de Transporte</Titulo>
+  </ErrorEmpresaTransporteActualizacion>
+
+
+
+  <ErrorCamaraDatosRegistro>
+    <Mensaje>Debe escribir el identificador de la cámara</Mensaje>
+    <Titulo>Error en el Registro de la Cámara</Titulo>
+  </ErrorCamaraDatosRegistro>
+
+  <ErrorCamaraRegistro>
+    <Mensaje>
+      La camara no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Cámara</Titulo>
+  </ErrorCamaraRegistro>
+
+  <ErrorCamaraEliminacion>
+    <Mensaje>
+      Los datos de la cámara seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Cámara</Titulo>
+  </ErrorCamaraEliminacion>
+
+  <ErrorCamaraActualizacion>
+    <Mensaje>
+      Los datos de la cámara no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Cámara</Titulo>
+  </ErrorCamaraActualizacion>
+
+
+
+  <ErrorVerificarSucursalDuplicada>
+    <Mensaje>No se pudo verificar si la sucursal ya está registrada</Mensaje>
+    <Titulo>Error en la Verificación de la Sucursal</Titulo>
+  </ErrorVerificarSucursalDuplicada>
+
+  <ErrorSucursalDuplicada>
+    <Mensaje>Ya existe una sucursal con el nombre especificado</Mensaje>
+    <Titulo>Error en el Registro de la Sucursal</Titulo>
+  </ErrorSucursalDuplicada>
+
+  <ErrorSucursalDatosRegistro>
+    <Mensaje>Debe escribir el nombre de la sucursal</Mensaje>
+    <Titulo>Error en el Registro de la Sucursal</Titulo>
+  </ErrorSucursalDatosRegistro>
+
+  <ErrorSucursalRegistro>
+    <Mensaje>
+      La sucursal no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Sucursal</Titulo>
+  </ErrorSucursalRegistro>
+
+  <ErrorSucursalEliminacion>
+    <Mensaje>
+      Los datos de la sucursal seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Sucursal</Titulo>
+  </ErrorSucursalEliminacion>
+
+  <ErrorSucursalActualizacion>
+    <Mensaje>
+      Los datos de la sucursal pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Sucursal</Titulo>
+  </ErrorSucursalActualizacion>
+
+
+
+  <ErrorVerificarUbicacionDuplicada>
+    <Mensaje>No se pudo verificar si la ubicación ya está registrada</Mensaje>
+    <Titulo>Error en la Verificación de la Ubicación</Titulo>
+  </ErrorVerificarUbicacionDuplicada>
+
+  <ErrorUbicacionDuplicada>
+    <Mensaje>Ya existe una ubicación con la descripción especificada</Mensaje>
+    <Titulo>Error en el Registro de la Ubicación</Titulo>
+  </ErrorUbicacionDuplicada>
+
+  <ErrorUbicacionDatosRegistro>
+    <Mensaje>Debe escribir la oficina de la ubicación</Mensaje>
+    <Titulo>Error en el Registro de la Ubicación</Titulo>
+  </ErrorUbicacionDatosRegistro>
+
+  <ErrorUbicacionRegistro>
+    <Mensaje>
+      La ubicación no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Ubicación</Titulo>
+  </ErrorUbicacionRegistro>
+
+  <ErrorUbicacionEliminacion>
+    <Mensaje>
+      Los datos de la ubicación seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Ubicación</Titulo>
+  </ErrorUbicacionEliminacion>
+
+  <ErrorUbicacionActualizacion>
+    <Mensaje>
+      Los datos de la ubicación pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Ubicación</Titulo>
+  </ErrorUbicacionActualizacion>
+
+
+
+  <ErrorATMDuplicado>
+    <Mensaje>Ya existe un ATM con el número especificado</Mensaje>
+    <Titulo>Error en el Registro del ATM</Titulo>
+  </ErrorATMDuplicado>
+
+  <ErrorVerificarATMDuplicado>
+    <Mensaje>No se pudo verificar si el ATM ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del ATM</Titulo>
+  </ErrorVerificarATMDuplicado>
+
+  <ErrorATMDatosRegistro>
+    <Mensaje>
+      Debe indicar el número y tipo del ATM, el código, la oficina del mismo, la empresa encargada
+      y su respectiva sucursal o ubicación
+    </Mensaje>
+    <Titulo>Error en el Registro del ATM</Titulo>
+  </ErrorATMDatosRegistro>
+
+  <ErrorATMRegistro>
+    <Mensaje>
+      El ATM no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del ATM</Titulo>
+  </ErrorATMRegistro>
+
+  <ErrorATMEliminacion>
+    <Mensaje>
+      Los datos del ATM seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del ATM</Titulo>
+  </ErrorATMEliminacion>
+
+  <ErrorATMActualizacion>
+    <Mensaje>
+      Los datos del ATM no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del ATM</Titulo>
+  </ErrorATMActualizacion>
+
+
+
+  <ErrorDenominacionDatosRegistro>
+    <Mensaje>Debe asignar todos los datos de la denominación</Mensaje>
+    <Titulo>Error en el Registro de la Denominación</Titulo>
+  </ErrorDenominacionDatosRegistro>
+
+  <ErrorATMRegistro>
+    <Mensaje>
+      El ATM no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del ATM</Titulo>
+  </ErrorATMRegistro>
+
+  <ErrorATMEliminacion>
+    <Mensaje>
+      Los datos del ATM seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del ATM</Titulo>
+  </ErrorATMEliminacion>
+
+  <ErrorATMActualizacion>
+    <Mensaje>
+      Los datos del ATM no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del ATM</Titulo>
+  </ErrorATMActualizacion>
+
+
+
+  <ErrorCartuchoDuplicado>
+    <Mensaje>Ya existe un cartucho con el número especificado</Mensaje>
+    <Titulo>Error en el Registro del Cartucho</Titulo>
+  </ErrorCartuchoDuplicado>
+
+  <ErrorVerificarCartuchoDuplicado>
+    <Mensaje>No se pudo verificar si el cartucho ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Cartucho</Titulo>
+  </ErrorVerificarCartuchoDuplicado>
+
+  <ErrorCartuchoDatosRegistro>
+    <Mensaje>Debe indicar el número,tipo y denominación del cartucho</Mensaje>
+    <Titulo>Error en el Registro del ATM</Titulo>
+  </ErrorCartuchoDatosRegistro>
+
+  <ErrorCartuchoRegistro>
+    <Mensaje>
+      El cartucho no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Cartucho</Titulo>
+  </ErrorCartuchoRegistro>
+
+  <ErrorCartuchoEliminacion>
+    <Mensaje>
+      Los datos del cartucho seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Cartucho</Titulo>
+  </ErrorCartuchoEliminacion>
+
+  <ErrorCartuchoActualizacion>
+    <Mensaje>
+      Los datos del cartucho no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Cartucho</Titulo>
+  </ErrorCartuchoActualizacion>
+
+
+
+  <ErrorCanalDatosRegistro>
+    <Mensaje>Debe escribir el nombre del canal</Mensaje>
+    <Titulo>Error en el Registro del Canal</Titulo>
+  </ErrorCanalDatosRegistro>
+
+  <ErrorCanalRegistro>
+    <Mensaje>
+      El canal no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Canal</Titulo>
+  </ErrorCanalRegistro>
+
+  <ErrorCanalEliminacion>
+    <Mensaje>
+      Los datos del canal seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Canal</Titulo>
+  </ErrorCanalEliminacion>
+
+  <ErrorCanalActualizacion>
+    <Mensaje>
+      Los datos del canal no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Canal</Titulo>
+  </ErrorCanalActualizacion>
+
+
+
+  <ErrorGrupoDatosRegistro>
+    <Mensaje>Debe escribir el nombre del grupo de cajas</Mensaje>
+    <Titulo>Error en el Registro del Grupo de Cajas</Titulo>
+  </ErrorGrupoDatosRegistro>
+
+  <ErrorGrupoRegistro>
+    <Mensaje>
+      El grupo de cajas no pudo agregarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Grupo de Cajas</Titulo>
+  </ErrorGrupoRegistro>
+
+  <ErrorGrupoEliminacion>
+    <Mensaje>
+      El grupo de cajas seleccionado no pudo eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Grupo de Cajas</Titulo>
+  </ErrorGrupoEliminacion>
+
+  <ErrorGrupoActualizacion>
+    <Mensaje>
+      El grupo de cajas seleccionado no pudo actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Grupo de Cajas</Titulo>
+  </ErrorGrupoActualizacion>
+
+  <ErrorGrupoActualizacionCajas>
+    <Mensaje>
+      No se pudieron actualizar los totales del grupo
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Grupo de Cajas</Titulo>
+  </ErrorGrupoActualizacionCajas>
+
+
+
+  <ErrorTipoGestionDatosRegistro>
+    <Mensaje>Debe escribir el nombre del tipo de gestión</Mensaje>
+    <Titulo>Error en el Registro del Tipo de Gestión</Titulo>
+  </ErrorTipoGestionDatosRegistro>
+
+  <ErrorTipoGestionRegistro>
+    <Mensaje>
+      El tipo de gestión no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Tipo de Gestión</Titulo>
+  </ErrorTipoGestionRegistro>
+
+  <ErrorTipoGestionEliminacion>
+    <Mensaje>
+      Los datos del tipo de gestión seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Tipo de Gestión</Titulo>
+  </ErrorTipoGestionEliminacion>
+
+  <ErrorTipoGestionActualizacion>
+    <Mensaje>
+      Los datos del tipo de gestión no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Tipo de Gestión</Titulo>
+  </ErrorTipoGestionActualizacion>
+
+
+
+  <ErrorCausaGestionDatosRegistro>
+    <Mensaje>Debe escribir la descripción de la causa de gestión</Mensaje>
+    <Titulo>Error en el Registro de la Causa de Gestión</Titulo>
+  </ErrorCausaGestionDatosRegistro>
+
+  <ErrorCausaGestionRegistro>
+    <Mensaje>
+      La causa de gestión no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Causa de Gestión</Titulo>
+  </ErrorCausaGestionRegistro>
+
+  <ErrorCausaGestionEliminacion>
+    <Mensaje>
+      Los datos de la causa de gestión seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Causa de Gestión</Titulo>
+  </ErrorCausaGestionEliminacion>
+
+  <ErrorCausaGestionActualizacion>
+    <Mensaje>
+      Los datos de la causa de gestión no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Causa de Gestión</Titulo>
+  </ErrorCausaGestionActualizacion>
+
+
+
+  <ErrorEsquemaManifiestoDatosRegistro>
+    <Mensaje>Debe seleccionar la transportadora del manifiesto</Mensaje>
+    <Titulo>Error en el Registro del Esquema de Manifiesto</Titulo>
+  </ErrorEsquemaManifiestoDatosRegistro>
+
+  <ErrorEsquemaManifiestoRegistro>
+    <Mensaje>
+      El esquema de manifiesto no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Esquema de Manifiesto</Titulo>
+  </ErrorEsquemaManifiestoRegistro>
+
+  <ErrorEsquemaManifiestoEliminacion>
+    <Mensaje>
+      Los datos del esquema de manifiesto seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Esquema de Manifiesto</Titulo>
+  </ErrorEsquemaManifiestoEliminacion>
+
+  <ErrorEsquemaManifiestoActualizacion>
+    <Mensaje>
+      Los datos del esquema de manifiesto no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Esquema de Manifiesto</Titulo>
+  </ErrorEsquemaManifiestoActualizacion>
+
+  <ErrorPosicionesEsquemaActualizacion>
+    <Mensaje>
+      Las posiciones del esquema de manifiesto no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de las Posiciones del Esquema</Titulo>
+  </ErrorPosicionesEsquemaActualizacion>
+
+
+
+  <ErrorGestionDatosRegistro>
+    <Mensaje>Debe asignar todos los datos de la gestión</Mensaje>
+    <Titulo>Error en el Registro de la Gestión</Titulo>
+  </ErrorGestionDatosRegistro>
+
+  <ErrorGestionRegistro>
+    <Mensaje>
+      La gestión no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Gestión</Titulo>
+  </ErrorGestionRegistro>
+
+  <ErrorGestionEliminacion>
+    <Mensaje>
+      Los datos de la gestión seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Gestión</Titulo>
+  </ErrorGestionEliminacion>
+
+  <ErrorGestionActualizacion>
+    <Mensaje>
+      Los datos de la gestión no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Gestión</Titulo>
+  </ErrorGestionActualizacion>
+
+  <ErrorGestionDatosTerminacion>
+    <Mensaje>
+      Debe seleccionar los datos especificados antes de terminar la gestión
+    </Mensaje>
+    <Titulo>Error en la Terminación de la Gestión</Titulo>
+  </ErrorGestionDatosTerminacion>
+
+
+
+  <ErrorPerfilDuplicado>
+    <Mensaje>Ya existe un perfil con el mismo nombre</Mensaje>
+    <Titulo>Error en el Registro del Perfil</Titulo>
+  </ErrorPerfilDuplicado>
+
+  <ErrorPerfilDatosRegistro>
+    <Mensaje>
+      Debe escribir el nombre del perfil y seleccionar por lo menos una opción de acceso
+    </Mensaje>
+    <Titulo>Error en el Registro del Perfil</Titulo>
+  </ErrorPerfilDatosRegistro>
+
+  <ErrorPerfilEliminacion>
+    <Mensaje>
+      Los datos del perfil seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Perfil</Titulo>
+  </ErrorPerfilEliminacion>
+
+  <ErrorPerfilRegistro>
+    <Mensaje>
+      El perfil no pudo agregarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Perfil</Titulo>
+  </ErrorPerfilRegistro>
+
+  <ErrorPerfilActualizacion>
+    <Mensaje>
+      Los datos del perfil seleccionado no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Perfil</Titulo>
+  </ErrorPerfilActualizacion>
+
+  <ErrorOpcionPerfilActualizacion>
+    <Mensaje>
+      No se pudieron asignar las opciones de acceso del perfil
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Asignación de las Opciones del Perfil</Titulo>
+  </ErrorOpcionPerfilActualizacion>
+
+  <ErrorVerificarPerfilDuplicado>
+    <Mensaje>No se pudo verificar si el perfil ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Perfil</Titulo>
+  </ErrorVerificarPerfilDuplicado>
+
+  
+  
+  <ErrorPuestoDuplicado>
+    <Mensaje>Ya existe un puesto con el mismo nombre</Mensaje>
+    <Titulo>Error en el Registro del Puesto</Titulo>
+  </ErrorPuestoDuplicado>
+
+  <ErrorPuestoDatosRegistro>
+    <Mensaje>
+      Debe escribir el nombre del puesto y seleccionar por lo menos una opción de acceso
+    </Mensaje>
+    <Titulo>Error en el Registro del Puesto</Titulo>
+  </ErrorPuestoDatosRegistro>
+
+  <ErrorPuestoEliminacion>
+    <Mensaje>
+      Los datos del puesto seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Puesto</Titulo>
+  </ErrorPuestoEliminacion>
+
+  <ErrorPuestoRegistro>
+    <Mensaje>
+      El puesto no pudo agregarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Puesto</Titulo>
+  </ErrorPuestoRegistro>
+
+  <ErrorPuestoActualizacion>
+    <Mensaje>
+      Los datos del puesto seleccionado no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Puesto</Titulo>
+  </ErrorPuestoActualizacion>
+
+ 
+  <ErrorVerificarPuestoDuplicado>
+    <Mensaje>No se pudo verificar si el puesto ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Puesto</Titulo>
+  </ErrorVerificarPuestoDuplicado>
+
+
+  <ErrorRegistroHorasExtraDuplicado>
+    <Mensaje>Ya existe un registro de horas extra para el colaborador en la fecha especificada</Mensaje>
+    <Titulo>Error en el Registro de Horas Extra</Titulo>
+  </ErrorRegistroHorasExtraDuplicado>
+
+  <ErrorRegistroHorasExtraDatosRegistro>
+    <Mensaje>Debe seleccionar al colaborador al que se asignan las horas extras y especificar por lo menos un motivo y un puesto</Mensaje>
+    <Titulo>Error en el Registro de Horas Extra</Titulo>
+  </ErrorRegistroHorasExtraDatosRegistro>
+
+  <ErrorRegistroHorasExtraRegistro>
+    <Mensaje>
+      El registro de horas extra no pudo incluirse en el sistema pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de Horas Extra</Titulo>
+  </ErrorRegistroHorasExtraRegistro>
+
+  <ErrorRegistroHorasExtraEliminacion>
+    <Mensaje>
+      Los datos del registro de horas extra no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Registro de Horas Extra</Titulo>
+  </ErrorRegistroHorasExtraEliminacion>
+
+  <ErrorRegistroHorasExtraActualizacion>
+    <Mensaje>
+      El registro de horas extra no pudo actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Registro de Horas Extra</Titulo>
+  </ErrorRegistroHorasExtraActualizacion>
+
+  <ErrorRegistroHorasExtraActualizacionMotivos>
+    <Mensaje>
+      No se pudieron asignar los motivos del registro de horas extra pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Registro de Horas Extra</Titulo>
+  </ErrorRegistroHorasExtraActualizacionMotivos>
+
+
+
+  <ErrorInconsistenciaDatosRegistro>
+    <Mensaje>Debe seleccionar los datos de la inconsistencia</Mensaje>
+    <Titulo>Error en el Registro de la Inconsistencia</Titulo>
+  </ErrorInconsistenciaDatosRegistro>
+
+  <ErrorInconsistenciaClienteRegistro>
+    <Mensaje>
+      La inconsistencia no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Inconsistencia</Titulo>
+  </ErrorInconsistenciaClienteRegistro>
+
+  <ErrorInconsistenciaClienteActualizacion>
+    <Mensaje>
+      Los datos de la inconsistencia no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Inconsistencia</Titulo>
+  </ErrorInconsistenciaClienteActualizacion>
+
+  <ErrorInconsistenciaClienteEliminacion>
+    <Mensaje>
+      Los datos de la inconsistencia no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Inconsistencia</Titulo>
+  </ErrorInconsistenciaClienteEliminacion>
+
+  <ErrorInconsistenciaClienteActualizacionDeposito>
+    <Mensaje>
+      No se pudieron asignar los datos del deposito ligado a la inconsistencia
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la inconsistencia</Titulo>
+  </ErrorInconsistenciaClienteActualizacionDeposito>
+
+  <ErrorInconsistenciaClienteActualizacionManifiesto>
+    <Mensaje>
+      No se pudieron asignar los datos del manifiesto ligado a la inconsistencia
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la inconsistencia</Titulo>
+  </ErrorInconsistenciaClienteActualizacionManifiesto>
+
+
+
+  <ErrorDepositoDatosRegistro>
+    <Mensaje>Debe escribir la referencia del deposito,la cuenta el monto del mismo y seleccionar el depositante</Mensaje>
+    <Titulo>Error en el Registro  del Deposito</Titulo>
+  </ErrorDepositoDatosRegistro>
+
+  <ErrorDepositoDuplicado>
+    <Mensaje>Ya existe una Deposito con el mismo número de referencia</Mensaje>
+    <Titulo>Error en el Registro o Actualización del Deposito</Titulo>
+  </ErrorDepositoDuplicado>
+
+  <ErrorDepositoRegistro>
+    <Mensaje>
+      El deposito no pudo registrarse en el sistema pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro  del Deposito</Titulo>
+  </ErrorDepositoRegistro>
+
+  <ErrorDepositoActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos del deposito pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de Deposito</Titulo>
+  </ErrorDepositoActualizacion>
+
+  <ErrorDepositoEliminacion>
+    <Mensaje>
+      El deposito no pudo eliminarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Deposito</Titulo>
+  </ErrorDepositoEliminacion>
+
+
+
+  <ErrorVerificarTulaDuplicada>
+    <Mensaje>No se pudo verificar si es deposito ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Deposito</Titulo>
+  </ErrorVerificarTulaDuplicada>
+
+  <ErrorVerificarTulaProcesada>
+    <Mensaje>No se pudo verificar si la tula está siendo procesada</Mensaje>
+    <Titulo>Error en la Verificación de la Tula</Titulo>
+  </ErrorVerificarTulaProcesada>
+
+  <ErrorTulaDuplicada>
+    <Mensaje>Ya existe una tula con el mismo codigo</Mensaje>
+    <Titulo>Error en el Registro de la Tula</Titulo>
+  </ErrorTulaDuplicada>
+
+  <ErrorTulaCorreccion>
+    <Mensaje>La tula especificada no existe</Mensaje>
+    <Titulo>Error en la Corrección de la Tula</Titulo>
+  </ErrorTulaCorreccion>
+
+  <ErrorTulaCorreccionProcesamiento>
+    <Mensaje>La tula especificada está siendo procesada</Mensaje>
+    <Titulo>Error en la Corrección de la Tula</Titulo>
+  </ErrorTulaCorreccionProcesamiento>
+
+  <ErrorTulaEliminacion>
+    <Mensaje>
+      La tula no pudo eliminarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Tula</Titulo>
+  </ErrorTulaEliminacion>
+
+  <ErrorTulaDatosActualizacion>
+    <Mensaje>Debe seleccionar el nuevo manifiesto de la tula</Mensaje>
+    <Titulo>Error en el Registro de la Tula</Titulo>
+  </ErrorTulaDatosActualizacion>
+
+  <ErrorTulaDatosRegistro>
+    <Mensaje>Debe escribir el código de la tula y seleccionar el manifiesto de la misma</Mensaje>
+    <Titulo>Error en el Registro de la Tula</Titulo>
+  </ErrorTulaDatosRegistro>
+
+  <ErrorTulaRegistro>
+    <Mensaje>
+      La tula no pudo agregarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Tula</Titulo>
+  </ErrorTulaRegistro>
+
+  <ErrorVerificarTulaDuplicada>
+    <Mensaje>No se pudo verificar si la tula ya está registrada</Mensaje>
+    <Titulo>Error en la Verificación de la Tula</Titulo>
+  </ErrorVerificarTulaDuplicada>
+
+  <ErrorTulaActualizacionManifiesto>
+    <Mensaje>
+      El manifiesto de la tula no pudo actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Tula</Titulo>
+  </ErrorTulaActualizacionManifiesto>
+
+
+
+  <ErrorManifiestoDuplicado>
+    <Mensaje>Ya existe un manifiesto con el mismo código</Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoDuplicado>
+
+  <ErrorManifiestoDatos>
+    <Mensaje>Debe escribir el código del manifiesto</Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoDatos>
+
+  <ErrorManifiestoEliminacion>
+    <Mensaje>
+      El manifiesto no pudo eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Manifiesto</Titulo>
+  </ErrorManifiestoEliminacion>
+
+  <ErrorManifiestoDatosRegistro>
+    <Mensaje>
+      Debe escribir el código del manifiesto y seleccionar el receptor, la transportadora
+      el grupo y la caja del mismo
+    </Mensaje>
+    <Titulo>Error en el Registro del Manifiesto</Titulo>
+  </ErrorManifiestoDatosRegistro>
+
+  <ErrorManifiestoRegistro>
+    <Mensaje>
+      El manifiesto no pudo agregarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Manifiesto</Titulo>
+  </ErrorManifiestoRegistro>
+
+  <ErrorVerificarManifiestoDuplicado>
+    <Mensaje>No se pudo verificar si el manifiesto ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Manifiesto</Titulo>
+  </ErrorVerificarManifiestoDuplicado>
+
+  <ErrorManifiestoInexistente>
+    <Mensaje>El código especificado no pertenece a ningún manifiesto registrado en el sistema</Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoInexistente>
+
+  <ErrorManifiestoAsignacionFecha>
+    <Mensaje>
+      No se pudo asignar la fecha de recepción del manifiesto
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoAsignacionFecha>
+
+  <ErrorManifiestoActualizacionCodigo>
+    <Mensaje>
+      No se pudo actualizar el código del manifiesto
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoActualizacionCodigo>
+
+  <ErrorManifiestoActualizacionGrupo>
+    <Mensaje>
+      No se pudo actualizar el grupo del manifiesto
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoActualizacionGrupo>
+
+  <ErrorManifiestoActualizacionArea>
+    <Mensaje>
+      No se pudo actualizar el área del manifiesto
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoActualizacionArea>
+
+  <ErrorManifiestoActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos del manifiesto
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoActualizacion>
+
+  <ErrorManifiestoDatosActualizacionCEF>
+    <Mensaje>Debe indicar el cliente y el punto de venta del manifiesto y el cajero y el digitador que lo procesaron</Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoDatosActualizacionCEF>
+
+  <ErrorManifiestoDatosActualizacionBoveda>
+    <Mensaje>Debe indicar el cliente y punto de venta o la sucursal del manifiesto y el cajero que lo procesó</Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto</Titulo>
+  </ErrorManifiestoDatosActualizacionBoveda>
+
+  <ErrorManifiestoMarcacion>
+    <Mensaje>
+      El manifiesto no pudo ser marcado como entregado tardiamente por la empresa transportadora
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Marcación del Manifiesto</Titulo>
+  </ErrorManifiestoMarcacion>
+
+  <ErrorManifiestoDesmarcacion>
+    <Mensaje>
+      El manifiesto no pudo ser desmarcado como entregado tardiamente por la empresa transportadora
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Desmarcación del Manifiesto</Titulo>
+  </ErrorManifiestoDesmarcacion>
+
+
+
+  <ErrorVerificarManifiestoATMCargaDuplicado>
+    <Mensaje>No se pudo verificar si el manifiesto de Carga de un ATM ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Manifiesto de Carga de un ATM</Titulo>
+  </ErrorVerificarManifiestoATMCargaDuplicado>
+  
+  <ErrorManifiestoATMCargaDuplicado>
+    <Mensaje>Ya existe un manifiesto de carga de un ATM con el mismo código</Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto de Carga de un ATM</Titulo>
+  </ErrorManifiestoATMCargaDuplicado>
+
+  <ErrorManifiestoATMCargaDatosRegistro>
+    <Mensaje>
+      Debe escribir el código del manifiesto, el número de marchamo,
+      el número de bolsa adicional, además el código de manifiesto debe
+      tener un mínimo de cuatro dígitos
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto de Carga de un ATM's</Titulo>
+  </ErrorManifiestoATMCargaDatosRegistro>
+
+  <ErrorManifiestoATMCargaRegistro>
+    <Mensaje>
+      El manifiesto no pudo agregarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Manifiesto de Carga de un ATM</Titulo>
+  </ErrorManifiestoATMCargaRegistro>
+
+  <ErrorManifiestoATMCargaActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos del manifiesto
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto de Carga de un ATM</Titulo>
+  </ErrorManifiestoATMCargaActualizacion>
+
+  <ErrorManifiestoATMCargaEliminacion>
+    <Mensaje>
+      El manifiesto no pudo eliminarse pues hubo un error al
+      conectarse con la base de datos, revise que su computadora
+      este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Manifiesto de Carga de un ATM</Titulo>
+  </ErrorManifiestoATMCargaEliminacion>
+
+
+
+  <ErrorVerificarManifiestoATMFullDuplicado>
+    <Mensaje>No se pudo verificar si el manifiesto de Carga de un ATM ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Manifiesto de un ATM Full</Titulo>
+  </ErrorVerificarManifiestoATMFullDuplicado>
+
+  <ErrorManifiestoATMFullDuplicado>
+    <Mensaje>Ya existe un manifiesto de un ATM Full con el mismo código</Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto de un ATM Full</Titulo>
+  </ErrorManifiestoATMFullDuplicado>
+
+  <ErrorManifiestoATMFullDatosRegistro>
+    <Mensaje>
+      Debe escribir el código del manifiesto, el número de marchamo, y los datos
+      del ENA si es necesario, además el código de manifiesto debe tener un
+      mínimo de cuatro dígitos
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto de un ATM Full</Titulo>
+  </ErrorManifiestoATMFullDatosRegistro>
+
+  <ErrorManifiestoATMFullRegistro>
+    <Mensaje>
+      El manifiesto no pudo agregarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Manifiesto de un ATM Full</Titulo>
+  </ErrorManifiestoATMFullRegistro>
+
+  <ErrorManifiestoATMFullActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos del manifiesto
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto de un ATM Full</Titulo>
+  </ErrorManifiestoATMFullActualizacion>
+
+  <ErrorManifiestoATMFullEliminacion>
+    <Mensaje>
+      El manifiesto no pudo eliminarse pues hubo un error al
+      conectarse con la base de datos, revise que su computadora
+      este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Manifiesto de un ATM Full</Titulo>
+  </ErrorManifiestoATMFullEliminacion>
+  
+  
+  
+  <ErrorCartuchoCargaATMRegistro>
+    <Mensaje>
+      El cartucho no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Cartucho de la Carga del ATM</Titulo>
+  </ErrorCartuchoCargaATMRegistro>
+
+  <ErrorCartuchoCargaATMActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos del cartucho pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Cartucho de la Carga o Descarga del ATM</Titulo>
+  </ErrorCartuchoCargaATMActualizacion>
+
+
+
+  <ErrorRechazoDescargaATMRegistro>
+    <Mensaje>
+      El rechazo no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Rechazo de la Descarga del ATM</Titulo>
+  </ErrorRechazoDescargaATMRegistro>
+
+  <ErrorRechazoDescargaATMActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos del rechazo pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Rechazo de la Descarga del ATM</Titulo>
+  </ErrorRechazoDescargaATMActualizacion>
+
+
+
+  <ErrorContadorDescargaATMRegistro>
+    <Mensaje>
+      El contador no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Contador de la Descarga del ATM</Titulo>
+  </ErrorContadorDescargaATMRegistro>
+
+  <ErrorContadorDescargaATMActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos del contador pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Contador de la Descarga del ATM</Titulo>
+  </ErrorContadorDescargaATMActualizacion>
+
+
+
+  <ErrorSegregadosRegistro>
+    <Mensaje>
+      El manifiesto no pudo segregarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Segregación del Manifiesto</Titulo>
+  </ErrorSegregadosRegistro>
+
+  <ErrorSegregadoActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos del manifiesto segregado
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto Segregado</Titulo>
+  </ErrorSegregadoActualizacion>
+
+  <ErrorSegregadosEliminacion>
+    <Mensaje>
+      No se pudieron eliminarse los segregados del manifiesto
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Manifiesto Segregado</Titulo>
+  </ErrorSegregadosEliminacion>
+
+
+
+  <ErrorValorEliminacion>
+    <Mensaje>
+      El valor no pudo eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Valor</Titulo>
+  </ErrorValorEliminacion>
+
+  <ErrorValorRegistro>
+    <Mensaje>
+      El valor no pudo agregarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Valor</Titulo>
+  </ErrorValorRegistro>
+
+
+
+  <ErrorSobreEliminacion>
+    <Mensaje>
+      El sobre no pudo eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Sobre</Titulo>
+  </ErrorSobreEliminacion>
+
+  <ErrorSobreRegistro>
+    <Mensaje>
+      El sobre no pudo agregarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Sobre</Titulo>
+  </ErrorSobreRegistro>
+
+
+
+  <ErrorPuntosVentaActualizacion>
+    <Mensaje>
+      Los datos de los puntos de venta no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de los Puntos de Venta</Titulo>
+  </ErrorPuntosVentaActualizacion>
+
+
+
+  <ErrorTipoCambioNoRegistrado>
+    <Mensaje>No existe un tipo de cambio registrado para la fecha especificada</Mensaje>
+    <Titulo>Error al Obtener el Tipo de Cambio</Titulo>
+  </ErrorTipoCambioNoRegistrado>
+
+  <ErrorVerificarTipoCambio>
+    <Mensaje>No se pudo verificar si el tipo de cambio ya fue registrado para la fecha dada</Mensaje>
+    <Titulo>Error en la Verificación del Tipo de Cambio</Titulo>
+  </ErrorVerificarTipoCambio>
+
+  <ErrorTipoCambioDuplicado>
+    <Mensaje>El tipo de cambio para la fecha especificada ya fue registrado</Mensaje>
+    <Titulo>Error en el Registro del Tipo de Cambio</Titulo>
+  </ErrorTipoCambioDuplicado>
+
+  <ErrorTipoCambioRegistro>
+    <Mensaje>
+      El tipo de cambio no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Tipo de Cambio</Titulo>
+  </ErrorTipoCambioRegistro>
+
+  <ErrorTipoCambioActualizacion>
+    <Mensaje>
+      El tipo de cambio no pudo actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Tipo de Cambio</Titulo>
+  </ErrorTipoCambioActualizacion>
+
+
+
+  <ErrorRegistroErroresCierreDuplicado>
+    <Mensaje>Ya existe un registro de errores de cierre para el colaborador en la fecha especificada</Mensaje>
+    <Titulo>Error en el Registro de Errores de Cierre</Titulo>
+  </ErrorRegistroErroresCierreDuplicado>
+
+  <ErrorRegistroErroresCierreDatosRegistro>
+    <Mensaje>
+      Debe seleccionar al colaborador al que se asignan los errores y especificar
+      por lo menos un error si no se ha marcado la opción "Sin errores"
+    </Mensaje>
+    <Titulo>Error en el Registro de Errores de Cierre</Titulo>
+  </ErrorRegistroErroresCierreDatosRegistro>
+
+  <ErrorRegistroErroresCierreRegistro>
+    <Mensaje>
+      El registro de errores de cierre no pudo incluirse en el sistema pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de Errores de Cierre</Titulo>
+  </ErrorRegistroErroresCierreRegistro>
+
+  <ErrorRegistroErroresCierreEliminacion>
+    <Mensaje>
+      Los datos del registro de errores de cierre no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Registro de Errores de CIerre</Titulo>
+  </ErrorRegistroErroresCierreEliminacion>
+
+  <ErrorRegistroErroresCierreActualizacion>
+    <Mensaje>
+      El registro de errores de cierre no pudo actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Registro de Errores de Cierre</Titulo>
+  </ErrorRegistroErroresCierreActualizacion>
+
+
+
+  <ErrorTipoErrorCierreDatosRegistro>
+    <Mensaje>Debe escribir el nombre del tipo de error</Mensaje>
+    <Titulo>Error en el Registro del Tipo de Error de Cierre</Titulo>
+  </ErrorTipoErrorCierreDatosRegistro>
+
+  <ErrorTipoErrorCierreRegistro>
+    <Mensaje>
+      El tipo de error de cierre no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Tipo de Error de Cierre</Titulo>
+  </ErrorTipoErrorCierreRegistro>
+
+  <ErrorTipoErrorCierreEliminacion>
+    <Mensaje>
+      Los datos del tipo de error de cierre seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Tipo de Error de Cierre</Titulo>
+  </ErrorTipoErrorCierreEliminacion>
+
+  <ErrorTipoErrorCierreActualizacion>
+    <Mensaje>
+      Los datos del tipo de error de cierre no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Tipo de Error de Cierre</Titulo>
+  </ErrorTipoErrorCierreActualizacion>
+
+
+
+  <ErrorGeneracionReporte>
+    <Mensaje>
+      El reporte no pudo generarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Generación del Reporte</Titulo>
+  </ErrorGeneracionReporte>
+
+  <ErrorExcel>
+    <Mensaje>La aplicación Microsoft Excel no pudo ejecutarse</Mensaje>
+    <Titulo>Exportar Reporte a Excel</Titulo>
+  </ErrorExcel>
+
+
+
+  <ErrorImpresion>
+    <Mensaje>Ocurrió un error con la impresión</Mensaje>
+    <Titulo>Impresión</Titulo>
+  </ErrorImpresion>
+
+
+
+  <ErrorCargaATMRegistro>
+    <Mensaje>
+      La carga no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga</Titulo>
+  </ErrorCargaATMRegistro>
+
+  <ErrorCargaATMEliminacion>
+    <Mensaje>
+      Los datos de la carga seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Carga</Titulo>
+  </ErrorCargaATMEliminacion>
+
+  <ErrorCargaATMActualizacion>
+    <Mensaje>
+      Los datos de la carga pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Carga</Titulo>
+  </ErrorCargaATMActualizacion>
+
+
+  
+  <ErrorCargaEmergenciaATMDatosRegistro>
+    <Mensaje>
+      Debe seleccionar el ATM de la carga de emergencia
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga de Emergencia</Titulo>
+  </ErrorCargaEmergenciaATMDatosRegistro>
+
+  <ErrorCargaEmergenciaATMDatosRegistro>
+    <Mensaje>
+      La carga de emergencia no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga de Emergencia</Titulo>
+  </ErrorCargaEmergenciaATMDatosRegistro>
+
+  <ErrorCargaEmergenciaATMEliminacion>
+    <Mensaje>
+      Los datos de la carga de emergencia seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Carga de Emergencia</Titulo>
+  </ErrorCargaEmergenciaATMEliminacion>
+
+  <ErrorCargaEmergenciaATMFullDatosRegistro>
+    <Mensaje>
+      Debe seleccionar los datos de envío y de carga, en caso de ser necesarios, de la carga de emergencia de un ATM Full
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga de Emergencia de un ATM Full</Titulo>
+  </ErrorCargaEmergenciaATMFullDatosRegistro>
+    
+  <ErrorCargaEmergenciaATMFullRegistro>
+    <Mensaje>
+      La carga de emergencia no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga de Emergencia de un ATM Full</Titulo>
+  </ErrorCargaEmergenciaATMFullRegistro>
+
+  <ErrorCargaEmergenciaATMFullActualizacion>
+    <Mensaje>
+      La carga de emergencia de un ATM Full no pudo actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Carga de Emergencia de un ATM Full</Titulo>
+  </ErrorCargaEmergenciaATMFullActualizacion>
+  
+  <ErrorCargaEmergenciaATMFullEliminacion>
+    <Mensaje>
+      Los datos de la carga de emergencia seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Carga de Emergencia</Titulo>
+  </ErrorCargaEmergenciaATMFullEliminacion>
+  
+  
+
+  <ErrorCartuchoCargaATMRegistro>
+    <Mensaje>
+      El cartucho de la carga no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Cartucho de la Carga</Titulo>
+  </ErrorCartuchoCargaATMRegistro>
+
+  <ErrorCartuchoCargaATMActualizacion>
+    <Mensaje>
+      Los datos del cartucho de la carga no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Cartucho de la Carga</Titulo>
+  </ErrorCartuchoCargaATMActualizacion>
+
+  <ErrorCartuchoCargaATMEliminacion>
+    <Mensaje>
+      Los datos del cartucho de la carga no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Cartucho de la Carga</Titulo>
+  </ErrorCartuchoCargaATMEliminacion>
+
+
+
+  <ErrorDescargaATMRegistro>
+    <Mensaje>
+      La descarga no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Descarga</Titulo>
+  </ErrorDescargaATMRegistro>
+
+  <ErrorDescargaATMActualizacion>
+    <Mensaje>
+      Los datos de la descarga no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Descarga</Titulo>
+  </ErrorDescargaATMActualizacion>
+
+  <ErrorDescargaATMEliminacion>
+    <Mensaje>
+      Los datos de la descarga no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Descarga</Titulo>
+  </ErrorDescargaATMEliminacion>
+
+
+
+  <ErrorDescargaATMFullRegistro>
+    <Mensaje>
+      La descarga full no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Descarga Full</Titulo>
+  </ErrorDescargaATMFullRegistro>
+
+  <ErrorDescargaATMFullActualizacion>
+    <Mensaje>
+      Los datos de la descarga full no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Descarga Full</Titulo>
+  </ErrorDescargaATMFullActualizacion>
+
+  <ErrorDescargaATMFullEliminacion>
+    <Mensaje>
+      Los datos de la descarga no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Descarga Full</Titulo>
+  </ErrorDescargaATMFullEliminacion>
+
+
+
+
+  <ErrorCargasImportacion>
+    <Mensaje>
+      No se pudieron registrar todas las cargas pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Importación de las Cargas</Titulo>
+  </ErrorCargasImportacion>
+
+  <ErrorCargasImportacionFormatoArchivo>
+    <Mensaje>No se pudieron registrar las cargas porque el archivo importado no tiene el formato correcto</Mensaje>
+    <Titulo>Error en la Importación de las Cargas</Titulo>
+  </ErrorCargasImportacionFormatoArchivo>
+
+  <ErrorCargasGeneracion>
+    <Mensaje>
+      No se pudieron registrar todas las cargas pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Generación de las Cargas</Titulo>
+  </ErrorCargasGeneracion>
+
+  <ErrorCargasGeneracionFormatoArchivo>
+    <Mensaje>No se pudieron generar las cargas porque el archivo importado no tiene el formato correcto</Mensaje>
+    <Titulo>Error en la Generación de las Cargas</Titulo>
+  </ErrorCargasGeneracionFormatoArchivo>
+
+
+
+  <ErrorMontoCierreATMsRegistro>
+    <Mensaje>
+      El monto de cierre no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Monto de Cierre</Titulo>
+  </ErrorMontoCierreATMsRegistro>
+
+  <ErrorMontoCierreATMsActualizacion>
+    <Mensaje>
+      Los datos del monto de cierre no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Monto de Cierre</Titulo>
+  </ErrorMontoCierreATMsActualizacion>
+
+
+
+  <ErrorVerificarDenominacion>
+    <Mensaje>
+      No se pudo verificar si una denominación ya esta registrada pues hubo un error al conectarse
+      con la base de datos, revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Verificación de las Denominaciones</Titulo>
+  </ErrorVerificarDenominacion>
+
+
+
+  <ErrorMontosRetirosATMDuplicados>
+    <Mensaje>Los montos esperados de los retiros del ATM ya están registrados en el sistema</Mensaje>
+    <Titulo>Error en el Registro de los Montos Esperados de Retiro</Titulo>
+  </ErrorMontosRetirosATMDuplicados>
+
+  <ErrorVerificarMontosRetirosATM>
+    <Mensaje>
+      No se pudo verificar si los montos esperados de los retiros del ATM ya fueron registrados
+      pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de los Montos Esperados de Retiro</Titulo>
+  </ErrorVerificarMontosRetirosATM>
+
+  <ErrorMontosRetirosATMRegistro>
+    <Mensaje>
+      Los montos esperados de los retiros del ATM no se pudieron registrar pues hubo un error al conectarse
+      con la base de datos, revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de los Montos Esperados de Retiro</Titulo>
+  </ErrorMontosRetirosATMRegistro>
+
+  <ErrorMontosRetirosATMActualizacion>
+    <Mensaje>
+      Los montos esperados de los retiros del ATM no se pudieron actualizar pues hubo un error al conectarse
+      con la base de datos, revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de los Montos Esperados de Retiro</Titulo>
+  </ErrorMontosRetirosATMActualizacion>
+
+  <ErrorImportacionMontosRetirosFormatoArchivo>
+    <Mensaje>No se pudieron importar los montos esperados de retiros</Mensaje>
+    <Titulo>Error en la Importación de los Montos Esperados de Retiros de los ATM's</Titulo>
+  </ErrorImportacionMontosRetirosFormatoArchivo>
+
+  <ErrorMontosRetirosImportacion>
+    <Mensaje>Ocurrió un error durante la importación de los montos esperados de retiros de los ATM's</Mensaje>
+    <Titulo>Error en la Importación de los Montos Esperados de Retiros de los ATM's</Titulo>
+  </ErrorMontosRetirosImportacion>
+
+
+
+  <ErrorRegistroRemanentesATMRegistro>
+    <Mensaje>
+      El registro de montos remanentes no pudo agregarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Inclusión del Registro de Montos Remanentes de un ATM</Titulo>
+  </ErrorRegistroRemanentesATMRegistro>
+
+  <ErrorRegistroRemanentesATMActualizacion>
+    <Mensaje>
+      El registro de montos remanentes no pudo actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Registro de Montos Remanentes de un ATM</Titulo>
+  </ErrorRegistroRemanentesATMActualizacion>
+
+  <ErrorRegistrosMontosRemanentesImportacion>
+    <Mensaje>Ocurrió un error durante la importación de los montos remanentes de los ATM's</Mensaje>
+    <Titulo>Error en la Importación de los Registros de Montos Remanentes de los ATM's</Titulo>
+  </ErrorRegistrosMontosRemanentesImportacion>
+
+  <ErrorMontoRemanenteATMActualizacion>
+    <Mensaje>
+      Los montos remanentes no pudieron actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de los Montos Remanentes</Titulo>
+  </ErrorMontoRemanenteATMActualizacion>
+
+
+
+  <ErrorTrialesImportacion>
+    <Mensaje>
+      No se pudieron registrar todas los triales pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Importación de los Triales</Titulo>
+  </ErrorTrialesImportacion>
+
+  <ErrorTrialesImportacionFormatoArchivo>
+    <Mensaje>No se pudieron registrar los triales porque el archivo importado no tiene el formato correcto</Mensaje>
+    <Titulo>Error en la Importación de los Triales</Titulo>
+  </ErrorTrialesImportacionFormatoArchivo>
+
+  <ErrorTrialDescargaATMRegistro>
+    <Mensaje>
+      El trial no pudo agregarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Inclusión del Trial de Descarga</Titulo>
+  </ErrorTrialDescargaATMRegistro>
+
+  <ErrorTrialDescargaATMActualizacion>
+    <Mensaje>
+      El trial no pudo actualizarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Trial de Descarga</Titulo>
+  </ErrorTrialDescargaATMActualizacion>
+
+  <ErrorVerificarTrialDescargaATM>
+    <Mensaje>
+      Ocurrió un error al verificar si ya existe el trial de descarga,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Verificación del Trial de Descarga</Titulo>
+  </ErrorVerificarTrialDescargaATM>
+
+    
+  
+  <ErrorRegistroBitacoraMonitoreoRegistro>
+    <Mensaje>
+      No se pudo registrar la realización del monitoreo en la bitácora de monitoreo
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Monitoreo</Titulo>
+  </ErrorRegistroBitacoraMonitoreoRegistro>
+
+  <ErrorRegistroBitacoraMonitoreoActualizacion>
+    <Mensaje>
+      No se pudo registrar el comentario de monitoreo
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Comentario del Monitoreo</Titulo>
+  </ErrorRegistroBitacoraMonitoreoActualizacion>
+
+
+  <ErrorRegistroRemantentesCompletos>
+    <Mensaje>
+      No se puedo registrar los remanentes, pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Monitoreo</Titulo>
+  </ErrorRegistroRemantentesCompletos>
+
+
+  <ErrorActualizacionProveedoresATMs>
+    <Mensaje>
+      Hubo un error en la importación de los datos o la actualización
+    </Mensaje>
+    <Titulo>Error en la actualización de los proveedores</Titulo>
+  </ErrorActualizacionProveedoresATMs>
+
+
+
+  <ErrorVehiculoRegistro>
+    <Mensaje>
+      El Vehículo no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Vehículo</Titulo>
+  </ErrorVehiculoRegistro>
+
+  <ErrorVehiculoActualizacion>
+    <Mensaje>
+      Los datos del Vehículo no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Vehículo</Titulo>
+  </ErrorVehiculoActualizacion>
+
+  <ErrorVehiculoEliminacion>
+    <Mensaje>
+      Los datos del Vehiculo seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Vehículo</Titulo>
+  </ErrorVehiculoEliminacion>
+
+
+  <ErrorVerificarVehiculoDuplicado>
+    <Mensaje>No se pudo verificar si el Vehículo ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Vehículo</Titulo>
+  </ErrorVerificarVehiculoDuplicado>
+
+
+
+
+  <ErrorTripulacionRegistro>
+    <Mensaje>
+      La Tripulación no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Tripulación</Titulo>
+  </ErrorTripulacionRegistro>
+
+
+  <ErrorActualizarTripulacion>
+    <Mensaje>
+      Los datos de la Tripulación no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Tripulación</Titulo>
+  </ErrorActualizarTripulacion>
+
+
+  <ErrorTripulacionEliminacion>
+    <Mensaje>
+      Los datos de la Tripulación seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Vehículo</Titulo>
+  </ErrorTripulacionEliminacion>
+
+
+
+  <ErrorVerificarTripulacionDuplicada>
+    <Mensaje>No se pudo verificar si la Tripulación ya está registrada</Mensaje>
+    <Titulo>Error en la Verificación de la Tripulación</Titulo>
+  </ErrorVerificarTripulacionDuplicada>
+
+
+
+  <ErrorFallaRegistro>
+    <Mensaje>
+      La Falla no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Falla</Titulo>
+  </ErrorFallaRegistro>
+
+
+
+  <ErrorFallaActualizacion>
+    <Mensaje>
+      Los datos de la Falla no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Falla</Titulo>
+  </ErrorFallaActualizacion>
+
+  <ErrorFallaEliminacion>
+    <Mensaje>
+      Los datos de la falla seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Falla</Titulo>
+  </ErrorFallaEliminacion>
+
+  <ErrorVerificarFallaDuplicada>
+    <Mensaje>No se pudo verificar si el Vehículo ya está registrado</Mensaje>
+    <Titulo>Error en la Verificación del Vehículo</Titulo>
+  </ErrorVerificarFallaDuplicada>
+
+
+  <ErrorCargaSucursalRegistro>
+    <Mensaje>
+      La carga no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga</Titulo>
+  </ErrorCargaSucursalRegistro>
+
+
+
+  <ErrorCartuchoCargaSucursalRegistro>
+    <Mensaje>
+      El monto no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Monto de la Carga de la Sucursal</Titulo>
+  </ErrorCartuchoCargaSucursalRegistro>
+
+
+
+  <ErrorPedidoBancoRegistro>
+    <Mensaje>
+      El Pedido no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Pedido de la Carga</Titulo>
+  </ErrorPedidoBancoRegistro>
+
+
+  <ErrorPedidoBancoEliminacion>
+    <Mensaje>
+      Los datos del pedido seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Pedido</Titulo>
+  </ErrorPedidoBancoEliminacion>
+
+
+  <ErrorPedidoBancoActualizacion>
+    <Mensaje>
+      Los datos de la carga pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Pedido</Titulo>
+  </ErrorPedidoBancoActualizacion>
+
+
+  <ErrorCartuchoCargaSucursalesActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Cartucho del Pedido de la Sucursal</Titulo>
+  </ErrorCartuchoCargaSucursalesActualizacion>
+
+
+
+  <ErrorCargaSucursalRegistro>
+    <Mensaje>
+      La carga no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga</Titulo>
+  </ErrorCargaSucursalRegistro>
+
+  <ErrorCargaATMEliminacion>
+    <Mensaje>
+      Los datos de la carga seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Carga</Titulo>
+  </ErrorCargaATMEliminacion>
+
+  <ErrorCargaATMActualizacion>
+    <Mensaje>
+      Los datos de la carga pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de la Carga</Titulo>
+  </ErrorCargaATMActualizacion>
+
+
+
+  <ErrorCargaEmergenciaSucursalDatosRegistro>
+    <Mensaje>
+      Debe seleccionar la Sucursal de la carga de emergencia
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga de Emergencia</Titulo>
+  </ErrorCargaEmergenciaSucursalDatosRegistro>
+
+  <ErrorCargaEmergenciaSucursalDatosRegistro>
+    <Mensaje>
+      La carga de emergencia no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga de Emergencia</Titulo>
+  </ErrorCargaEmergenciaSucursalDatosRegistro>
+
+  <ErrorCargaEmergenciaSucursalEliminacion>
+    <Mensaje>
+      Los datos de la carga de emergencia seleccionada no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación de la Carga de Emergencia</Titulo>
+  </ErrorCargaEmergenciaSucursalEliminacion>
+
+
+  <ErrorCargaEmergenciaSucursalDatosRegistro>
+    <Mensaje>
+      Debe seleccionar la Sucursal de la carga de emergencia
+    </Mensaje>
+    <Titulo>Error en el Registro de la Carga de Emergencia</Titulo>
+  </ErrorCargaEmergenciaSucursalDatosRegistro>
+
+
+  <ErrorDetalleFallaActualizacion>
+    <Mensaje>
+      Los datos de las fallas no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de las Fallas</Titulo>
+  </ErrorDetalleFallaActualizacion>
+
+
+
+
+
+
+
+  <ErrorVerificarManifiestoSucursalCargaDuplicado>
+    <Mensaje>No se pudo verificar si el manifiesto de Carga de una Sucursal ya está registrada</Mensaje>
+    <Titulo>Error en la Verificación del Manifiesto de Carga de una Sucursal</Titulo>
+  </ErrorVerificarManifiestoSucursalCargaDuplicado>
+
+  <ErrorManifiestoSucursalCargaDuplicado>
+    <Mensaje>Ya existe un manifiesto de carga de una Sucursal con el mismo código</Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto de Carga de una Sucursal</Titulo>
+  </ErrorManifiestoSucursalCargaDuplicado>
+
+  <ErrorManifiestoSucursalCargaDatosRegistro>
+    <Mensaje>
+      Debe escribir el código del manifiesto, el número de serie de la tula,
+      además el código de manifiesto debe
+      tener un mínimo de cuatro dígitos
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto de Carga de una Sucursal</Titulo>
+  </ErrorManifiestoSucursalCargaDatosRegistro>
+
+  <ErrorManifiestoSucursalCargaRegistro>
+    <Mensaje>
+      El manifiesto no pudo agregarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Manifiesto de Carga de una Sucursal</Titulo>
+  </ErrorManifiestoSucursalCargaRegistro>
+
+  <ErrorManifiestoSucursalCargaActualizacion>
+    <Mensaje>
+      No se pudieron actualizar los datos del manifiesto
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manifiesto de Carga de una Sucursal</Titulo>
+  </ErrorManifiestoSucursalCargaActualizacion>
+
+  <ErrorManifiestoSucursalCargaEliminacion>
+    <Mensaje>
+      El manifiesto no pudo eliminarse pues hubo un error al
+      conectarse con la base de datos, revise que su computadora
+      este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Manifiesto de Carga de una Sucursal</Titulo>
+  </ErrorManifiestoSucursalCargaEliminacion>
+
+  <ErrorActualizacionInconsistencia>
+    <Mensaje>
+      La inconsistencia no pudo actualizarse pues hubo un error al
+      conectarse con la base de datos, revise que su computadora
+      este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización de Inconsistencias</Titulo>
+  </ErrorActualizacionInconsistencia>
+
+
+
+  <ErrorDispositivoRegistro>
+    <Mensaje>
+      El dispositivo no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Dispositivo</Titulo>
+  </ErrorDispositivoRegistro>
+
+
+  <ErrorCargaATMDatosRegistro>
+    <Mensaje>
+      El código de apertura no puede ser vacío
+    </Mensaje>
+    <Titulo>Error en el Registro del código</Titulo>
+  </ErrorCargaATMDatosRegistro>
+
+
+
+
+  <ErrorManojoRegistro>
+    <Mensaje>
+      El Manojo no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Manojo</Titulo>
+  </ErrorManojoRegistro>
+
+  <ErrorManojoActualizacion>
+    <Mensaje>
+      Los datos del Manojo no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Manojo</Titulo>
+  </ErrorManojoActualizacion>
+
+  <ErrorManojoEliminacion>
+    <Mensaje>
+      Los datos del Manojo seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Manojo</Titulo>
+  </ErrorManojoEliminacion>
+
+
+  <ErrorVerificarManojoDuplicado>
+    <Mensaje>Ya existe un manojo con el mismo nombre</Mensaje>
+    <Titulo>Error en la Verificación del Manojo</Titulo>
+  </ErrorVerificarManojoDuplicado>
+
+
+
+
+
+
+  <ErrorTipoEquipoRegistro>
+    <Mensaje>
+      El Tipo de Equipo no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Tipo de Equipo</Titulo>
+  </ErrorTipoEquipoRegistro>
+
+  <ErrorTipoEquipoActualizacion>
+    <Mensaje>
+      Los datos del Tipo de Equipo no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Tipo de Equipo</Titulo>
+  </ErrorTipoEquipoActualizacion>
+
+  <ErrorTipoEquipoEliminacion>
+    <Mensaje>
+      Los datos del Tipo de Equipo seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Tipo de Equipo</Titulo>
+  </ErrorTipoEquipoEliminacion>
+
+
+  <ErrorVerificarTipoEquipoDuplicado>
+    <Mensaje>Ya existe un tipo de equipo con el mismo nombre</Mensaje>
+    <Titulo>Error en la Verificación del Tipo de Equipo</Titulo>
+  </ErrorVerificarTipoEquipoDuplicado>
+
+
+
+
+
+
+  <ErrorEquipoRegistro>
+    <Mensaje>
+      El Equipo no pudo registrarse pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en el Registro del Equipo</Titulo>
+  </ErrorEquipoRegistro>
+
+  <ErrorEquipoActualizacion>
+    <Mensaje>
+      Los datos del Equipo no pudieron actualizarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Actualización del Equipo</Titulo>
+  </ErrorEquipoActualizacion>
+
+  <ErrorEquipoEliminacion>
+    <Mensaje>
+      Los datos del Equipo seleccionado no pudieron eliminarse
+      pues hubo un error al conectarse con la base de datos,
+      revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Eliminación del Equipo</Titulo>
+  </ErrorEquipoEliminacion>
+
+
+  <ErrorVerificarEquipoDuplicado>
+    <Mensaje>Ya existe un tipo de equipo con la misma serie</Mensaje>
+    <Titulo>Error en la Verificación del Equipo</Titulo>
+  </ErrorVerificarEquipoDuplicado>
+  
+
+
+
+<ErrorCantidadDigitos>
+    <Mensaje>
+      El monto total no puede ser menor a la cantidad asignada.
+    </Mensaje>
+    <Titulo>Error en Cantidad de Montos</Titulo>
+  </ErrorCantidadDigitos>
+
+
+
+  <ErrorFeriadoDatosRegistro>
+    <Mensaje>Debe escribir una descripción para el feriado </Mensaje>
+    <Titulo>Error en el Registro del Feriado</Titulo>
+  </ErrorFeriadoDatosRegistro>
+
+  <ErrorFeriadoEliminacion>
+    <Mensaje>El feriado seleccionado no pudo eliminarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Eliminación del Feriado</Titulo>
+  </ErrorFeriadoEliminacion>
+
+  <ErrorFeriadoRegistro>
+    <Mensaje>El feriado no pudo agregarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en el Registro del Feriado</Titulo>
+  </ErrorFeriadoRegistro>
+
+  <ErrorFeriadoActualizacion>
+    <Mensaje>El feriado seleccionado no pudo actualizarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Actualización del Feriado</Titulo>
+  </ErrorFeriadoActualizacion>
+
+  <ErrorFeriadoTerminacion>
+    <Mensaje>No se pudo terminar el feriado pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Actualización del Feriado</Titulo>
+  </ErrorFeriadoTerminacion>
+
+
+
+
+
+
+
+  <ErrorTipoPenalidadDatosRegistro>
+    <Mensaje>Debe escribir una descripción para el tipo de Penalidad </Mensaje>
+    <Titulo>Error en el Registro del Tipo de Penalidad</Titulo>
+  </ErrorTipoPenalidadDatosRegistro>
+
+  <ErrorTipoPenalidadEliminacion>
+    <Mensaje>El tipo de penalidad seleccionado no pudo eliminarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Eliminación del Tipo de Penalidad</Titulo>
+  </ErrorTipoPenalidadEliminacion>
+
+  <ErrorTipoPenalidadRegistro>
+    <Mensaje>El tipo de penalidad no pudo agregarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en el Registro del Tipo de Penalidad</Titulo>
+  </ErrorTipoPenalidadRegistro>
+
+  <ErrorTipoPenalidadActualizacion>
+    <Mensaje>El tipo de penalidad seleccionado no pudo actualizarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Actualización del Tipo de Penalidad</Titulo>
+  </ErrorTipoPenalidadActualizacion>
+
+
+
+
+
+  <ErrorPenalidadDatosRegistro>
+    <Mensaje>Debe escribir una descripción para la Penalidad </Mensaje>
+    <Titulo>Error en el Registro de la Penalidad</Titulo>
+  </ErrorPenalidadDatosRegistro>
+
+  <ErrorPenalidadEliminacion>
+    <Mensaje>La penalidad seleccionada no pudo eliminarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Eliminación de la Penalidad</Titulo>
+  </ErrorPenalidadEliminacion>
+
+  <ErrorPenalidadRegistro>
+    <Mensaje>La penalidad no pudo agregarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en el Registro de Penalidades</Titulo>
+  </ErrorPenalidadRegistro>
+
+  <ErrorPenalidadActualizacion>
+    <Mensaje>La penalidad seleccionada no pudo actualizarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Actualización de la Penalidad</Titulo>
+  </ErrorPenalidadActualizacion>
+
+
+
+
+
+  <ErrorRegistroPenalidadDatosRegistro>
+    <Mensaje>Debe escribir una descripción para la Penalidad </Mensaje>
+    <Titulo>Error en el Registro de la Penalidad</Titulo>
+  </ErrorRegistroPenalidadDatosRegistro>
+
+  <ErrorRegistroPenalidadEliminacion>
+    <Mensaje>El Registro de Penalidad seleccionado no pudo eliminarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Eliminación del Registro Penalidad</Titulo>
+  </ErrorRegistroPenalidadEliminacion>
+
+  <ErrorRegistroPenalidadRegistro>
+    <Mensaje>El Registro de Penalidad no pudo agregarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en el Registro de Penalidades</Titulo>
+  </ErrorRegistroPenalidadRegistro>
+
+  <ErrorRegistroPenalidadActualizacion>
+    <Mensaje>El Registro de la Penalidad seleccionada no pudo actualizarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Actualización del Registro de Penalidad</Titulo>
+  </ErrorRegistroPenalidadActualizacion>
+
+
+
+
+
+  <ErrorNivelServicioDatosRegistro>
+    <Mensaje>Debe escribir una descripción para la Penalidad </Mensaje>
+    <Titulo>Error en el Nivel de Servicio</Titulo>
+  </ErrorNivelServicioDatosRegistro>
+
+  <ErrorNivelServicioEliminacion>
+    <Mensaje>El Nivel de Servicio seleccionado no pudo eliminarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Eliminación del Nivel de Servicio</Titulo>
+  </ErrorNivelServicioEliminacion>
+
+  <ErrorNivelServicioRegistro>
+    <Mensaje>El Nivel de Servicio no pudo agregarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en el Nivel de Servicio</Titulo>
+  </ErrorNivelServicioRegistro>
+
+  <ErrorNivelServicioActualizacion>
+    <Mensaje>El Registro de la Penalidad seleccionada no pudo actualizarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Actualización del Registro de Penalidad</Titulo>
+  </ErrorNivelServicioActualizacion>
+
+
+
+
+  <ErrorImportacionTarifasTransportadoras>
+    <Mensaje>No se pudieron importar los datos correctamente, favor revisar el formato del archivo.</Mensaje>
+    <Titulo>Error al Importar las Tarifas de las Transportadoras</Titulo>
+  </ErrorImportacionTarifasTransportadoras>
+
+
+  <ErrorActualizacionTarifasTransportadoras>
+    <Mensaje>No se pudieron actualizar los datos correctamente</Mensaje>
+    <Titulo>Error al actualizar las Tarifas de las Transportadoras</Titulo>
+  </ErrorActualizacionTarifasTransportadoras>
+
+
+  <ErrorPromedioDescargaATMDatosRegistro>
+    <Mensaje>Debe escribir una descripción para el promedio </Mensaje>
+    <Titulo>Error en el promedio</Titulo>
+  </ErrorPromedioDescargaATMDatosRegistro>
+
+  <ErrorPromedioDescargaATMEliminacion>
+    <Mensaje>El promedio seleccionado no pudo eliminarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Eliminación del Promedio de Descargas de ATMs</Titulo>
+  </ErrorPromedioDescargaATMEliminacion>
+
+    <ErrorPromedioDescargaATMRegistro>
+    <Mensaje>El promedio no pudo agregarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en el Promedio de Descargas</Titulo>
+  </ErrorPromedioDescargaATMRegistro>
+
+  <ErrorPromedioDescargaATMActualizacion>
+    <Mensaje>El promedio seleccionada no pudo actualizarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Actualización del Promedio de Descargas</Titulo>
+  </ErrorPromedioDescargaATMActualizacion>
+
+
+
+
+  <ErrorPromedioRemanenteATMDatosRegistro>
+    <Mensaje>Debe escribir una descripción para el promedio </Mensaje>
+    <Titulo>Error en el promedio</Titulo>
+  </ErrorPromedioRemanenteATMDatosRegistro>
+
+  <ErrorPromedioRemanenteATMEliminacion>
+    <Mensaje>El promedio seleccionado no pudo eliminarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Eliminación del Promedio de Descargas de ATMs</Titulo>
+  </ErrorPromedioRemanenteATMEliminacion>
+
+  <ErrorPromedioRemanenteATMRegistro>
+    <Mensaje>El promedio no pudo agregarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en el Promedio de Descargas</Titulo>
+  </ErrorPromedioRemanenteATMRegistro>
+
+  <ErrorPromedioRemanenteATMActualizacion>
+    <Mensaje>El promedio seleccionada no pudo actualizarse pues hubo un error al conectarse con la base de datos, revise que su computadora este conectada a la red</Mensaje>
+    <Titulo>Error en la Actualización del Promedio de Descargas</Titulo>
+  </ErrorPromedioRemanenteATMActualizacion>
+
+
+
+  <ErrorCantidadMonedasBolsaNiquelRegistro>
+    <Mensaje>Se debe seleccionar una denominación y una cantidad</Mensaje>
+    <Titulo>Error en la Inserción de Cantidad de Piezas por bolsa</Titulo>
+  </ErrorCantidadMonedasBolsaNiquelRegistro>
+
+  <ErrorMaximaCantidadTulas>
+    <Mensaje>Ha alcanzado la máxima cantidad de registros de bolsas y tulas para este manifiesto</Mensaje>
+    <Titulo>Cantidad de registros por manifiesto</Titulo>
+  </ErrorMaximaCantidadTulas>
+
+  <ErrorSaldoLibroBovedaDatosRegistro>
+    <Mensaje>Error en el registro del saldo</Mensaje>
+    <Titulo>Error en el registro del saldo</Titulo>
+  </ErrorSaldoLibroBovedaDatosRegistro>
+
+  <ErrorSaldoLibroBovedaEliminacion>
+    <Mensaje>El dato no pudo eliminarse pues hubo un error en la base de datos</Mensaje>
+    <Titulo>Error en la Eliminación del Libro</Titulo>
+  </ErrorSaldoLibroBovedaEliminacion>
+
+    <ErrorSaldoLibroBovedaActualizacion>
+    <Mensaje>El saldo de libro no pudo actualizarse pues hubo un error en la base de datos</Mensaje>
+    <Titulo>Error en la Actualización del Saldo del Libro</Titulo>
+  </ErrorSaldoLibroBovedaActualizacion>
+
+</errores>
+
+
+
+
+
+

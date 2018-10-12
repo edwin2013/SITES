@@ -1,0 +1,363 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GUILayer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UltimoReceptor" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UltimaEmpresaTransporte" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UsuarioBD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UsuarioST</Value>
+    </Setting>
+    <Setting Name="PassBD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Credomatic</Value>
+    </Setting>
+    <Setting Name="BaseDatos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SISTEMA TESORERIA</Value>
+    </Setting>
+    <Setting Name="ServidorBD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.120.201.56</Value>
+    </Setting>
+    <Setting Name="BaudRate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="Impresora" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CeldaADenominacionesImportacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E7</Value>
+    </Setting>
+    <Setting Name="CeldaBDenominacionesImportacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">O7</Value>
+    </Setting>
+    <Setting Name="CeldaATMsImportacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P8</Value>
+    </Setting>
+    <Setting Name="CeldaFechaImportacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I4</Value>
+    </Setting>
+    <Setting Name="CeldaTiposATMsImportacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Q8</Value>
+    </Setting>
+    <Setting Name="ErrorImportacionCargasATMDesconocido" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Cornsilk</Value>
+    </Setting>
+    <Setting Name="ErrorImportacionCargasTipoCargaErronea" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Turquoise</Value>
+    </Setting>
+    <Setting Name="ErrorImportacionCargasCantidadCarga" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightGreen</Value>
+    </Setting>
+    <Setting Name="ErrorImportacionCargasDenominacionCarga" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightBlue</Value>
+    </Setting>
+    <Setting Name="ErrorImportacionCargasNumeroCartuchos" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 255</Value>
+    </Setting>
+    <Setting Name="ImpresoraManifiestos" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ErrorGeneracionCargasATMDesconocido" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="ErrorGeneracionCargasMonto" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 128</Value>
+    </Setting>
+    <Setting Name="ErrorGeneracionCargasCantidadDenominaciones" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">IndianRed</Value>
+    </Setting>
+    <Setting Name="ErrorGeneracionCargasDenominaciones" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">128, 128, 255</Value>
+    </Setting>
+    <Setting Name="ErrorGeneracionCargasCantidadCartuchos" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Khaki</Value>
+    </Setting>
+    <Setting Name="CeldaADenominacionesGeneracion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D5</Value>
+    </Setting>
+    <Setting Name="CeldaBDenominacionesGeneracion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G5</Value>
+    </Setting>
+    <Setting Name="CeldaATMsAGeneracion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B6</Value>
+    </Setting>
+    <Setting Name="CeldaFechaGeneracion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B3</Value>
+    </Setting>
+    <Setting Name="CeldaCDenominacionesGeneracion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M5</Value>
+    </Setting>
+    <Setting Name="CeldaDDenominacionesGeneracion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M5</Value>
+    </Setting>
+    <Setting Name="CeldaATMsBGeneracion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">K6</Value>
+    </Setting>
+    <Setting Name="ErrorGeneracionCargasBalanceo" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 192, 128</Value>
+    </Setting>
+    <Setting Name="ErrorGeneracionMinimoFormulas" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Silver</Value>
+    </Setting>
+    <Setting Name="ServidorAS400" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CRI400A</Value>
+    </Setting>
+    <Setting Name="IPServidorAutomatizado" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.120.131.100</Value>
+    </Setting>
+    <Setting Name="PuertoServidorAutomatizado" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8001</Value>
+    </Setting>
+    <Setting Name="CeldaCarga" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B3</Value>
+    </Setting>
+    <Setting Name="CeldaATMCargaAtmRuta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C3</Value>
+    </Setting>
+    <Setting Name="CeldaRutaCargaATM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D3</Value>
+    </Setting>
+    <Setting Name="CeldaHoraCargaATM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E3</Value>
+    </Setting>
+    <Setting Name="CeldaImportacionSucursal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A2</Value>
+    </Setting>
+    <Setting Name="CeldaSucursalDireccion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C2</Value>
+    </Setting>
+    <Setting Name="CeldaSucursalProvincia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D2</Value>
+    </Setting>
+    <Setting Name="CeldaSucursalTransportadora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F2</Value>
+    </Setting>
+    <Setting Name="CeldaSucursalTipo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E2</Value>
+    </Setting>
+    <Setting Name="CeldaSucursalEntidad" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B2</Value>
+    </Setting>
+    <Setting Name="CeldaSucucursalEmergenciaCeldaPDenominacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C5</Value>
+    </Setting>
+    <Setting Name="CeldaSucucursalEmergenciaCeldaSDenominacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D5</Value>
+    </Setting>
+    <Setting Name="CedlaSucursalEmergenciaCeldaTDenominacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H5</Value>
+    </Setting>
+    <Setting Name="CeldaSucursalEmergenciaCeldaCDenominacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H5</Value>
+    </Setting>
+    <Setting Name="CeldaSucursalEmergenciaATMDolares" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F6</Value>
+    </Setting>
+    <Setting Name="CeldaSucursalEmergenciaColones" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A6</Value>
+    </Setting>
+    <Setting Name="CeldaSucursalEmergenciaRuta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I6</Value>
+    </Setting>
+    <Setting Name="CeldaTrasnportadoraPlanillas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F1</Value>
+    </Setting>
+    <Setting Name="CeldaFechaPlanillas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A4</Value>
+    </Setting>
+    <Setting Name="CeldaTulaPlanillas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G4</Value>
+    </Setting>
+    <Setting Name="CeldaManifiestoPlanillas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I4</Value>
+    </Setting>
+    <Setting Name="SolicitudCodigoApertura" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="EsperaCodigoCierre" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gold</Value>
+    </Setting>
+    <Setting Name="CodigoCierreRecibido" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Lime</Value>
+    </Setting>
+    <Setting Name="CeldaIDBAC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C4</Value>
+    </Setting>
+    <Setting Name="CeldaTipoPunto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D4</Value>
+    </Setting>
+    <Setting Name="CeldaManifiesto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I4</Value>
+    </Setting>
+    <Setting Name="CeldaTarifa" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P4</Value>
+    </Setting>
+    <Setting Name="CeldaRecargo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Q4</Value>
+    </Setting>
+    <Setting Name="CeldaTotalFacturar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">R4</Value>
+    </Setting>
+    <Setting Name="CeldaFechaFacturacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A4</Value>
+    </Setting>
+    <Setting Name="CeldaPrimeraDenominacionColonesNiquel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F7</Value>
+    </Setting>
+    <Setting Name="CeldaSegundaDenominacionColonesNiquel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Q7</Value>
+    </Setting>
+    <Setting Name="CeldaPrimeraDenominacionDolaresNiquel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">R7</Value>
+    </Setting>
+    <Setting Name="CeldaSegundaDenominacionDolaresNiquel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">W7</Value>
+    </Setting>
+    <Setting Name="CeldaClienteNiquel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B8</Value>
+    </Setting>
+    <Setting Name="CeldaFechaNiquel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G4</Value>
+    </Setting>
+    <Setting Name="CeldaTransportadoraNiquel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E8</Value>
+    </Setting>
+    <Setting Name="CeldaIDBacs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C4</Value>
+    </Setting>
+    <Setting Name="CeldaPuntoVenta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D4</Value>
+    </Setting>
+    <Setting Name="CeldaTotal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">R4</Value>
+    </Setting>
+    <Setting Name="CeldaMontoPlanillas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">J4</Value>
+    </Setting>
+    <Setting Name="CeldaMontoTula" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H4</Value>
+    </Setting>
+    <Setting Name="CeldaTulaFacturacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G4</Value>
+    </Setting>
+    <Setting Name="CeldaCodigoCompass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A2</Value>
+    </Setting>
+    <Setting Name="CeldaCuentaCompass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B2</Value>
+    </Setting>
+    <Setting Name="CeldaMontoCompass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E2</Value>
+    </Setting>
+    <Setting Name="CeldaReferenciaCompass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F2</Value>
+    </Setting>
+    <Setting Name="CeldaPuntoVentaCompass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G2</Value>
+    </Setting>
+    <Setting Name="CeldaIdentificacionCompass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I2</Value>
+    </Setting>
+    <Setting Name="CeldaDepositoCompass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">K2</Value>
+    </Setting>
+    <Setting Name="CeldaManifiestoCompass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">L2</Value>
+    </Setting>
+    <Setting Name="CeldaClienteCompass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M2</Value>
+    </Setting>
+    <Setting Name="CeldaCodigoTransportadora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A9</Value>
+    </Setting>
+    <Setting Name="CeldaCuentaTransportadora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B9</Value>
+    </Setting>
+    <Setting Name="CeldaMontoTransportadora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E9</Value>
+    </Setting>
+    <Setting Name="CeldaReferenciaTransportadora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F9</Value>
+    </Setting>
+    <Setting Name="CeldaPuntoVentaTransportadora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">J9</Value>
+    </Setting>
+    <Setting Name="CeldaIdentificacionTransportadora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I9</Value>
+    </Setting>
+    <Setting Name="CeldaDepositoTransportadora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M9</Value>
+    </Setting>
+    <Setting Name="CeldaManifiestoTransportadora" Type="System.String" Scope="User">
+      <Value Profile="(Default)">K9</Value>
+    </Setting>
+    <Setting Name="CeldaFechaTarifaEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A6</Value>
+    </Setting>
+    <Setting Name="CeldaIDPedidoEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B6</Value>
+    </Setting>
+    <Setting Name="CeldaIDBACEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C6</Value>
+    </Setting>
+    <Setting Name="CeldaTipoClienteEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D6</Value>
+    </Setting>
+    <Setting Name="CeldaTipoServicioEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G6</Value>
+    </Setting>
+    <Setting Name="CeldaPlanillaEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H6</Value>
+    </Setting>
+    <Setting Name="CeldaMontoEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I6</Value>
+    </Setting>
+    <Setting Name="CeldaMontoExcedenteEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">J6</Value>
+    </Setting>
+    <Setting Name="CeldaTipoCambioEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">K6</Value>
+    </Setting>
+    <Setting Name="CeldaTarifaNiquelEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">L6</Value>
+    </Setting>
+    <Setting Name="CeldaVisitaCompartidaEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">M6</Value>
+    </Setting>
+    <Setting Name="CeldaVisitaNocturnaEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">N6</Value>
+    </Setting>
+    <Setting Name="CeldaRecargoEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">O6</Value>
+    </Setting>
+    <Setting Name="CeldaTotalEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P6</Value>
+    </Setting>
+    <Setting Name="CeldaTransportadoraEnvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H1</Value>
+    </Setting>
+    <Setting Name="CeldaCartuchoM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A2</Value>
+    </Setting>
+    <Setting Name="CeldaTipoM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B2</Value>
+    </Setting>
+    <Setting Name="CeldaEstadoM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C2</Value>
+    </Setting>
+    <Setting Name="CeldaTransportadoraM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D2</Value>
+    </Setting>
+    <Setting Name="CeldaProveedorM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E2</Value>
+    </Setting>
+    <Setting Name="LPAD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LDAP://CRI.CORP.REDBAC.COM:389/DC=CRI,DC=CORP,DC=REDBAC,DC=com</Value>
+    </Setting>
+    <Setting Name="BDSwitch" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.122.3.127,3033</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,218 @@
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmImpresionManifiestos.resources
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionCiudades.resources
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionSucursales.resources
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.Properties.Resources.resources
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\Xml\excepciones.xml
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\Xml\mensajes.xml
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.config
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.manifest
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.application
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.pdb
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\BussinessLayer.dll
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\CommonObjects.dll
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.dll
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaMensajes.dll
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.dll
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\DataLayer.dll
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\BussinessLayer.pdb
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\CommonObjects.pdb
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.pdb
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaMensajes.pdb
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.pdb
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\bin\Release\DataLayer.pdb
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe.manifest
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.application
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe
+C:\Users\egchavarria\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.pdb
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\Xml\excepciones.xml
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\Xml\mensajes.xml
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.config
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.manifest
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\ImpresionManifiestos.application
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\ImpresionManifiestos.pdb
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\BussinessLayer.dll
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\CommonObjects.dll
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.dll
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\LibreriaMensajes.dll
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.dll
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\DataLayer.dll
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\BussinessLayer.pdb
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\CommonObjects.pdb
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.pdb
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\LibreriaMensajes.pdb
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.pdb
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\bin\Release\DataLayer.pdb
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmImpresionManifiestos.resources
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionCiudades.resources
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionSucursales.resources
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.Properties.Resources.resources
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe.manifest
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.application
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe
+C:\Users\egchavarria\Desktop\SITES VERSION ERICK\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.pdb
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\Xml\excepciones.xml
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\Xml\mensajes.xml
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.config
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.manifest
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.application
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.pdb
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\BussinessLayer.dll
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\CommonObjects.dll
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.dll
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\LibreriaMensajes.dll
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.dll
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\DataLayer.dll
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\BussinessLayer.pdb
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\CommonObjects.pdb
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.pdb
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\LibreriaMensajes.pdb
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.pdb
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\bin\Release\DataLayer.pdb
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmImpresionManifiestos.resources
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionCiudades.resources
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionSucursales.resources
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.Properties.Resources.resources
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ResGen.read.1.tlog
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ResGen.write.1.tlog
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe.manifest
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.application
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe
+C:\Documents and Settings\kvasquezj\Escritorio\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.pdb
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\Xml\excepciones.xml
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\Xml\mensajes.xml
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.config
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.manifest
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.application
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\ImpresionManifiestos.pdb
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\BussinessLayer.dll
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\CommonObjects.dll
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.dll
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaMensajes.dll
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.dll
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\DataLayer.dll
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\BussinessLayer.pdb
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\CommonObjects.pdb
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.pdb
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaMensajes.pdb
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.pdb
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\bin\Release\DataLayer.pdb
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmImpresionManifiestos.resources
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionCiudades.resources
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionSucursales.resources
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.Properties.Resources.resources
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\GenerateResource-ResGen.read.6.tlog
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe.manifest
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.application
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe
+C:\Users\ymoraf\Desktop\SITES\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.pdb
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\Xml\excepciones.xml
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\Xml\mensajes.xml
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.config
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.manifest
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\ImpresionManifiestos.application
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\ImpresionManifiestos.pdb
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\BussinessLayer.dll
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\CommonObjects.dll
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.dll
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\LibreriaMensajes.dll
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.dll
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\DataLayer.dll
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\BussinessLayer.pdb
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\CommonObjects.pdb
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.pdb
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\LibreriaMensajes.pdb
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.pdb
+F:\Karla\SITES Version 5\ImpresionManifiestos\bin\Release\DataLayer.pdb
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmImpresionManifiestos.resources
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionCiudades.resources
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionSucursales.resources
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.Properties.Resources.resources
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\GenerateResource-ResGen.read.6.tlog
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ResGen.read.1.tlog
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ResGen.write.1.tlog
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe.manifest
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.application
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe
+F:\Karla\SITES Version 5\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.pdb
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\Xml\excepciones.xml
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\Xml\mensajes.xml
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.config
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.manifest
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\ImpresionManifiestos.application
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\ImpresionManifiestos.pdb
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\BussinessLayer.dll
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\CommonObjects.dll
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.dll
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\LibreriaMensajes.dll
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.dll
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\DataLayer.dll
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\BussinessLayer.pdb
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\CommonObjects.pdb
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.pdb
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\LibreriaMensajes.pdb
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.pdb
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\bin\Release\DataLayer.pdb
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmImpresionManifiestos.resources
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionCiudades.resources
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionSucursales.resources
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.Properties.Resources.resources
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe.manifest
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.application
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe
+C:\Users\ymoraf\Desktop\SITES Version 7\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.pdb
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\Xml\excepciones.xml
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\Xml\mensajes.xml
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.config
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe.manifest
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\ImpresionManifiestos.application
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\ImpresionManifiestos.exe
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\ImpresionManifiestos.pdb
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\BussinessLayer.dll
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\CommonObjects.dll
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.dll
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\LibreriaMensajes.dll
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.dll
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\DataLayer.dll
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\BussinessLayer.pdb
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\CommonObjects.pdb
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\LibreriaAccesoDatos.pdb
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\LibreriaMensajes.pdb
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\LibreriaReportesOffice.pdb
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\bin\Release\DataLayer.pdb
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.csprojResolveAssemblyReference.cache
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmImpresionManifiestos.resources
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionCiudades.resources
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.frmInclusionSucursales.resources
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.Properties.Resources.resources
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.csproj.GenerateResource.Cache
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe.manifest
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.application
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.exe
+C:\Users\egchavarria\Desktop\SITES Version 7_28.04.2014\ImpresionManifiestos\obj\x86\Release\ImpresionManifiestos.pdb

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mensajes>
+
+  <MensajeClienteSucursalRegistro>
+    <Mensaje>¿Desea registrar la nueva sucursal para el cliente?</Mensaje>
+    <Titulo>Agregar Sucursal</Titulo>
+  </MensajeClienteSucursalRegistro>
+
+  <MensajeClienteSucursalConfirmacionRegistro>
+    <Mensaje>La Sucursal fue registrada correctamente</Mensaje>
+    <Titulo>Agregar Sucursal</Titulo>
+  </MensajeClienteSucursalConfirmacionRegistro>
+
+  <MensajeCiudadRegistro>
+    <Mensaje>¿Desea registrar la nueva ciudad?</Mensaje>
+    <Titulo>Agregar Ciudad</Titulo>
+  </MensajeCiudadRegistro>
+
+  <MensajeCiudadConfirmacionRegistro>
+    <Mensaje>La ciudad fue registrada correctamente</Mensaje>
+    <Titulo>Agregar Ciudad</Titulo>
+  </MensajeCiudadConfirmacionRegistro>
+  
+</mensajes>

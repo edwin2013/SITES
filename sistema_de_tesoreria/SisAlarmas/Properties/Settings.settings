@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SisAlarmas.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UsuarioBD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UsuarioST</Value>
+    </Setting>
+    <Setting Name="PassBD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Credomatic</Value>
+    </Setting>
+    <Setting Name="BaseDatos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SISTEMA TESORERIA</Value>
+    </Setting>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BCOCURTESOP1M04\ASGARD</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

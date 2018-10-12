@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EAF589B1-60BD-42C9-B4B9-EE14FC71FB25}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CommonObjects</RootNamespace>
+    <AssemblyName>CommonObjects</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Archivos.cs" />
+    <Compile Include="Clases\Arqueo.cs" />
+    <Compile Include="Clases\AsignacionEquipo.cs" />
+    <Compile Include="Clases\ATM.cs" />
+    <Compile Include="Clases\BilleteFalso.cs" />
+    <Compile Include="Clases\BilletesContadosVolumenAlto.cs" />
+    <Compile Include="Clases\BilletesRechazadosAltoVolumen.cs" />
+    <Compile Include="Clases\BoletaCajeroNiquel.cs" />
+    <Compile Include="Clases\BoletaMesaNiquel.cs" />
+    <Compile Include="Clases\Bolsa.cs" />
+    <Compile Include="Clases\BolsaBanco.cs" />
+    <Compile Include="Clases\BolsaCargaBanco.cs" />
+    <Compile Include="Clases\BolsaCompletaNiquel.cs" />
+    <Compile Include="Clases\BolsaMontoPedidoBanco.cs" />
+    <Compile Include="Clases\BolsaMontoPedidoNiquel.cs" />
+    <Compile Include="Clases\BolsaMontosSucursales.cs" />
+    <Compile Include="Clases\BolsaMontosTransportadora.cs" />
+    <Compile Include="Clases\BolsaNiquel.cs" />
+    <Compile Include="Clases\BolsaTransportadora.cs" />
+    <Compile Include="Clases\Caja.cs" />
+    <Compile Include="Clases\CalidadBilletes.cs" />
+    <Compile Include="Clases\Camara.cs" />
+    <Compile Include="Clases\Canal.cs" />
+    <Compile Include="Clases\CantidadMonedasBolsaNiquel.cs" />
+    <Compile Include="Clases\Carga.cs" />
+    <Compile Include="Clases\CargaATM.cs" />
+    <Compile Include="Clases\CargaEmergencia.cs" />
+    <Compile Include="Clases\CargaEmergenciaATM.cs" />
+    <Compile Include="Clases\CargaEmergenciaATMFull.cs" />
+    <Compile Include="Clases\CargaEmergenciaSucursal.cs" />
+    <Compile Include="Clases\CargaSucursal.cs" />
+    <Compile Include="Clases\CargaTransportadora.cs" />
+    <Compile Include="Clases\Cartucho.cs" />
+    <Compile Include="Clases\CartuchoCargaATM.cs" />
+    <Compile Include="Clases\CartuchoCargaSucursal.cs" />
+    <Compile Include="Clases\CartuchoCargaTransportadora.cs" />
+    <Compile Include="Clases\CartuchosNiquel.cs" />
+    <Compile Include="Clases\CategoriaFacturacionTransportadora.cs" />
+    <Compile Include="Clases\CausaGestion.cs" />
+    <Compile Include="Clases\Cheque.cs" />
+    <Compile Include="Clases\ChequeDeposito.cs" />
+    <Compile Include="Clases\ChequesProcesados.cs" />
+    <Compile Include="Clases\CierreATMs.cs" />
+    <Compile Include="Clases\CierreBovedaCajero.cs" />
+    <Compile Include="Clases\CierreCajeroPROA.cs" />
+    <Compile Include="Clases\CierreCargaBanco.cs" />
+    <Compile Include="Clases\CierreCargasATMs.cs" />
+    <Compile Include="Clases\CierreCargaSucursal.cs" />
+    <Compile Include="Clases\CierreCargaTransportadora.cs" />
+    <Compile Include="Clases\CierreCEF.cs" />
+    <Compile Include="Clases\CierreDescargasATMs.cs" />
+    <Compile Include="Clases\CierreNiquel.cs" />
+    <Compile Include="Clases\Ciudad.cs" />
+    <Compile Include="Clases\Cliente.cs" />
+    <Compile Include="Clases\Colaborador.cs" />
+    <Compile Include="Clases\ColaCierre.cs" />
+    <Compile Include="Clases\Comision.cs" />
+    <Compile Include="Clases\CompraVenta.cs" />
+    <Compile Include="Clases\ContadorDescargaATM.cs" />
+    <Compile Include="Clases\ContadorDescargaATMFull.cs" />
+    <Compile Include="Clases\ConteoBillete.cs" />
+    <Compile Include="Clases\ConteoNiquel.cs" />
+    <Compile Include="Clases\Correo.cs" />
+    <Compile Include="Clases\CorteCheque.cs" />
+    <Compile Include="Clases\CuadreDeposito.cs" />
+    <Compile Include="Clases\Cuenta.cs" />
+    <Compile Include="Clases\Denominacion.cs" />
+    <Compile Include="Clases\DenominacionArqueo.cs" />
+    <Compile Include="Clases\Deposito.cs" />
+    <Compile Include="Clases\DepositoAcreditacion.cs" />
+    <Compile Include="Clases\DescargaATM.cs" />
+    <Compile Include="Clases\DescargaATMFull.cs" />
+    <Compile Include="Clases\DetalleDescargaATM.cs" />
+    <Compile Include="Clases\DetalleDescargaATMFull.cs" />
+    <Compile Include="Clases\DetalleFalla.cs" />
+    <Compile Include="Clases\DiaFeriado.cs" />
+    <Compile Include="Clases\Dispositivo.cs" />
+    <Compile Include="Clases\EmpresaTransporte.cs" />
+    <Compile Include="Clases\Equipo.cs" />
+    <Compile Include="Clases\EquipoTesoreria.cs" />
+    <Compile Include="Clases\Espera.cs" />
+    <Compile Include="Clases\EsquemaManifiesto.cs" />
+    <Compile Include="Clases\EstadoCartucho.cs" />
+    <Compile Include="Clases\FacturacionProcesamiento.cs" />
+    <Compile Include="Clases\FacturacionTransportadora.cs" />
+    <Compile Include="Clases\Falla.cs" />
+    <Compile Include="Clases\FallaCartucho.cs" />
+    <Compile Include="Clases\Feriado.cs" />
+    <Compile Include="Clases\FichaTecnica.cs" />
+    <Compile Include="Clases\Formula.cs" />
+    <Compile Include="Clases\GarantiaCartucho.cs" />
+    <Compile Include="Clases\Gaveta.cs" />
+    <Compile Include="Clases\Gestion.cs" />
+    <Compile Include="Clases\Graficos\Grafico.cs" />
+    <Compile Include="Clases\Graficos\GraficoBarra.cs" />
+    <Compile Include="Clases\Graficos\GraficoBarraLinea.cs" />
+    <Compile Include="Clases\Graficos\GraficoBoxPlot.cs" />
+    <Compile Include="Clases\Graficos\GraficoHistograma.cs" />
+    <Compile Include="Clases\Graficos\GraficoPie.cs" />
+    <Compile Include="Clases\Grupo.cs" />
+    <Compile Include="Clases\InconsistenciaDeposito.cs" />
+    <Compile Include="Clases\InconsistenciaDepositoBajoVolumen.cs" />
+    <Compile Include="Clases\InconsistenciaDescargaATM.cs" />
+    <Compile Include="Clases\InconsistenciaDigitador.cs" />
+    <Compile Include="Clases\InconsistenciaFacturacion.cs" />
+    <Compile Include="Clases\InconsistenciaManifiestoCEF.cs" />
+    <Compile Include="Clases\InconsistenciaPlanilla.cs" />
+    <Compile Include="Clases\Inventario.cs" />
+    <Compile Include="Clases\LibroMayor.cs" />
+    <Compile Include="Clases\LimiteEfectivo.cs" />
+    <Compile Include="Clases\ManfiestoTransportadoraCarga.cs" />
+    <Compile Include="Clases\Manifiesto.cs" />
+    <Compile Include="Clases\ManifiestoATM.cs" />
+    <Compile Include="Clases\ManifiestoATMCarga.cs" />
+    <Compile Include="Clases\ManifiestoATMFull.cs" />
+    <Compile Include="Clases\ManifiestoBanco.cs" />
+    <Compile Include="Clases\ManifiestoBoveda.cs" />
+    <Compile Include="Clases\ManifiestoCEF.cs" />
+    <Compile Include="Clases\ManifiestoColaborador.cs" />
+    <Compile Include="Clases\ManifiestoNiquel.cs" />
+    <Compile Include="Clases\ManifiestoNiquelPedido.cs" />
+    <Compile Include="Clases\ManifiestoPedidoBanco.cs" />
+    <Compile Include="Clases\ManifiestoSucursal.cs" />
+    <Compile Include="Clases\ManifiestoSucursalCarga.cs" />
+    <Compile Include="Clases\ManifiestoTransportadora.cs" />
+    <Compile Include="Clases\Manojo.cs" />
+    <Compile Include="Clases\MaximasCantidades.cs" />
+    <Compile Include="Clases\MontoCierreATMs.cs" />
+    <Compile Include="Clases\MontoCierreSucursal.cs" />
+    <Compile Include="Clases\MontoDescargaATMFull.cs" />
+    <Compile Include="Clases\MontoRemanenteATM.cs" />
+    <Compile Include="Clases\MontosRecaptFinal.cs" />
+    <Compile Include="Clases\MontosRecaptPreliminar.cs" />
+    <Compile Include="Clases\MontosRetirosATM.cs" />
+    <Compile Include="Clases\MovimientoATM.cs" />
+    <Compile Include="Clases\MovimientoBanco.cs" />
+    <Compile Include="Clases\MovimientoDeposito.cs" />
+    <Compile Include="Clases\MovimientoNiquel.cs" />
+    <Compile Include="Clases\MovimientoSucursal.cs" />
+    <Compile Include="Clases\MovimientoTransportadora.cs" />
+    <Compile Include="Clases\Mutilado.cs" />
+    <Compile Include="Clases\NivelServicio.cs" />
+    <Compile Include="Clases\NivelTipoPenalidad.cs" />
+    <Compile Include="Clases\NombreJuridico.cs" />
+    <Compile Include="Clases\Opcion.cs" />
+    <Compile Include="Clases\PedidoBancos.cs" />
+    <Compile Include="Clases\PedidoNiquel.cs" />
+    <Compile Include="Clases\Penalidad.cs" />
+    <Compile Include="Clases\Perfil.cs" />
+    <Compile Include="Clases\Planilla.cs" />
+    <Compile Include="Clases\PlanillaCEF.cs" />
+    <Compile Include="Clases\PosicionEsquema.cs" />
+    <Compile Include="Clases\ProcesamientoAltoVolumen.cs" />
+    <Compile Include="Clases\ProcesamientoAltoVolumenDetalle.cs" />
+    <Compile Include="Clases\ProcesamientoBajoVolumen.cs" />
+    <Compile Include="Clases\ProcesamientoBajoVolumenDeposito.cs" />
+    <Compile Include="Clases\ProcesamientoBajoVolumenManifiesto.cs" />
+    <Compile Include="Clases\ProcesamientoNiquel.cs" />
+    <Compile Include="Clases\PromedioDescargaATM.cs" />
+    <Compile Include="Clases\PromedioRemanenteATM.cs" />
+    <Compile Include="Clases\ProveedorCartucho.cs" />
+    <Compile Include="Clases\ProveedorEquipo.cs" />
+    <Compile Include="Clases\PuestoColaborador.cs" />
+    <Compile Include="Clases\PuntoAtencion.cs" />
+    <Compile Include="Clases\PuntoVenta.cs" />
+    <Compile Include="Clases\Recap.cs" />
+    <Compile Include="Clases\RecapExterno.cs" />
+    <Compile Include="Clases\RecaptFinal.cs" />
+    <Compile Include="Clases\RecaptPreliminar.cs" />
+    <Compile Include="Clases\RecepcionCartucho.cs" />
+    <Compile Include="Clases\RecepcionEntregaCargaATM.cs" />
+    <Compile Include="Clases\RecepcionEntregaCargas.cs" />
+    <Compile Include="Clases\RecepcionEntregaCargaSucursal.cs" />
+    <Compile Include="Clases\RecepcionEntregaPedidoBanco.cs" />
+    <Compile Include="Clases\RechazoDescargaATM.cs" />
+    <Compile Include="Clases\RegistroDenominacionesCierre.cs" />
+    <Compile Include="Clases\RegistroErrorCierreCajero.cs" />
+    <Compile Include="Clases\RegistroHorasExtra.cs" />
+    <Compile Include="Clases\RegistroInconsistenciaFacturacion.cs" />
+    <Compile Include="Clases\RegistroPenalidad.cs" />
+    <Compile Include="Clases\RegistroRemanentesATM.cs" />
+    <Compile Include="Clases\Reportes\BoletaMesaEntregaNiquel.cs" />
+    <Compile Include="Clases\Reportes\CartuchoMutilado.cs" />
+    <Compile Include="Clases\Reportes\CategoriaReporte.cs" />
+    <Compile Include="Clases\Reportes\ColumnaReporte.cs" />
+    <Compile Include="Clases\Reportes\MovimientoMutilado.cs" />
+    <Compile Include="Clases\Reportes\Parametro.cs" />
+    <Compile Include="Clases\Reportes\Reporte.cs" />
+    <Compile Include="Clases\RequerimientoMantenimiento.cs" />
+    <Compile Include="Clases\ResumenFacturacionCliente.cs" />
+    <Compile Include="Clases\RevisionFinalPortavalor.cs" />
+    <Compile Include="Clases\RevisionVehiculo.cs" />
+    <Compile Include="Clases\SaldoLibroNiquel.cs" />
+    <Compile Include="Clases\SaldoLibroBoveda.cs" />
+    <Compile Include="Clases\SalidaNiquel.cs" />
+    <Compile Include="Clases\SegregadoCEF.cs" />
+    <Compile Include="Clases\Sobre.cs" />
+    <Compile Include="Clases\Sucursal.cs" />
+    <Compile Include="Clases\TarifaPuntoVentaTransportadora.cs" />
+    <Compile Include="Clases\TarifasPlanilla.cs" />
+    <Compile Include="Clases\Telefono.cs" />
+    <Compile Include="Clases\TipoCambio.cs" />
+    <Compile Include="Clases\TipoEquipo.cs" />
+    <Compile Include="Clases\TipoErrorCierreCajero.cs" />
+    <Compile Include="Clases\TipoFallasBlindados.cs" />
+    <Compile Include="Clases\TipoGestion.cs" />
+    <Compile Include="Clases\TipoPenalidad.cs" />
+    <Compile Include="Clases\TrialDescargaATM.cs" />
+    <Compile Include="Clases\Tripulacion.cs" />
+    <Compile Include="Clases\Tula.cs" />
+    <Compile Include="Clases\TulaNiquel.cs" />
+    <Compile Include="Clases\Ubicacion.cs" />
+    <Compile Include="Clases\ValidacionAltoVolumen.cs" />
+    <Compile Include="Clases\Valor.cs" />
+    <Compile Include="Clases\Vehiculo.cs" />
+    <Compile Include="Clases\_cartuchos_colones.cs" />
+    <Compile Include="Clases\MontoDeposito.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibreriaAccesoDatos\LibreriaAccesoDatos.csproj">
+      <Project>{36D41F2A-8C87-41A9-8631-3A9CF05B2B05}</Project>
+      <Name>LibreriaAccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibreriaMensajes\LibreriaMensajes.csproj">
+      <Project>{E67947FE-29BA-4E90-9D88-444316C743E4}</Project>
+      <Name>LibreriaMensajes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>R:\Saved Games\PROA Publicaciones\Pase SITES Abril 2018b\|R:\Saved Games\PROA Publicaciones\Pase SITES Abril 2018\|R:\Saved Games\PROA Publicaciones\Pase SITES Enero 2018\|R:\Saved Games\Yolanda Mora\SCRIPT BD SITES II PASE\Publicacion PROA\|R:\Saved Games\Yolanda Mora\SCRIPT BD SITES II PASE\Publicacion Sites\</PublishUrlHistory>
+    <InstallUrlHistory>\\10.122.3.125\SiTesApp\|\\10.120.131.100\Releases\SiTes\Prueba\|\\bcocurtesop1m04\Releases\SiTes\Prueba\|\\bcocurtesop1m04\Releases\SiTes\Prueba 2\|\\10.120.131.100\Releases\SiTes\PruebaTodos\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

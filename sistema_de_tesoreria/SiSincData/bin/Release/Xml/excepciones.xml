@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<errores>
+
+  <ErrorConexionAS400Datos>
+    <Mensaje>Para la conexión con AS400 debe escribir su nombre de usuario y contraseña</Mensaje>
+    <Titulo>Conexión con AS400</Titulo>
+  </ErrorConexionAS400Datos>
+
+  <ErrorConexionAS400>
+    <Mensaje>Hubo un error al conectarse con AS400,
+revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Conexión con AS400</Titulo>
+  </ErrorConexionAS400>
+
+  <ErrorDatosConexion>
+    <Mensaje>Hubo un error al conectarse con la base de datos SQL,
+revise que su computadora este conectada a la red
+    </Mensaje>
+    <Titulo>Error en la Conexión con la Base de Datos</Titulo>
+  </ErrorDatosConexion>
+  
+</errores>
